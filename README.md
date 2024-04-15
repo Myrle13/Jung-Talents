@@ -4,14 +4,14 @@ This include 3 tasks for different skills including SQL, Tableau, Python.
 This load is a multi-step process, firstly identifying valid securites, then uploading attributes for these, and then answering questions provided by the client. Securities may not be valid for numerous reasons such as no longer being traded on an exchange, and we are unable to load these securities. 
 
 * Loading Securities into the platform (30%)
-- To load the securities into the platform you need the following identifiers: MIC, QUEUESIP, Symbol, RequestId where one of QUEUESIP or Symbol must be populated. 
-- The client wants to minimise the number of null values in QUEUESIP and Symbol.
-- Provide us with your generated upload in a csv format, named {firstName}_{lastName}_section1.csv.
-*Uploading Attributes (25%)
-_ The attributes the client want are "Asset Class", "Inception Date", "Exchange Name", "Exchange Location", "Security Name", "Strong Oak Identifier", and "Return Since Inception". T
-- The EulerId should correspond to the values generated from the first response.
-- Exchange location should be given as the combination of Exchange Country and City (i.e. {country} - {city}).
-- Provide us with your generated upload in a csv format, named {firstName}_{lastName}_section2.csv.
++ To load the securities into the platform you need the following identifiers: MIC, QUEUESIP, Symbol, RequestId where one of QUEUESIP or Symbol must be populated. 
++ The client wants to minimise the number of null values in QUEUESIP and Symbol.
++ Provide us with your generated upload in a csv format, named {firstName}_{lastName}_section1.csv.
+* Uploading Attributes (25%)
++ The attributes the client want are "Asset Class", "Inception Date", "Exchange Name", "Exchange Location", "Security Name", "Strong Oak Identifier", and "Return Since Inception". T
++ The EulerId should correspond to the values generated from the first response.
++ Exchange location should be given as the combination of Exchange Country and City (i.e. {country} - {city}).
++ Provide us with your generated upload in a csv format, named {firstName}_{lastName}_section2.csv.
 ## Part 2: SQL & Power BI
 1. Percentage Distribution
 Total Sales by Product Category and the contribution against total sales.
