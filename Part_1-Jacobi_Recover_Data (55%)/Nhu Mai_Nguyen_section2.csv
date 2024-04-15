@@ -1,0 +1,4057 @@
+,EuclerId,Attribute Name,Attribute Value
+0,1,Asset Class,ETF
+1,1,Exchange location,South Africa-Johannesburg
+2,1,Exchange name,Johannesburg Stock Exchange
+3,1,Return Since Inception,0.0237778722972586
+4,1,Inception Date,2011-12-05
+5,1,Security Name,SPDR Barclays 0-5 Year TIPS ETF
+6,2,Inception Date,2020-07-08
+7,2,Return Since Inception,
+8,2,Exchange location,South Africa-Johannesburg
+9,2,Asset Class,Domestic Equity
+10,2,Security Name,Petroleo Brasileiro S.A.- Petrobras American Depositary Shares
+11,2,Exchange name,Johannesburg Stock Exchange
+12,3,Security Name,iShares Government/Credit Bond ETF
+13,3,Inception Date,2012-07-15
+14,3,Return Since Inception,0.2973419320348058
+15,3,Exchange location,South Africa-Johannesburg
+16,3,Asset Class,ETF
+17,3,Exchange name,Johannesburg Stock Exchange
+18,4,Inception Date,
+19,4,Return Since Inception,-0.0925090430766811
+20,4,Security Name,General Dynamics Corporation Common Stock
+21,4,Exchange name,Johannesburg Stock Exchange
+22,4,Asset Class,Domestic Equity
+23,4,Exchange location,South Africa-Johannesburg
+24,5,Security Name,Nuveen New York AMT-Free Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01
+25,5,Exchange location,South Africa-Johannesburg
+26,5,Asset Class,
+27,5,Return Since Inception,0.0088696831458385
+28,5,Inception Date,2023-01-22
+29,5,Exchange name,Johannesburg Stock Exchange
+30,6,Exchange name,Johannesburg Stock Exchange
+31,6,Security Name,W.P. Carey Inc. REIT
+32,6,Asset Class,Domestic Equity
+33,6,Exchange location,South Africa-Johannesburg
+34,6,Return Since Inception,0.1493348213352764
+35,6,Inception Date,2013-08-26
+36,7,Security Name,"GAIN Capital Holdings, Inc. Common Stock"
+37,7,Inception Date,2020-10-19
+38,7,Asset Class,International Equity
+39,7,Return Since Inception,
+40,7,Exchange location,South Africa-Johannesburg
+41,7,Exchange name,Johannesburg Stock Exchange
+42,8,Return Since Inception,0.0285414288375096
+43,8,Exchange location,South Africa-Johannesburg
+44,8,Asset Class,Domestic Equity
+45,8,Security Name,Ur Energy Inc Common Shares (Canada)
+46,8,Exchange name,Johannesburg Stock Exchange
+47,8,Inception Date,2014-05-25
+48,9,Exchange location,South Africa-Johannesburg
+49,9,Security Name,"Leju Holdings Limited American Depositary Shares, each representing one Ordinary share"
+50,9,Exchange name,Johannesburg Stock Exchange
+51,9,Inception Date,
+52,9,Return Since Inception,-0.1627166119214013
+53,9,Asset Class,International Equity
+54,10,Exchange name,Johannesburg Stock Exchange
+55,10,Inception Date,2017-06-27
+56,10,Security Name,Vanguard S&P Small-Cap 600 ETF
+57,10,Return Since Inception,-0.2847165218736724
+58,10,Exchange location,South Africa-Johannesburg
+59,10,Asset Class,ETF
+60,11,Security Name,Ashland Inc. (NEW) Common Stock
+61,11,Return Since Inception,
+62,11,Asset Class,International Equity
+63,11,Exchange name,Johannesburg Stock Exchange
+64,11,Exchange location,South Africa-Johannesburg
+65,11,Inception Date,2003-12-01
+66,12,Exchange name,Johannesburg Stock Exchange
+67,12,Asset Class,
+68,12,Exchange location,South Africa-Johannesburg
+69,12,Return Since Inception,-0.2059841569397476
+70,12,Inception Date,2011-10-14
+71,12,Security Name,First Trust Large Cap Core AlphaDEX
+72,13,Exchange name,Johannesburg Stock Exchange
+73,13,Asset Class,Domestic Equity
+74,13,Return Since Inception,-0.1321517583943263
+75,13,Exchange location,South Africa-Johannesburg
+76,13,Inception Date,2020-09-30
+77,13,Security Name,TravelCenters of America LLC 8.25% Senior Notes due 2028
+78,14,Security Name,SPDR SSgA Multi Asset Real Return ETF
+79,14,Asset Class,ETF
+80,14,Inception Date,
+81,14,Return Since Inception,0.2723476800660775
+82,14,Exchange name,Johannesburg Stock Exchange
+83,14,Exchange location,South Africa-Johannesburg
+84,15,Exchange name,New York Stock Exchange
+85,15,Exchange location,United States-New York City
+86,15,Inception Date,2000-07-09
+87,15,Asset Class,ETF
+88,15,Return Since Inception,-0.0273741796999029
+89,15,Security Name,iShares MSCI Singapore Index Fund
+90,16,Return Since Inception,0.1724587430949746
+91,16,Inception Date,2010-08-06
+92,16,Asset Class,International Equity
+93,16,Exchange location,United States-New York City
+94,16,Exchange name,New York Stock Exchange
+95,16,Security Name,Polymet Mining Corporation Ordinary Shares (Canada)
+96,17,Inception Date,2009-12-18
+97,17,Exchange name,New York Stock Exchange
+98,17,Exchange location,United States-New York City
+99,17,Security Name,First Trust Materials AlphaDEX Fund
+100,17,Asset Class,ETF
+101,17,Return Since Inception,-0.1003066912371551
+102,18,Inception Date,
+103,18,Exchange location,United States-New York City
+104,18,Security Name,First Trust North American Energy Infrastructure Fund
+105,18,Return Since Inception,-0.1556179055392718
+106,18,Exchange name,New York Stock Exchange
+107,18,Asset Class,ETF
+108,19,Exchange location,United States-New York City
+109,19,Return Since Inception,0.1163057749811546
+110,19,Asset Class,
+111,19,Security Name,Direxion Daily Russia Bear 3x Shares
+112,19,Exchange name,New York Stock Exchange
+113,19,Inception Date,2000-05-12
+114,20,Asset Class,Domestic Equity
+115,20,Exchange name,New York Stock Exchange
+116,20,Return Since Inception,-0.0248630856123729
+117,20,Inception Date,2005-12-22
+118,20,Security Name,"Colony Financial, Inc Common Stock"
+119,20,Exchange location,United States-New York City
+120,21,Exchange name,New York Stock Exchange
+121,21,Return Since Inception,-0.3357875694119924
+122,21,Security Name,Global X China Industrials ETF
+123,21,Asset Class,ETF
+124,21,Inception Date,
+125,21,Exchange location,United States-New York City
+126,22,Exchange name,New York Stock Exchange
+127,22,Asset Class,Domestic Equity
+128,22,Return Since Inception,-0.2571395590706916
+129,22,Inception Date,2004-08-28
+130,22,Exchange location,United States-New York City
+131,22,Security Name,iPath Short Enhanced MSCI Emerging Markets Index ETN
+132,23,Exchange name,New York Stock Exchange
+133,23,Inception Date,2021-07-20
+134,23,Return Since Inception,0.0682242053013889
+135,23,Security Name,"Mastech Holdings, Inc Common Stock"
+136,23,Exchange location,United States-New York City
+137,23,Asset Class,International Equity
+138,24,Security Name,AllianceBernstein National Municipal Income Fund Inc
+139,24,Asset Class,International Equity
+140,24,Return Since Inception,0.5461977598737899
+141,24,Exchange name,New York Stock Exchange
+142,24,Exchange location,United States-New York City
+143,24,Inception Date,2007-01-11
+144,25,Asset Class,ETF
+145,25,Security Name,ProShares UltraShort MSCI Mexico Capped IMI
+146,25,Return Since Inception,0.0342948343822424
+147,25,Inception Date,2004-10-15
+148,25,Exchange name,New York Stock Exchange
+149,25,Exchange location,United States-New York City
+150,26,Inception Date,2014-03-27
+151,26,Return Since Inception,-0.0348291768544019
+152,26,Asset Class,
+153,26,Exchange name,New York Stock Exchange
+154,26,Security Name,Sonoco Products Company Common Stock
+155,26,Exchange location,United States-New York City
+156,27,Asset Class,International Equity
+157,27,Security Name,Western Asset Mortgage Capital Corporation Common Stock
+158,27,Inception Date,2010-05-30
+159,27,Exchange location,United States-New York City
+160,27,Return Since Inception,0.0184238652173712
+161,27,Exchange name,New York Stock Exchange
+162,28,Asset Class,ETF
+163,28,Inception Date,2005-08-23
+164,28,Exchange location,United States-New York City
+165,28,Security Name,iShares iBonds Sep 2018 AMT-Free Bond Term
+166,28,Return Since Inception,-0.1376645223587138
+167,28,Exchange name,New York Stock Exchange
+168,29,Asset Class,Domestic Equity
+169,29,Exchange location,United States-New York City
+170,29,Inception Date,2009-08-22
+171,29,Security Name,Allstate Corporation (The) Common Stock
+172,29,Exchange name,New York Stock Exchange
+173,29,Return Since Inception,-0.2509937029539134
+174,30,Exchange name,New York Stock Exchange
+175,30,Exchange location,United States-New York City
+176,30,Inception Date,2007-06-28
+177,30,Return Since Inception,-0.1606059691266809
+178,30,Asset Class,International Equity
+179,30,Security Name,"Blackrock MuniYield California Quality Fund, Inc. Common Stock"
+180,31,Exchange location,United States-New York City
+181,31,Security Name,Tsakos Energy Navigation Ltd Red Perp Pfd Ser B% (Bermuda)
+182,31,Return Since Inception,0.1703458277759713
+183,31,Asset Class,Domestic Equity
+184,31,Inception Date,2020-04-21
+185,31,Exchange name,New York Stock Exchange
+186,32,Exchange location,United States-New York City
+187,32,Exchange name,New York Stock Exchange
+188,32,Inception Date,2018-08-08
+189,32,Asset Class,Domestic Equity
+190,32,Return Since Inception,-0.1390225962165506
+191,32,Security Name,Public Storage Depositary Shares Representing 1/1000% Cumulative Pfd Sh Ben Int Series O
+192,33,Security Name,"GSE Systems, Inc. Common Stock"
+193,33,Asset Class,International Equity
+194,33,Exchange name,New York Stock Exchange
+195,33,Return Since Inception,0.0989780998776601
+196,33,Exchange location,United States-New York City
+197,33,Inception Date,2000-04-22
+198,34,Exchange name,New York Stock Exchange
+199,34,Return Since Inception,0.1975113550025404
+200,34,Inception Date,2019-12-12
+201,34,Asset Class,ETF
+202,34,Exchange location,United States-New York City
+203,34,Security Name,PowerShares XTF: Dynamic Market Portfolio
+204,35,Asset Class,International Equity
+205,35,Inception Date,2021-05-15
+206,35,Security Name,Brady Corporation Common Stock
+207,35,Return Since Inception,-0.2570525039344067
+208,35,Exchange location,United States-New York City
+209,35,Exchange name,New York Stock Exchange
+210,36,Exchange name,New York Stock Exchange
+211,36,Asset Class,
+212,36,Return Since Inception,0.0102942518725923
+213,36,Security Name,"Sonic Automotive, Inc. Common Stock"
+214,36,Exchange location,United States-New York City
+215,36,Inception Date,2018-02-26
+216,37,Exchange name,New York Stock Exchange
+217,37,Asset Class,ETF
+218,37,Inception Date,
+219,37,Return Since Inception,-0.0285967639900016
+220,37,Security Name,QuantShares U.S. Market Neutral Size Fund ETF
+221,37,Exchange location,United States-New York City
+222,38,Security Name,"EOG Resources, Inc. Common Stock"
+223,38,Return Since Inception,0.1058011583543024
+224,38,Exchange location,United States-New York City
+225,38,Asset Class,International Equity
+226,38,Exchange name,New York Stock Exchange
+227,38,Inception Date,
+228,39,Security Name,iPath Inverse S&P 500 VIX Short-Term Futures ETN
+229,39,Asset Class,International Equity
+230,39,Inception Date,2011-10-15
+231,39,Exchange name,New York Stock Exchange
+232,39,Return Since Inception,0.2494901733332114
+233,39,Exchange location,United States-New York City
+234,40,Exchange name,New York Stock Exchange
+235,40,Return Since Inception,-0.0001303653310158
+236,40,Security Name,Adams Express Company (The)
+237,40,Asset Class,Domestic Equity
+238,40,Exchange location,United States-New York City
+239,40,Inception Date,2011-12-28
+240,41,Return Since Inception,0.2902320882559989
+241,41,Asset Class,International Equity
+242,41,Inception Date,2022-02-08
+243,41,Security Name,VALE S.A.
+244,41,Exchange location,United States-New York City
+245,41,Exchange name,New York Stock Exchange
+246,42,Inception Date,2020-08-21
+247,42,Asset Class,Domestic Equity
+248,42,Return Since Inception,-0.0653761767437195
+249,42,Exchange name,New York Stock Exchange
+250,42,Security Name,American Equity Investment Life Holding Company Common Stock
+251,42,Exchange location,United States-New York City
+252,43,Asset Class,Domestic Equity
+253,43,Security Name,American Shared Hospital Services Common Stock
+254,43,Inception Date,2016-09-16
+255,43,Exchange name,New York Stock Exchange
+256,43,Return Since Inception,0.4715398631246959
+257,43,Exchange location,United States-New York City
+258,44,Inception Date,2002-11-05
+259,44,Exchange name,New York Stock Exchange
+260,44,Return Since Inception,-0.2519543810341601
+261,44,Exchange location,United States-New York City
+262,44,Asset Class,
+263,44,Security Name,"Yuma Energy, Inc."
+264,45,Exchange name,New York Stock Exchange
+265,45,Security Name,PowerShares Fundamental Pure Mid Value Portfolio
+266,45,Asset Class,ETF
+267,45,Inception Date,2009-03-28
+268,45,Exchange location,United States-New York City
+269,45,Return Since Inception,0.1260231177559558
+270,46,Exchange name,New York Stock Exchange
+271,46,Security Name,"Validus Holdings, Ltd. Common Shares"
+272,46,Inception Date,2000-09-07
+273,46,Asset Class,International Equity
+274,46,Exchange location,United States-New York City
+275,46,Return Since Inception,0.0440048754771274
+276,47,Asset Class,Domestic Equity
+277,47,Security Name,"AutoZone, Inc. Common Stock"
+278,47,Exchange name,New York Stock Exchange
+279,47,Exchange location,United States-New York City
+280,47,Inception Date,2016-09-13
+281,47,Return Since Inception,0.3897376453996365
+282,48,Asset Class,ETF
+283,48,Security Name,FlexShares International Quality Dividend Index Fund
+284,48,Exchange name,New York Stock Exchange
+285,48,Exchange location,United States-New York City
+286,48,Inception Date,2000-12-12
+287,48,Return Since Inception,0.2736049003004122
+288,49,Exchange name,New York Stock Exchange
+289,49,Exchange location,United States-New York City
+290,49,Security Name,"Nuveen New York Performance Plus Municipal Fund, Inc. Common Stock"
+291,49,Return Since Inception,0.2521539971494458
+292,49,Inception Date,
+293,49,Asset Class,Domestic Equity
+294,50,Inception Date,2000-07-18
+295,50,Asset Class,Domestic Equity
+296,50,Exchange location,United States-New York City
+297,50,Security Name,"KAR Auction Services, Inc Common Stock"
+298,50,Return Since Inception,
+299,50,Exchange name,New York Stock Exchange
+300,51,Exchange location,United States-New York City
+301,51,Security Name,"Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of 6.375% Non-Cumulative Preferred Stock, Series 3)"
+302,51,Return Since Inception,0.320106876825654
+303,51,Inception Date,2009-08-15
+304,51,Asset Class,Domestic Equity
+305,51,Exchange name,New York Stock Exchange
+306,52,Security Name,iShares U.S. Home Construction ETF
+307,52,Inception Date,2021-01-13
+308,52,Return Since Inception,0.1517905193421989
+309,52,Exchange location,United States-New York City
+310,52,Exchange name,New York Stock Exchange
+311,52,Asset Class,ETF
+312,53,Return Since Inception,-0.1134900533724494
+313,53,Asset Class,Domestic Equity
+314,53,Exchange location,United States-New York City
+315,53,Security Name,Kadant Inc Common Stock
+316,53,Inception Date,2001-01-26
+317,53,Exchange name,New York Stock Exchange
+318,54,Exchange name,New York Stock Exchange
+319,54,Security Name,"WageWorks, Inc. Common Stock $0.001 par value"
+320,54,Inception Date,2007-05-18
+321,54,Return Since Inception,-0.1523082689321316
+322,54,Exchange location,United States-New York City
+323,54,Asset Class,International Equity
+324,55,Inception Date,2016-03-24
+325,55,Asset Class,International Equity
+326,55,Security Name,"Harley-Davidson, Inc. Common Stock"
+327,55,Exchange location,United States-New York City
+328,55,Exchange name,New York Stock Exchange
+329,55,Return Since Inception,0.0307942354227117
+330,56,Asset Class,International Equity
+331,56,Security Name,"Empire State Realty Trust, Inc. Class A Common Stock"
+332,56,Inception Date,2019-02-22
+333,56,Exchange location,United States-New York City
+334,56,Exchange name,New York Stock Exchange
+335,56,Return Since Inception,-0.1610166799777304
+336,57,Security Name,KapStone Paper and Packaging Corporation Common Stock
+337,57,Inception Date,2005-07-06
+338,57,Exchange name,New York Stock Exchange
+339,57,Exchange location,United States-New York City
+340,57,Asset Class,International Equity
+341,57,Return Since Inception,-0.0057523476577018
+342,58,Security Name,"B&G Foods, Inc. B&G Foods, Inc. Common Stock"
+343,58,Exchange name,New York Stock Exchange
+344,58,Exchange location,United States-New York City
+345,58,Asset Class,International Equity
+346,58,Return Since Inception,-0.396223313746307
+347,58,Inception Date,2015-10-24
+348,59,Asset Class,International Equity
+349,59,Exchange name,New York Stock Exchange
+350,59,Inception Date,2011-05-22
+351,59,Security Name,"American Assets Trust, Inc. Common Stock"
+352,59,Exchange location,United States-New York City
+353,59,Return Since Inception,0.1108803958578657
+354,60,Exchange location,United States-New York City
+355,60,Return Since Inception,0.0318223264543815
+356,60,Security Name,Capital One Financial Corp Depository Shares Representing 1/40th Interest Perpetual Preferred Series D
+357,60,Exchange name,New York Stock Exchange
+358,60,Asset Class,Domestic Equity
+359,60,Inception Date,2010-03-08
+360,61,Exchange name,New York Stock Exchange
+361,61,Exchange location,United States-New York City
+362,61,Return Since Inception,0.0021779240621393
+363,61,Asset Class,International Equity
+364,61,Security Name,"NVR, Inc. Common Stock"
+365,61,Inception Date,
+366,62,Exchange location,United States-New York City
+367,62,Return Since Inception,0.0682434390264784
+368,62,Asset Class,Domestic Equity
+369,62,Security Name,"Western Gas Equity Partners, LP Common Units Representing Limited Partner Interests"
+370,62,Inception Date,2015-12-04
+371,62,Exchange name,New York Stock Exchange
+372,63,Asset Class,ETF
+373,63,Inception Date,
+374,63,Security Name,iShares MSCI Russia Capped Index Fund
+375,63,Exchange location,United States-New York City
+376,63,Exchange name,New York Stock Exchange
+377,63,Return Since Inception,0.0592019500934453
+378,64,Exchange name,New York Stock Exchange
+379,64,Asset Class,Domestic Equity
+380,64,Security Name,"Cai International, Inc. Common Stock"
+381,64,Inception Date,2004-03-04
+382,64,Exchange location,United States-New York City
+383,64,Return Since Inception,-0.0555604704429804
+384,65,Inception Date,2019-05-10
+385,65,Security Name,Public Storage DEPOSITARY SHS REPSTG 1/1000TH PFD SHS BEN INT SER Q
+386,65,Return Since Inception,-0.079567996759745
+387,65,Exchange location,United States-New York City
+388,65,Asset Class,Domestic Equity
+389,65,Exchange name,New York Stock Exchange
+390,66,Exchange location,United States-New York City
+391,66,Security Name,Guggenheim S&P 500 Pure Value ETF
+392,66,Exchange name,New York Stock Exchange
+393,66,Asset Class,ETF
+394,66,Return Since Inception,-0.5190049213459285
+395,66,Inception Date,2017-10-28
+396,67,Asset Class,Domestic Equity
+397,67,Security Name,AES Corporation (The) Class C Preferred Stock
+398,67,Return Since Inception,-0.4128902469274879
+399,67,Exchange location,United States-New York City
+400,67,Inception Date,2004-06-20
+401,67,Exchange name,New York Stock Exchange
+402,68,Asset Class,ETF
+403,68,Exchange location,United States-New York City
+404,68,Inception Date,2010-04-10
+405,68,Security Name,iShares Core MSCI Pacific ETF
+406,68,Return Since Inception,0.0349648443145223
+407,68,Exchange name,New York Stock Exchange
+408,69,Exchange location,United States-New York City
+409,69,Return Since Inception,0.143427422467835
+410,69,Exchange name,New York Stock Exchange
+411,69,Security Name,Empresa Nacional de Electricidad S.A. Common Stock
+412,69,Asset Class,International Equity
+413,69,Inception Date,2019-11-19
+414,70,Security Name,Resolute Forest Products Inc. Common Stock
+415,70,Exchange location,United States-New York City
+416,70,Return Since Inception,0.1373205052804714
+417,70,Asset Class,International Equity
+418,70,Exchange name,New York Stock Exchange
+419,70,Inception Date,2018-05-10
+420,71,Inception Date,2012-10-11
+421,71,Exchange location,United States-New York City
+422,71,Security Name,"RE/MAX Holdings, Inc. Class A Common Stock"
+423,71,Return Since Inception,
+424,71,Asset Class,Domestic Equity
+425,71,Exchange name,New York Stock Exchange
+426,72,Inception Date,2005-07-07
+427,72,Security Name,iPath Goldman Sachs iPath GBP/USD Exchange Rate ETN
+428,72,Exchange location,United States-New York City
+429,72,Asset Class,Domestic Equity
+430,72,Return Since Inception,0.3161068616628987
+431,72,Exchange name,New York Stock Exchange
+432,73,Security Name,AEGON N.V. Perp. Cap. Securities (Netherlands)
+433,73,Asset Class,Domestic Equity
+434,73,Exchange name,New York Stock Exchange
+435,73,Exchange location,United States-New York City
+436,73,Return Since Inception,0.2066696367206217
+437,73,Inception Date,2005-02-03
+438,74,Return Since Inception,0.3190504382805896
+439,74,Security Name,Alpine Total Dynamic Dividend Fund Common Stock
+440,74,Asset Class,Domestic Equity
+441,74,Exchange name,New York Stock Exchange
+442,74,Exchange location,United States-New York City
+443,74,Inception Date,2009-06-20
+444,75,Return Since Inception,0.0711262271842267
+445,75,Security Name,iShares Global Telecom ETF
+446,75,Inception Date,
+447,75,Exchange name,New York Stock Exchange
+448,75,Asset Class,ETF
+449,75,Exchange location,United States-New York City
+450,76,Security Name,Transocean Partners LLC Common Units Representing Limited Liability Company Interests
+451,76,Return Since Inception,0.0368040151863834
+452,76,Asset Class,International Equity
+453,76,Inception Date,2022-04-16
+454,76,Exchange name,New York Stock Exchange
+455,76,Exchange location,United States-New York City
+456,77,Exchange name,New York Stock Exchange
+457,77,Exchange location,United States-New York City
+458,77,Inception Date,2017-06-20
+459,77,Asset Class,ETF
+460,77,Security Name,Vanguard S&P Mid-Cap 400 ETF
+461,77,Return Since Inception,-0.4988191401573923
+462,78,Inception Date,
+463,78,Asset Class,Domestic Equity
+464,78,Exchange location,United States-New York City
+465,78,Return Since Inception,0.1019015770944756
+466,78,Exchange name,New York Stock Exchange
+467,78,Security Name,ZAIS Financial Corp. Common Stock
+468,79,Exchange name,New York Stock Exchange
+469,79,Inception Date,2010-04-23
+470,79,Return Since Inception,0.1540758972859734
+471,79,Security Name,iShares Short Term National AMT-Free Muni Bond ETF
+472,79,Asset Class,ETF
+473,79,Exchange location,United States-New York City
+474,80,Exchange name,New York Stock Exchange
+475,80,Inception Date,2009-03-05
+476,80,Security Name,Southern California Edison Company 4.08% Preferred Stock
+477,80,Return Since Inception,0.0870847653385224
+478,80,Exchange location,United States-New York City
+479,80,Asset Class,International Equity
+480,81,Security Name,Wayfair Inc. Class A Common Stock
+481,81,Exchange location,United States-New York City
+482,81,Exchange name,New York Stock Exchange
+483,81,Return Since Inception,0.0137636505919713
+484,81,Inception Date,2021-11-07
+485,81,Asset Class,International Equity
+486,82,Asset Class,Domestic Equity
+487,82,Exchange name,New York Stock Exchange
+488,82,Exchange location,United States-New York City
+489,82,Return Since Inception,-0.0599586542623537
+490,82,Inception Date,2014-07-28
+491,82,Security Name,Arbor Realty Trust Cumulative Redeemable Preferred Series C
+492,83,Exchange name,New York Stock Exchange
+493,83,Security Name,ProShares UltraShort Technology
+494,83,Inception Date,2005-06-25
+495,83,Asset Class,ETF
+496,83,Exchange location,United States-New York City
+497,83,Return Since Inception,0.1387797518590263
+498,84,Security Name,Market Vectors Indonesia Index ETF
+499,84,Inception Date,2003-07-23
+500,84,Exchange location,United States-New York City
+501,84,Asset Class,ETF
+502,84,Return Since Inception,-0.033821523699083
+503,84,Exchange name,New York Stock Exchange
+504,85,Security Name,Franklin Covey Company Common Stock
+505,85,Inception Date,2021-03-12
+506,85,Exchange location,United States-New York City
+507,85,Asset Class,International Equity
+508,85,Return Since Inception,
+509,85,Exchange name,New York Stock Exchange
+510,86,Return Since Inception,0.0104276309248075
+511,86,Exchange name,New York Stock Exchange
+512,86,Asset Class,Domestic Equity
+513,86,Exchange location,United States-New York City
+514,86,Security Name,Vaalco Energy Inc Common Stock
+515,86,Inception Date,2017-06-06
+516,87,Return Since Inception,-0.1601356602800218
+517,87,Exchange location,United States-New York City
+518,87,Asset Class,Domestic Equity
+519,87,Exchange name,New York Stock Exchange
+520,87,Inception Date,
+521,87,Security Name,"Aberdeen Singapore Fund, Inc. Common Stock"
+522,88,Exchange name,New York Stock Exchange
+523,88,Asset Class,International Equity
+524,88,Inception Date,2014-10-04
+525,88,Security Name,Walt Disney Company (The) Common Stock
+526,88,Exchange location,United States-New York City
+527,88,Return Since Inception,-0.0326184889840676
+528,89,Asset Class,International Equity
+529,89,Inception Date,2012-06-02
+530,89,Security Name,Stonegate Mortgage Corporation Common Stock
+531,89,Return Since Inception,0.3338468498142019
+532,89,Exchange location,United States-New York City
+533,89,Exchange name,New York Stock Exchange
+534,90,Security Name,Scorpio Tankers Inc. 6.75% Senior Notes due 2020
+535,90,Exchange name,New York Stock Exchange
+536,90,Inception Date,
+537,90,Return Since Inception,-0.0854006101155403
+538,90,Exchange location,United States-New York City
+539,90,Asset Class,International Equity
+540,91,Exchange name,New York Stock Exchange
+541,91,Inception Date,2001-10-04
+542,91,Security Name,SPDR Barclays 1-3 Month T-Bill ETF
+543,91,Return Since Inception,0.2011923645024589
+544,91,Asset Class,ETF
+545,91,Exchange location,United States-New York City
+546,92,Return Since Inception,-0.3903760578719031
+547,92,Security Name,"Heartland Payment Systems, Inc. Common Stock"
+548,92,Asset Class,Domestic Equity
+549,92,Exchange name,New York Stock Exchange
+550,92,Exchange location,United States-New York City
+551,92,Inception Date,2008-02-08
+552,93,Exchange name,New York Stock Exchange
+553,93,Exchange location,United States-New York City
+554,93,Inception Date,2021-06-26
+555,93,Asset Class,Domestic Equity
+556,93,Return Since Inception,
+557,93,Security Name,Ducommun Incorporated Common Stock
+558,94,Inception Date,2021-01-24
+559,94,Exchange name,New York Stock Exchange
+560,94,Return Since Inception,
+561,94,Exchange location,United States-New York City
+562,94,Asset Class,ETF
+563,94,Security Name,PowerShares Fundamental Emerging Markets Local Debt Portfolio
+564,95,Security Name,"Bar Harbor Bankshares, Inc. Common Stock"
+565,95,Return Since Inception,0.0264282160129024
+566,95,Inception Date,2009-02-15
+567,95,Asset Class,International Equity
+568,95,Exchange location,United States-New York City
+569,95,Exchange name,New York Stock Exchange
+570,96,Security Name,American Homes 4 Rent 5% Series B Participating Preferred Shares of Beneficial Interest
+571,96,Inception Date,2019-08-24
+572,96,Return Since Inception,
+573,96,Exchange name,New York Stock Exchange
+574,96,Exchange location,United States-New York City
+575,96,Asset Class,
+576,97,Return Since Inception,0.1012457030176546
+577,97,Exchange name,New York Stock Exchange
+578,97,Inception Date,2016-10-09
+579,97,Asset Class,ETF
+580,97,Security Name,First Trust Health Care AlphaDEX
+581,97,Exchange location,United States-New York City
+582,98,Inception Date,2019-06-28
+583,98,Exchange name,New York Stock Exchange
+584,98,Asset Class,International Equity
+585,98,Return Since Inception,0.0381064496881971
+586,98,Exchange location,United States-New York City
+587,98,Security Name,Alabama Power Company 5.30% Cl A Pfd Stk
+588,99,Exchange name,New York Stock Exchange
+589,99,Security Name,KT Corporation Common Stock
+590,99,Inception Date,2001-06-06
+591,99,Exchange location,United States-New York City
+592,99,Return Since Inception,0.1651371320578925
+593,99,Asset Class,International Equity
+594,100,Security Name,HNI Corporation Common Stock
+595,100,Return Since Inception,-0.1271734537636795
+596,100,Exchange name,New York Stock Exchange
+597,100,Exchange location,United States-New York City
+598,100,Inception Date,2013-04-16
+599,100,Asset Class,Domestic Equity
+600,101,Exchange location,United States-New York City
+601,101,Security Name,Mead Johnson Nutrition Company Common Stock
+602,101,Return Since Inception,-0.3883165847277447
+603,101,Exchange name,New York Stock Exchange
+604,101,Inception Date,2003-08-31
+605,101,Asset Class,
+606,102,Asset Class,ETF
+607,102,Exchange name,New York Stock Exchange
+608,102,Return Since Inception,0.3619995104026428
+609,102,Exchange location,United States-New York City
+610,102,Inception Date,2015-06-13
+611,102,Security Name,iShares Emerging Markets High Yield Bond ETF
+612,103,Exchange location,United States-New York City
+613,103,Inception Date,2018-01-09
+614,103,Exchange name,New York Stock Exchange
+615,103,Return Since Inception,0.2143173410536838
+616,103,Asset Class,Domestic Equity
+617,103,Security Name,BioAmber Inc. Common Stock
+618,104,Inception Date,2023-03-08
+619,104,Return Since Inception,6.0702786438885486e-05
+620,104,Exchange name,New York Stock Exchange
+621,104,Asset Class,Domestic Equity
+622,104,Exchange location,United States-New York City
+623,104,Security Name,"AMETEK, Inc."
+624,105,Exchange name,New York Stock Exchange
+625,105,Return Since Inception,
+626,105,Security Name,iShares Global Consumer Discretionary ETF
+627,105,Exchange location,United States-New York City
+628,105,Inception Date,2004-02-16
+629,105,Asset Class,ETF
+630,106,Exchange name,New York Stock Exchange
+631,106,Asset Class,International Equity
+632,106,Return Since Inception,0.1463388775774872
+633,106,Inception Date,2021-10-26
+634,106,Security Name,Veritiv Corporation Common Stock
+635,106,Exchange location,United States-New York City
+636,107,Exchange location,United States-New York City
+637,107,Asset Class,ETF
+638,107,Return Since Inception,-0.2253784361209017
+639,107,Inception Date,
+640,107,Security Name,iShares Asia / Pacific Dividend 30 Index Fund Exchange Traded Fund
+641,107,Exchange name,New York Stock Exchange
+642,108,Security Name,Public Storage DEP SH REPSTG PFD SH BEN INT SER S
+643,108,Inception Date,2000-12-27
+644,108,Exchange name,New York Stock Exchange
+645,108,Return Since Inception,-0.0129392238524455
+646,108,Exchange location,United States-New York City
+647,108,Asset Class,Domestic Equity
+648,109,Exchange name,New York Stock Exchange
+649,109,Return Since Inception,0.2006680227538571
+650,109,Security Name,"Lydall, Inc. Common Stock"
+651,109,Inception Date,2019-12-04
+652,109,Exchange location,United States-New York City
+653,109,Asset Class,Domestic Equity
+654,110,Asset Class,
+655,110,Exchange name,New York Stock Exchange
+656,110,Return Since Inception,-0.0893248543973794
+657,110,Exchange location,United States-New York City
+658,110,Security Name,Central Pacific Financial Corp New
+659,110,Inception Date,
+660,111,Exchange name,New York Stock Exchange
+661,111,Asset Class,Domestic Equity
+662,111,Return Since Inception,-0.029142013284493
+663,111,Inception Date,2015-02-14
+664,111,Exchange location,United States-New York City
+665,111,Security Name,Reaves Utility Income Fund Common Shares of Beneficial Interest
+666,112,Return Since Inception,-0.093512612346479
+667,112,Asset Class,Domestic Equity
+668,112,Exchange location,United States-New York City
+669,112,Security Name,ClearBridge Energy MLP Total Return Fund Inc. Common Stock
+670,112,Exchange name,New York Stock Exchange
+671,112,Inception Date,2018-12-11
+672,113,Inception Date,2002-10-20
+673,113,Asset Class,ETF
+674,113,Return Since Inception,-0.0074049532554135
+675,113,Security Name,Direxion Daily Basic Materials Bull 3X Shares
+676,113,Exchange location,United States-New York City
+677,113,Exchange name,New York Stock Exchange
+678,114,Return Since Inception,-0.0383919503804779
+679,114,Asset Class,International Equity
+680,114,Exchange location,United States-New York City
+681,114,Exchange name,New York Stock Exchange
+682,114,Inception Date,2011-10-04
+683,114,Security Name,Tri Continental Corporation Common Stock
+684,115,Asset Class,ETF
+685,115,Inception Date,2001-10-01
+686,115,Security Name,Market Vectors Biotech ETF
+687,115,Exchange location,United States-New York City
+688,115,Return Since Inception,0.0962910928104451
+689,115,Exchange name,New York Stock Exchange
+690,116,Inception Date,2002-09-28
+691,116,Exchange location,United States-New York City
+692,116,Return Since Inception,0.2334620570404638
+693,116,Security Name,Costamare Inc. Perpetual Preferred Stock Series B (Marshall Islands)
+694,116,Exchange name,New York Stock Exchange
+695,116,Asset Class,International Equity
+696,117,Security Name,"Watsco, Inc. Class B Common Stock"
+697,117,Exchange name,New York Stock Exchange
+698,117,Return Since Inception,0.2665254055947397
+699,117,Inception Date,2016-09-21
+700,117,Asset Class,Domestic Equity
+701,117,Exchange location,United States-New York City
+702,118,Exchange location,United States-New York City
+703,118,Inception Date,2020-11-01
+704,118,Return Since Inception,0.166498434710297
+705,118,Security Name,"SINOPEC Shangai Petrochemical Company, Ltd. Common Stock"
+706,118,Asset Class,Domestic Equity
+707,118,Exchange name,New York Stock Exchange
+708,119,Inception Date,2002-06-01
+709,119,Exchange name,New York Stock Exchange
+710,119,Exchange location,United States-New York City
+711,119,Security Name,"PEPCO Holdings, Inc Common Stock"
+712,119,Asset Class,Domestic Equity
+713,119,Return Since Inception,
+714,120,Return Since Inception,0.0459319439307746
+715,120,Security Name,"Owens Realty Mortgage, Inc. Common Stock"
+716,120,Inception Date,2006-08-31
+717,120,Exchange location,United States-New York City
+718,120,Exchange name,New York Stock Exchange
+719,120,Asset Class,International Equity
+720,121,Exchange name,New York Stock Exchange
+721,121,Security Name,"General Electric Capital Corporation 4.876% Notes due January 29, 2053"
+722,121,Inception Date,2017-02-21
+723,121,Exchange location,United States-New York City
+724,121,Return Since Inception,-0.0355138705155699
+725,121,Asset Class,Domestic Equity
+726,122,Asset Class,ETF
+727,122,Inception Date,2013-07-10
+728,122,Security Name,PIMCO 1-5 Year U.S. TIPS Index Exchange-Traded Fund
+729,122,Exchange location,United States-New York City
+730,122,Exchange name,New York Stock Exchange
+731,122,Return Since Inception,0.2419862909930916
+732,123,Security Name,"CCA Industries, Inc. Common Stock"
+733,123,Asset Class,Domestic Equity
+734,123,Inception Date,
+735,123,Return Since Inception,0.051312068835746
+736,123,Exchange location,United States-New York City
+737,123,Exchange name,New York Stock Exchange
+738,124,Inception Date,2013-09-30
+739,124,Asset Class,Domestic Equity
+740,124,Exchange location,United States-New York City
+741,124,Return Since Inception,0.3805208814057128
+742,124,Security Name,"ImmunoCellular Therapeutics, Ltd. Common Stock"
+743,124,Exchange name,New York Stock Exchange
+744,125,Security Name,"Primerica, Inc. Common Stock"
+745,125,Exchange location,United States-New York City
+746,125,Return Since Inception,0.0863867683329873
+747,125,Inception Date,2003-04-26
+748,125,Exchange name,New York Stock Exchange
+749,125,Asset Class,International Equity
+750,126,Asset Class,International Equity
+751,126,Return Since Inception,-0.0450488140633674
+752,126,Exchange location,United States-New York City
+753,126,Inception Date,2018-05-05
+754,126,Security Name,BP Prudhoe Bay Royalty Trust Common Stock
+755,126,Exchange name,New York Stock Exchange
+756,127,Exchange name,New York Stock Exchange
+757,127,Asset Class,
+758,127,Exchange location,United States-New York City
+759,127,Security Name,SPDR Barclays Emerging Markets Local Bond ETF
+760,127,Return Since Inception,0.2687984948870164
+761,127,Inception Date,2022-06-12
+762,128,Exchange name,New York Stock Exchange
+763,128,Exchange location,United States-New York City
+764,128,Asset Class,ETF
+765,128,Security Name,Market Vectors Long Municipal Index ETF
+766,128,Return Since Inception,0.0853076972172935
+767,128,Inception Date,2009-07-04
+768,129,Security Name,PowerShares DB 3X Italian Treasury Bond Futures ETN
+769,129,Return Since Inception,0.021902339629992
+770,129,Asset Class,Domestic Equity
+771,129,Inception Date,2012-06-01
+772,129,Exchange location,United States-New York City
+773,129,Exchange name,New York Stock Exchange
+774,130,Inception Date,2004-06-10
+775,130,Asset Class,Domestic Equity
+776,130,Security Name,Standard Register Company (The) Common Stock
+777,130,Exchange name,New York Stock Exchange
+778,130,Exchange location,United States-New York City
+779,130,Return Since Inception,-0.0097459846854028
+780,131,Return Since Inception,0.0336012937822278
+781,131,Exchange location,United States-New York City
+782,131,Security Name,"NextEra Energy, Inc. Series H Junior Subordinated Debentures due June 15, 2072"
+783,131,Asset Class,
+784,131,Inception Date,2013-10-22
+785,131,Exchange name,New York Stock Exchange
+786,132,Exchange name,New York Stock Exchange
+787,132,Return Since Inception,-0.406400953922984
+788,132,Inception Date,2007-03-27
+789,132,Security Name,KraneShares Bosera MSCI China A ETF
+790,132,Exchange location,United States-New York City
+791,132,Asset Class,ETF
+792,133,Inception Date,2011-03-20
+793,133,Exchange location,United States-New York City
+794,133,Security Name,"Citizens, Inc. Class A Common Stock ($1.00 Par)"
+795,133,Asset Class,Domestic Equity
+796,133,Return Since Inception,0.1307086389044614
+797,133,Exchange name,New York Stock Exchange
+798,134,Inception Date,2010-12-28
+799,134,Asset Class,Domestic Equity
+800,134,Exchange name,New York Stock Exchange
+801,134,Return Since Inception,-0.1542796293888274
+802,134,Security Name,Briggs & Stratton Corporation Common Stock
+803,134,Exchange location,United States-New York City
+804,135,Exchange location,United States-New York City
+805,135,Inception Date,2013-04-06
+806,135,Exchange name,New York Stock Exchange
+807,135,Asset Class,
+808,135,Security Name,Banco Macro S.A.  ADR (representing Ten Class B Common Shares)
+809,135,Return Since Inception,-0.1822302515469779
+810,136,Exchange name,New York Stock Exchange
+811,136,Exchange location,United States-New York City
+812,136,Security Name,Guggenheim Insider ETF
+813,136,Return Since Inception,0.0360989920985846
+814,136,Inception Date,2000-05-16
+815,136,Asset Class,ETF
+816,137,Return Since Inception,0.3390197859889229
+817,137,Asset Class,ETF
+818,137,Exchange name,New York Stock Exchange
+819,137,Security Name,SPDR BofA Merrill Lynch Crossover Corporate Bond ETF
+820,137,Inception Date,2000-07-31
+821,137,Exchange location,United States-New York City
+822,138,Inception Date,
+823,138,Return Since Inception,0.279927417610661
+824,138,Asset Class,Domestic Equity
+825,138,Exchange name,New York Stock Exchange
+826,138,Security Name,"Bankrate, Inc. Common Stock"
+827,138,Exchange location,United States-New York City
+828,139,Exchange name,New York Stock Exchange
+829,139,Exchange location,United States-New York City
+830,139,Security Name,WisdomTree Asia Pacific ex-Japan Total Dividend Fund
+831,139,Asset Class,ETF
+832,139,Return Since Inception,-0.1279139176788739
+833,139,Inception Date,2001-08-17
+834,140,Security Name,"Blackrock MuniHoldings New York Quality Fund, Inc. Common Stock"
+835,140,Exchange location,United States-New York City
+836,140,Inception Date,2009-12-11
+837,140,Return Since Inception,0.0787918061668171
+838,140,Asset Class,
+839,140,Exchange name,New York Stock Exchange
+840,141,Asset Class,Domestic Equity
+841,141,Return Since Inception,0.5231745035227413
+842,141,Exchange name,New York Stock Exchange
+843,141,Security Name,Phillips 66 Partners LP Common Units representing limited partner interest in the Partnership
+844,141,Inception Date,2016-06-12
+845,141,Exchange location,United States-New York City
+846,142,Return Since Inception,-0.199267473500543
+847,142,Exchange name,New York Stock Exchange
+848,142,Asset Class,International Equity
+849,142,Exchange location,United States-New York City
+850,142,Security Name,The GDL Fund Series B Cumulative Puttable and Callable Preferred Shares
+851,142,Inception Date,2004-09-17
+852,143,Return Since Inception,
+853,143,Security Name,Bank of America Corporation MITTS Linked to the Dow Jones Industrial Average
+854,143,Exchange name,New York Stock Exchange
+855,143,Exchange location,United States-New York City
+856,143,Asset Class,Domestic Equity
+857,143,Inception Date,2001-06-09
+858,144,Exchange name,New York Stock Exchange
+859,144,Inception Date,
+860,144,Asset Class,International Equity
+861,144,Exchange location,United States-New York City
+862,144,Return Since Inception,-0.2263960050009688
+863,144,Security Name,Qwest Corporation 7.375% Notes due 2051
+864,145,Inception Date,2016-04-24
+865,145,Return Since Inception,
+866,145,Exchange location,United States-New York City
+867,145,Asset Class,
+868,145,Security Name,Cambria Global Value ETF
+869,145,Exchange name,New York Stock Exchange
+870,146,Inception Date,
+871,146,Return Since Inception,0.0679375554167942
+872,146,Security Name,Western Asset Global Corporate Defined Opportunity Fund Inc. Western Asset Global Corporate Defined Opportunity Fund Inc.
+873,146,Asset Class,International Equity
+874,146,Exchange location,United States-New York City
+875,146,Exchange name,New York Stock Exchange
+876,147,Exchange name,New York Stock Exchange
+877,147,Exchange location,United States-New York City
+878,147,Inception Date,2011-10-24
+879,147,Return Since Inception,-0.1507784187100882
+880,147,Security Name,"Tianyin Pharmaceutical Co., Inc. Common Stock"
+881,147,Asset Class,Domestic Equity
+882,148,Inception Date,2021-10-20
+883,148,Asset Class,ETF
+884,148,Security Name,iShares U.S. Aerospace & Defense ETF
+885,148,Return Since Inception,-0.1355769191314881
+886,148,Exchange name,New York Stock Exchange
+887,148,Exchange location,United States-New York City
+888,149,Inception Date,2022-11-15
+889,149,Exchange name,New York Stock Exchange
+890,149,Asset Class,
+891,149,Return Since Inception,
+892,149,Security Name,"Prudential Financial, Inc. 5.70% Junior Subordinated Notes due 2053"
+893,149,Exchange location,United States-New York City
+894,150,Inception Date,2003-05-22
+895,150,Exchange location,United States-New York City
+896,150,Asset Class,International Equity
+897,150,Exchange name,New York Stock Exchange
+898,150,Return Since Inception,-0.2158535323555723
+899,150,Security Name,"Armco Metals Holdings, Inc. Common Stock"
+900,151,Return Since Inception,-0.3617826142420256
+901,151,Exchange location,United States-New York City
+902,151,Asset Class,International Equity
+903,151,Inception Date,2006-06-18
+904,151,Security Name,Shinhan Financial Group Co Ltd American Depositary Shares
+905,151,Exchange name,New York Stock Exchange
+906,152,Security Name,"MasTec, Inc. Common Stock"
+907,152,Exchange name,New York Stock Exchange
+908,152,Return Since Inception,-0.0986888423761659
+909,152,Inception Date,2002-10-27
+910,152,Asset Class,Domestic Equity
+911,152,Exchange location,United States-New York City
+912,153,Exchange name,New York Stock Exchange
+913,153,Security Name,Tutor Perini Corporation Common Stock
+914,153,Inception Date,
+915,153,Return Since Inception,-0.0235257367060639
+916,153,Exchange location,United States-New York City
+917,153,Asset Class,International Equity
+918,154,Return Since Inception,0.1355655563233737
+919,154,Exchange location,United States-New York City
+920,154,Exchange name,New York Stock Exchange
+921,154,Inception Date,2019-02-21
+922,154,Security Name,"STARWOOD PROPERTY TRUST, INC. Starwood Property Trust Inc."
+923,154,Asset Class,Domestic Equity
+924,155,Asset Class,Domestic Equity
+925,155,Exchange location,United States-New York City
+926,155,Return Since Inception,
+927,155,Exchange name,New York Stock Exchange
+928,155,Inception Date,2007-06-07
+929,155,Security Name,Kirby Corporation Common Stock
+930,156,Exchange location,United States-New York City
+931,156,Exchange name,New York Stock Exchange
+932,156,Asset Class,International Equity
+933,156,Return Since Inception,0.1630153789659121
+934,156,Security Name,Baltic Trading Limited Common Stock
+935,156,Inception Date,2007-07-28
+936,157,Exchange location,United States-New York City
+937,157,Exchange name,New York Stock Exchange
+938,157,Security Name,"Mitsubishi UFJ Financial Group, Inc. Common Stock"
+939,157,Asset Class,Domestic Equity
+940,157,Return Since Inception,-0.0248620079971362
+941,157,Inception Date,2018-02-18
+942,158,Return Since Inception,0.1654053529335395
+943,158,Exchange name,New York Stock Exchange
+944,158,Asset Class,Domestic Equity
+945,158,Exchange location,United States-New York City
+946,158,Security Name,"Home Properties, Inc. Common Stock"
+947,158,Inception Date,2015-07-29
+948,159,Asset Class,Domestic Equity
+949,159,Security Name,J.M. Smucker Company (The) New Common Stock
+950,159,Exchange location,United States-New York City
+951,159,Exchange name,New York Stock Exchange
+952,159,Return Since Inception,-0.0991449477585876
+953,159,Inception Date,2019-06-19
+954,160,Exchange name,New York Stock Exchange
+955,160,Exchange location,United States-New York City
+956,160,Return Since Inception,-0.0634247920004892
+957,160,Asset Class,ETF
+958,160,Inception Date,2002-11-04
+959,160,Security Name,First Trust Developed Markets ex-US AlphaDEX Fund
+960,161,Security Name,MPLX LP Common Units Representing Limited Partner Interests
+961,161,Exchange name,New York Stock Exchange
+962,161,Asset Class,Domestic Equity
+963,161,Inception Date,2010-05-20
+964,161,Exchange location,United States-New York City
+965,161,Return Since Inception,
+966,162,Exchange name,New York Stock Exchange
+967,162,Inception Date,2015-01-24
+968,162,Return Since Inception,
+969,162,Asset Class,Domestic Equity
+970,162,Security Name,"Becton, Dickinson and Company Common Stock"
+971,162,Exchange location,United States-New York City
+972,163,Security Name,Heico Corporation Common Stock
+973,163,Asset Class,International Equity
+974,163,Inception Date,2019-06-22
+975,163,Exchange name,New York Stock Exchange
+976,163,Return Since Inception,-0.259373750003524
+977,163,Exchange location,United States-New York City
+978,164,Asset Class,Domestic Equity
+979,164,Exchange location,United States-New York City
+980,164,Inception Date,2012-09-09
+981,164,Security Name,Nuveen Global High Income Fund Common Shares of Beneficial Interest
+982,164,Return Since Inception,-0.1860956135273896
+983,164,Exchange name,New York Stock Exchange
+984,165,Exchange name,New York Stock Exchange
+985,165,Exchange location,United States-New York City
+986,165,Inception Date,2004-02-19
+987,165,Security Name,Nuveen Texas Quality Income Municipal Fund Common Stock
+988,165,Return Since Inception,
+989,165,Asset Class,International Equity
+990,166,Exchange location,United States-New York City
+991,166,Inception Date,2012-06-18
+992,166,Security Name,Guggenheim CurrencyShares Swedish Krona Trust
+993,166,Asset Class,ETF
+994,166,Exchange name,New York Stock Exchange
+995,166,Return Since Inception,-0.1404590854391891
+996,167,Security Name,"Acorn International, Inc. ADS"
+997,167,Exchange location,United States-New York City
+998,167,Asset Class,International Equity
+999,167,Exchange name,New York Stock Exchange
+1000,167,Inception Date,2002-04-29
+1001,167,Return Since Inception,0.4177875291366156
+1002,168,Security Name,Vanguard S&P 500 ETF
+1003,168,Exchange name,New York Stock Exchange
+1004,168,Inception Date,2016-01-02
+1005,168,Return Since Inception,0.3453276590844059
+1006,168,Exchange location,United States-New York City
+1007,168,Asset Class,ETF
+1008,169,Inception Date,2019-09-06
+1009,169,Security Name,WisdomTree Emerging Market SmallCap Fund
+1010,169,Exchange name,New York Stock Exchange
+1011,169,Asset Class,ETF
+1012,169,Return Since Inception,-0.2809837838177543
+1013,169,Exchange location,United States-New York City
+1014,170,Asset Class,International Equity
+1015,170,Inception Date,
+1016,170,Exchange name,New York Stock Exchange
+1017,170,Return Since Inception,-0.1892439263408402
+1018,170,Security Name,Duke Realty Corporation Common Stock
+1019,170,Exchange location,United States-New York City
+1020,171,Exchange location,United States-New York City
+1021,171,Inception Date,2018-09-20
+1022,171,Return Since Inception,-0.0203127970938289
+1023,171,Exchange name,New York Stock Exchange
+1024,171,Security Name,iShares Russell Top 200 Value ETF
+1025,171,Asset Class,ETF
+1026,172,Return Since Inception,0.0130505639817274
+1027,172,Inception Date,2007-03-31
+1028,172,Security Name,Foresight Energy LP Common Units representing Limited Partner Interests
+1029,172,Asset Class,International Equity
+1030,172,Exchange location,United States-New York City
+1031,172,Exchange name,New York Stock Exchange
+1032,173,Security Name,Tupperware Brands Corporation Common Stock
+1033,173,Return Since Inception,-0.2863185933003226
+1034,173,Asset Class,Domestic Equity
+1035,173,Exchange name,New York Stock Exchange
+1036,173,Inception Date,2008-08-18
+1037,173,Exchange location,United States-New York City
+1038,174,Return Since Inception,0.0021245318338201
+1039,174,Asset Class,ETF
+1040,174,Exchange name,New York Stock Exchange
+1041,174,Security Name,iShares Russell 2000 Value ETF
+1042,174,Inception Date,2008-03-08
+1043,174,Exchange location,United States-New York City
+1044,175,Return Since Inception,0.2761999007517183
+1045,175,Exchange location,United States-New York City
+1046,175,Exchange name,New York Stock Exchange
+1047,175,Security Name,"Aerohive Networks, Inc. Common Stock"
+1048,175,Asset Class,Domestic Equity
+1049,175,Inception Date,2006-11-28
+1050,176,Exchange name,New York Stock Exchange
+1051,176,Return Since Inception,-0.0332656085240515
+1052,176,Inception Date,2010-12-31
+1053,176,Security Name,AVG Technologies N.V. Ordinary Shares
+1054,176,Asset Class,Domestic Equity
+1055,176,Exchange location,United States-New York City
+1056,177,Asset Class,Domestic Equity
+1057,177,Exchange location,United States-New York City
+1058,177,Exchange name,New York Stock Exchange
+1059,177,Security Name,"Aberdeen Japan Equity Fund, Inc.  Common Stock"
+1060,177,Inception Date,
+1061,177,Return Since Inception,0.1306014765161819
+1062,178,Asset Class,
+1063,178,Exchange location,United States-New York City
+1064,178,Exchange name,New York Stock Exchange
+1065,178,Inception Date,2003-09-19
+1066,178,Security Name,First Trust Multi Cap Value AlphaDEX Fund
+1067,178,Return Since Inception,0.0861728177225812
+1068,179,Inception Date,2016-09-18
+1069,179,Asset Class,Domestic Equity
+1070,179,Security Name,"Niagara Mohawk Holdings, Inc. Preferred Stock"
+1071,179,Exchange name,New York Stock Exchange
+1072,179,Exchange location,United States-New York City
+1073,179,Return Since Inception,0.448278610458532
+1074,180,Exchange name,New York Stock Exchange
+1075,180,Security Name,Direxion Daily Junior Gold Miners Index Bear 3X Shares
+1076,180,Inception Date,2012-02-12
+1077,180,Return Since Inception,0.1644045138343727
+1078,180,Exchange location,United States-New York City
+1079,180,Asset Class,ETF
+1080,181,Inception Date,2019-06-12
+1081,181,Return Since Inception,-0.1607971532602742
+1082,181,Security Name,ETRACS Monthly Pay 2X Leveraged Closed-End Fund ETN
+1083,181,Asset Class,International Equity
+1084,181,Exchange name,New York Stock Exchange
+1085,181,Exchange location,United States-New York City
+1086,182,Inception Date,
+1087,182,Exchange location,United States-New York City
+1088,182,Return Since Inception,0.0434785869352424
+1089,182,Security Name,Market Vectors Solar Energy ETF
+1090,182,Asset Class,ETF
+1091,182,Exchange name,New York Stock Exchange
+1092,183,Inception Date,2016-11-11
+1093,183,Security Name,Paragon Offshore plc Ordinary Shares
+1094,183,Exchange name,New York Stock Exchange
+1095,183,Return Since Inception,0.1413051614759521
+1096,183,Asset Class,Domestic Equity
+1097,183,Exchange location,United States-New York City
+1098,184,Asset Class,International Equity
+1099,184,Exchange location,United States-New York City
+1100,184,Return Since Inception,-0.2218543677420365
+1101,184,Exchange name,New York Stock Exchange
+1102,184,Security Name,Barclays ETN FI Enhanced Europe 50 ETN
+1103,184,Inception Date,2018-09-13
+1104,185,Security Name,ABM Industries Incorporated Common Stock
+1105,185,Exchange name,New York Stock Exchange
+1106,185,Inception Date,2018-05-03
+1107,185,Return Since Inception,-0.3817491414725563
+1108,185,Asset Class,International Equity
+1109,185,Exchange location,United States-New York City
+1110,186,Inception Date,
+1111,186,Exchange name,New York Stock Exchange
+1112,186,Return Since Inception,-0.234345843530653
+1113,186,Asset Class,Domestic Equity
+1114,186,Security Name,"SunEdison, Inc. Common Stock"
+1115,186,Exchange location,United States-New York City
+1116,187,Exchange name,New York Stock Exchange
+1117,187,Return Since Inception,-0.1986757066467236
+1118,187,Security Name,iShares Russell 1000 ETF
+1119,187,Inception Date,
+1120,187,Asset Class,ETF
+1121,187,Exchange location,United States-New York City
+1122,188,Exchange name,New York Stock Exchange
+1123,188,Exchange location,United States-New York City
+1124,188,Security Name,"Bank of America Corporation Class A Warrant expiring January 16, 2019"
+1125,188,Return Since Inception,0.0687667274185482
+1126,188,Inception Date,2016-02-16
+1127,188,Asset Class,International Equity
+1128,189,Return Since Inception,-0.3223395430421178
+1129,189,Exchange location,United States-New York City
+1130,189,Exchange name,New York Stock Exchange
+1131,189,Security Name,Ethan Allen Interiors Inc. Common Stock
+1132,189,Inception Date,2002-10-14
+1133,189,Asset Class,Domestic Equity
+1134,190,Asset Class,
+1135,190,Return Since Inception,
+1136,190,Exchange location,United States-New York City
+1137,190,Inception Date,2012-04-06
+1138,190,Security Name,Guggenheim BulletShares 2018 High Yield Corporate Bond ETF
+1139,190,Exchange name,New York Stock Exchange
+1140,191,Asset Class,Domestic Equity
+1141,191,Return Since Inception,0.0259667671023319
+1142,191,Exchange location,United States-New York City
+1143,191,Inception Date,2003-12-30
+1144,191,Security Name,Dreyfus High Yield Strategies Fund Common Stock
+1145,191,Exchange name,New York Stock Exchange
+1146,192,Exchange location,United States-New York City
+1147,192,Inception Date,2002-08-31
+1148,192,Asset Class,Domestic Equity
+1149,192,Return Since Inception,0.0942682025141299
+1150,192,Exchange name,New York Stock Exchange
+1151,192,Security Name,Waters Corporation Common Stock
+1152,193,Exchange name,New York Stock Exchange
+1153,193,Inception Date,2000-07-28
+1154,193,Asset Class,ETF
+1155,193,Return Since Inception,-0.1797216819505266
+1156,193,Exchange location,United States-New York City
+1157,193,Security Name,First Trust Industrials AlphaDEX
+1158,194,Asset Class,International Equity
+1159,194,Return Since Inception,-0.1441358842442154
+1160,194,Exchange location,United States-New York City
+1161,194,Inception Date,2020-12-21
+1162,194,Exchange name,New York Stock Exchange
+1163,194,Security Name,DSW Inc. Common Stock
+1164,195,Exchange location,United States-New York City
+1165,195,Exchange name,New York Stock Exchange
+1166,195,Asset Class,International Equity
+1167,195,Return Since Inception,0.1044523389233194
+1168,195,Inception Date,
+1169,195,Security Name,"Equity One, Inc. Common Stock"
+1170,196,Exchange location,United States-New York City
+1171,196,Inception Date,2016-12-01
+1172,196,Exchange name,New York Stock Exchange
+1173,196,Asset Class,Domestic Equity
+1174,196,Return Since Inception,-0.1282687314341561
+1175,196,Security Name,Annaly Capital Management Inc Preferred Stock Series A
+1176,197,Exchange location,United States-New York City
+1177,197,Security Name,"FPL Group, Inc. 5 7/8% Preferred Trust Securities"
+1178,197,Exchange name,New York Stock Exchange
+1179,197,Asset Class,Domestic Equity
+1180,197,Return Since Inception,-0.0341521604352638
+1181,197,Inception Date,2009-02-20
+1182,198,Return Since Inception,
+1183,198,Exchange location,United States-New York City
+1184,198,Security Name,SPDR Barclays Long Term Corporate Bond ETF (based on Barclays Capital Long U.S. Corporate Index symbol--LD07TRUU
+1185,198,Exchange name,New York Stock Exchange
+1186,198,Asset Class,ETF
+1187,198,Inception Date,2012-09-10
+1188,199,Exchange name,New York Stock Exchange
+1189,199,Inception Date,2009-03-23
+1190,199,Asset Class,International Equity
+1191,199,Return Since Inception,-0.5261789297807465
+1192,199,Security Name,"Juniper Networks, Inc. Common Stock"
+1193,199,Exchange location,United States-New York City
+1194,200,Exchange name,New York Stock Exchange
+1195,200,Exchange location,United States-New York City
+1196,200,Asset Class,Domestic Equity
+1197,200,Inception Date,2008-01-23
+1198,200,Security Name,"Dover Motorsports, Inc. Common Stock"
+1199,200,Return Since Inception,-0.0441170041811827
+1200,201,Asset Class,ETF
+1201,201,Inception Date,2001-03-15
+1202,201,Exchange name,New York Stock Exchange
+1203,201,Exchange location,United States-New York City
+1204,201,Security Name,Market Vectors Poland ETF
+1205,201,Return Since Inception,0.2493447099696927
+1206,202,Return Since Inception,-0.1312566352699574
+1207,202,Exchange location,United States-New York City
+1208,202,Exchange name,New York Stock Exchange
+1209,202,Inception Date,2010-07-04
+1210,202,Asset Class,International Equity
+1211,202,Security Name,Aberdeen Asia-Pacific Income Fund Inc Common Stock
+1212,203,Asset Class,Domestic Equity
+1213,203,Inception Date,2018-07-04
+1214,203,Return Since Inception,-0.1095465222291282
+1215,203,Exchange location,United States-New York City
+1216,203,Security Name,"Global Ship Lease, Inc. Depository Shares Representing 1/100th Perpetual Preferred Series B% (Marshall Island)"
+1217,203,Exchange name,New York Stock Exchange
+1218,204,Asset Class,ETF
+1219,204,Return Since Inception,0.042955111232323
+1220,204,Inception Date,2004-07-20
+1221,204,Exchange location,United States-New York City
+1222,204,Security Name,Market Vectors MSCI Emerging Markets Quality ETF
+1223,204,Exchange name,New York Stock Exchange
+1224,205,Exchange name,New York Stock Exchange
+1225,205,Asset Class,ETF
+1226,205,Security Name,Schwab Fundamental U.S. Small Company Index ETF
+1227,205,Return Since Inception,
+1228,205,Exchange location,United States-New York City
+1229,205,Inception Date,2019-06-04
+1230,206,Exchange name,New York Stock Exchange
+1231,206,Security Name,American Lorain Corporation Common Stock
+1232,206,Asset Class,
+1233,206,Return Since Inception,0.0207771342524936
+1234,206,Exchange location,United States-New York City
+1235,206,Inception Date,
+1236,207,Asset Class,International Equity
+1237,207,Security Name,Phillips 66 Common Stock
+1238,207,Return Since Inception,-0.0418883712844472
+1239,207,Exchange location,United States-New York City
+1240,207,Exchange name,New York Stock Exchange
+1241,207,Inception Date,2010-09-20
+1242,208,Security Name,Vanguard Information Tech ETF - DNQ
+1243,208,Exchange name,New York Stock Exchange
+1244,208,Return Since Inception,0.1444805411812729
+1245,208,Inception Date,2016-10-15
+1246,208,Asset Class,ETF
+1247,208,Exchange location,United States-New York City
+1248,209,Return Since Inception,-0.3140804922809129
+1249,209,Security Name,Buckeye Partners L.P. Common Stock
+1250,209,Inception Date,2019-10-27
+1251,209,Exchange name,New York Stock Exchange
+1252,209,Exchange location,United States-New York City
+1253,209,Asset Class,Domestic Equity
+1254,210,Asset Class,Domestic Equity
+1255,210,Security Name,Scorpio Tankers Inc. Common Shares
+1256,210,Exchange name,New York Stock Exchange
+1257,210,Exchange location,United States-New York City
+1258,210,Return Since Inception,0.2238329556661097
+1259,210,Inception Date,
+1260,211,Inception Date,2019-10-15
+1261,211,Security Name,Wells Fargo & Company New Depository Share Representing 1/1000th Perp. Preferred Class A Series T
+1262,211,Exchange location,United States-New York City
+1263,211,Exchange name,New York Stock Exchange
+1264,211,Asset Class,Domestic Equity
+1265,211,Return Since Inception,
+1266,212,Return Since Inception,-0.0767733630328422
+1267,212,Asset Class,International Equity
+1268,212,Inception Date,2015-06-15
+1269,212,Exchange name,New York Stock Exchange
+1270,212,Security Name,"Comstock Resources, Inc. Common Stock"
+1271,212,Exchange location,United States-New York City
+1272,213,Asset Class,
+1273,213,Inception Date,2012-09-22
+1274,213,Exchange location,United States-New York City
+1275,213,Security Name,Kemper Corporation 7.375% Subordinated Debentures due 2054
+1276,213,Exchange name,New York Stock Exchange
+1277,213,Return Since Inception,0.2208337628822133
+1278,214,Return Since Inception,0.1543140833133056
+1279,214,Exchange location,United States-New York City
+1280,214,Asset Class,Domestic Equity
+1281,214,Inception Date,2006-11-09
+1282,214,Security Name,Public Storage Depository Sh Repstg 1/1000th Pfd Ser R
+1283,214,Exchange name,New York Stock Exchange
+1284,215,Return Since Inception,0.12425247005018
+1285,215,Security Name,Horizons Korea KOSPI 200 ETF
+1286,215,Exchange name,New York Stock Exchange
+1287,215,Inception Date,2022-10-13
+1288,215,Exchange location,United States-New York City
+1289,215,Asset Class,ETF
+1290,216,Return Since Inception,0.0700365304057017
+1291,216,Exchange location,United States-New York City
+1292,216,Security Name,"DEMANDWARE, INC. Common Stock"
+1293,216,Inception Date,2000-09-23
+1294,216,Exchange name,New York Stock Exchange
+1295,216,Asset Class,International Equity
+1296,217,Inception Date,2011-04-01
+1297,217,Security Name,ProShares Ultra Bloomberg Natural Gas
+1298,217,Exchange location,United States-New York City
+1299,217,Exchange name,New York Stock Exchange
+1300,217,Asset Class,ETF
+1301,217,Return Since Inception,0.1113132220051693
+1302,218,Asset Class,Domestic Equity
+1303,218,Exchange name,New York Stock Exchange
+1304,218,Inception Date,2017-05-20
+1305,218,Security Name,"OneBeacon Insurance Group, Ltd. Class A Common Stock"
+1306,218,Return Since Inception,0.1355886858747275
+1307,218,Exchange location,United States-New York City
+1308,219,Exchange name,New York Stock Exchange
+1309,219,Exchange location,United States-New York City
+1310,219,Asset Class,International Equity
+1311,219,Security Name,"Hannon Armstrong Sustainable Infrastructure Capital, Inc. Common Stock"
+1312,219,Inception Date,2016-10-26
+1313,219,Return Since Inception,0.3167895245769325
+1314,220,Inception Date,2000-07-02
+1315,220,Return Since Inception,0.1896562628896588
+1316,220,Security Name,Deutsche Bank AG PowerShares DB Gold Double Long ETN
+1317,220,Exchange location,United States-New York City
+1318,220,Exchange name,New York Stock Exchange
+1319,220,Asset Class,International Equity
+1320,221,Security Name,"Goldman Sachs Group, Inc. (The) 6.50% Notes due 2061"
+1321,221,Exchange name,New York Stock Exchange
+1322,221,Inception Date,2002-03-30
+1323,221,Asset Class,International Equity
+1324,221,Exchange location,United States-New York City
+1325,221,Return Since Inception,-0.0317793875166446
+1326,222,Exchange location,United States-New York City
+1327,222,Return Since Inception,0.1000921775279777
+1328,222,Exchange name,New York Stock Exchange
+1329,222,Security Name,Global Payments Inc. Common Stock
+1330,222,Inception Date,2001-07-19
+1331,222,Asset Class,International Equity
+1332,223,Asset Class,International Equity
+1333,223,Exchange location,United States-New York City
+1334,223,Inception Date,2014-06-11
+1335,223,Security Name,Wells Fargo & Company Dep Shs Repstg 1/1000th Int Non Cum Perp Cl A Pfd (Ser P)
+1336,223,Exchange name,New York Stock Exchange
+1337,223,Return Since Inception,-0.380468374073492
+1338,224,Asset Class,International Equity
+1339,224,Exchange name,New York Stock Exchange
+1340,224,Return Since Inception,0.4501325189132541
+1341,224,Security Name,"F.N.B. Corporation Depositary Shares, each representing a 1/40th interest in a share of Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred  Stock, Series E"
+1342,224,Exchange location,United States-New York City
+1343,224,Inception Date,2010-04-28
+1344,225,Asset Class,Domestic Equity
+1345,225,Return Since Inception,-0.0368908196159601
+1346,225,Exchange location,United States-New York City
+1347,225,Exchange name,New York Stock Exchange
+1348,225,Security Name,Barrick Gold Corporation Common Stock
+1349,225,Inception Date,2006-08-05
+1350,226,Exchange name,New York Stock Exchange
+1351,226,Return Since Inception,
+1352,226,Security Name,"Sun Communities, Inc. Preferred Series A"
+1353,226,Exchange location,United States-New York City
+1354,226,Asset Class,International Equity
+1355,226,Inception Date,
+1356,227,Asset Class,ETF
+1357,227,Exchange name,New York Stock Exchange
+1358,227,Security Name,IQ Merger Arbitrage ETF
+1359,227,Exchange location,United States-New York City
+1360,227,Return Since Inception,0.0214515508307696
+1361,227,Inception Date,2001-11-30
+1362,228,Return Since Inception,0.2474175781392269
+1363,228,Asset Class,International Equity
+1364,228,Exchange name,New York Stock Exchange
+1365,228,Exchange location,United States-New York City
+1366,228,Inception Date,
+1367,228,Security Name,"IsoRay, Inc. Common Stock"
+1368,229,Return Since Inception,-0.1293373090852385
+1369,229,Inception Date,2004-10-20
+1370,229,Security Name,"Blackrock MuniVest Fund II, Inc.  Common Stock"
+1371,229,Exchange name,New York Stock Exchange
+1372,229,Asset Class,International Equity
+1373,229,Exchange location,United States-New York City
+1374,230,Asset Class,International Equity
+1375,230,Exchange location,United States-New York City
+1376,230,Security Name,Nuveen North Carolina Premium Income Municipal Fund Common Stock
+1377,230,Inception Date,2003-07-18
+1378,230,Exchange name,New York Stock Exchange
+1379,230,Return Since Inception,-0.0615753063408036
+1380,231,Security Name,"Grupo Simec, S.A.B. de C.V. American Depositary Shares"
+1381,231,Return Since Inception,0.1323892639680022
+1382,231,Exchange location,United States-New York City
+1383,231,Exchange name,New York Stock Exchange
+1384,231,Inception Date,2010-07-24
+1385,231,Asset Class,Domestic Equity
+1386,232,Exchange location,United States-New York City
+1387,232,Security Name,CBRE Group Inc Common Stock Class A
+1388,232,Inception Date,
+1389,232,Asset Class,International Equity
+1390,232,Return Since Inception,0.1326317375510123
+1391,232,Exchange name,New York Stock Exchange
+1392,233,Exchange name,New York Stock Exchange
+1393,233,Return Since Inception,0.6374097724757333
+1394,233,Asset Class,Domestic Equity
+1395,233,Security Name,"DEUTSCHE BANK AKTIENGESELLSCHAFT ELEMENTS Linked to the Morningstar Wide Moat Focus Total Return Index due October 24, 2022"
+1396,233,Inception Date,
+1397,233,Exchange location,United States-New York City
+1398,234,Exchange name,New York Stock Exchange
+1399,234,Return Since Inception,0.4626576728112455
+1400,234,Asset Class,International Equity
+1401,234,Security Name,KeyCorp Non Cumulative Perp Conv Pfd Ser A
+1402,234,Inception Date,2018-06-10
+1403,234,Exchange location,United States-New York City
+1404,235,Inception Date,
+1405,235,Return Since Inception,-0.1193096775989582
+1406,235,Security Name,SPDR S&P 400 Mid Cap Growth ETF (based on S&P MidCap 400 Growth Index--symbol: MUV)
+1407,235,Exchange location,United States-New York City
+1408,235,Asset Class,ETF
+1409,235,Exchange name,New York Stock Exchange
+1410,236,Security Name,Alliant Energy Corporation Common Stock
+1411,236,Asset Class,International Equity
+1412,236,Exchange location,United States-New York City
+1413,236,Return Since Inception,-0.2189535268958401
+1414,236,Inception Date,2014-08-21
+1415,236,Exchange name,New York Stock Exchange
+1416,237,Exchange name,New York Stock Exchange
+1417,237,Asset Class,Domestic Equity
+1418,237,Return Since Inception,0.5999197311392285
+1419,237,Security Name,"Vail Resorts, Inc. Common Stock"
+1420,237,Exchange location,United States-New York City
+1421,237,Inception Date,2010-01-07
+1422,238,Inception Date,2022-12-21
+1423,238,Asset Class,Domestic Equity
+1424,238,Exchange name,New York Stock Exchange
+1425,238,Return Since Inception,0.1026745545277043
+1426,238,Exchange location,United States-New York City
+1427,238,Security Name,Western Asset Income Fund Common Stock
+1428,239,Asset Class,ETF
+1429,239,Return Since Inception,0.15828465216836
+1430,239,Exchange name,New York Stock Exchange
+1431,239,Security Name,ARK Industrial Innovation ETF
+1432,239,Inception Date,2004-04-18
+1433,239,Exchange location,United States-New York City
+1434,240,Exchange name,New York Stock Exchange
+1435,240,Return Since Inception,0.1099329283732868
+1436,240,Security Name,SPDR S&P Global Infrastructure ETF
+1437,240,Asset Class,ETF
+1438,240,Inception Date,2018-04-14
+1439,240,Exchange location,United States-New York City
+1440,241,Exchange location,United States-New York City
+1441,241,Asset Class,Domestic Equity
+1442,241,Return Since Inception,-0.0951467653773337
+1443,241,Inception Date,2014-07-27
+1444,241,Security Name,Annaly Capital Management Inc Preferred Series D
+1445,241,Exchange name,New York Stock Exchange
+1446,242,Inception Date,2017-04-09
+1447,242,Return Since Inception,0.0879644197238677
+1448,242,Security Name,"Global Cash Access Holdings, Inc. Common Stock"
+1449,242,Exchange name,New York Stock Exchange
+1450,242,Asset Class,International Equity
+1451,242,Exchange location,United States-New York City
+1452,243,Exchange name,New York Stock Exchange
+1453,243,Security Name,"AmREIT, Inc. Common stock"
+1454,243,Exchange location,United States-New York City
+1455,243,Inception Date,2021-01-05
+1456,243,Asset Class,Domestic Equity
+1457,243,Return Since Inception,0.2171274935502312
+1458,244,Exchange location,United States-New York City
+1459,244,Asset Class,Domestic Equity
+1460,244,Return Since Inception,-0.2535889228019497
+1461,244,Security Name,"Unifi, Inc. New Common Stock"
+1462,244,Exchange name,New York Stock Exchange
+1463,244,Inception Date,2003-08-31
+1464,245,Exchange location,United States-New York City
+1465,245,Exchange name,New York Stock Exchange
+1466,245,Security Name,Inland Real Estate Corporation Common Stock
+1467,245,Return Since Inception,0.4738479205607676
+1468,245,Inception Date,2008-02-22
+1469,245,Asset Class,Domestic Equity
+1470,246,Exchange location,United States-New York City
+1471,246,Exchange name,New York Stock Exchange
+1472,246,Security Name,Navistar International Corporation Common Stock
+1473,246,Return Since Inception,-0.001462273465003
+1474,246,Inception Date,2016-07-02
+1475,246,Asset Class,Domestic Equity
+1476,247,Exchange location,United States-New York City
+1477,247,Return Since Inception,0.3046355336471861
+1478,247,Exchange name,New York Stock Exchange
+1479,247,Inception Date,2015-06-20
+1480,247,Asset Class,International Equity
+1481,247,Security Name,SCIENCE APPLICATIONS INTERNATIONAL CORPORATION Common Stock
+1482,248,Asset Class,ETF
+1483,248,Exchange location,United States-New York City
+1484,248,Inception Date,2013-01-01
+1485,248,Exchange name,New York Stock Exchange
+1486,248,Return Since Inception,0.1449350173239904
+1487,248,Security Name,Direxion Daily FTSE Emerging Markets Bull 1.25X Shares
+1488,249,Return Since Inception,0.0031752943186207
+1489,249,Security Name,WisdomTree Emerging Currency Strategy Fund
+1490,249,Inception Date,2020-06-19
+1491,249,Exchange location,United States-New York City
+1492,249,Asset Class,ETF
+1493,249,Exchange name,New York Stock Exchange
+1494,250,Asset Class,International Equity
+1495,250,Return Since Inception,0.0295630571080529
+1496,250,Exchange location,United States-New York City
+1497,250,Exchange name,New York Stock Exchange
+1498,250,Security Name,RAIT Financial Trust 7.125% Senior Notes due 2019
+1499,250,Inception Date,2021-04-27
+1500,251,Security Name,"Dominion Resources, Inc. Common Stock"
+1501,251,Return Since Inception,
+1502,251,Asset Class,Domestic Equity
+1503,251,Inception Date,2009-04-18
+1504,251,Exchange name,New York Stock Exchange
+1505,251,Exchange location,United States-New York City
+1506,252,Return Since Inception,0.2082626961052195
+1507,252,Asset Class,International Equity
+1508,252,Exchange location,United States-New York City
+1509,252,Exchange name,New York Stock Exchange
+1510,252,Inception Date,2017-04-20
+1511,252,Security Name,Imation Corporation Common Stock
+1512,253,Return Since Inception,-0.3286907810052847
+1513,253,Security Name,Eastman Kodak Company Common New
+1514,253,Asset Class,Domestic Equity
+1515,253,Inception Date,2017-01-02
+1516,253,Exchange name,New York Stock Exchange
+1517,253,Exchange location,United States-New York City
+1518,254,Security Name,"Wells Fargo & Company Wells Fargo & Company 7.50% Non-Cumulative Perpetual Convertible Class A Preferred Stock, Series L"
+1519,254,Exchange name,New York Stock Exchange
+1520,254,Return Since Inception,-0.013078330110958
+1521,254,Exchange location,United States-New York City
+1522,254,Inception Date,2011-06-21
+1523,254,Asset Class,Domestic Equity
+1524,255,Asset Class,ETF
+1525,255,Exchange name,New York Stock Exchange
+1526,255,Security Name,ProShares UltraShort TIPS
+1527,255,Return Since Inception,0.2223481504942339
+1528,255,Exchange location,United States-New York City
+1529,255,Inception Date,2009-11-19
+1530,256,Asset Class,International Equity
+1531,256,Inception Date,2013-05-23
+1532,256,Security Name,Bank of America Corporation Depositary Shares Rpstg 1/1000th Interest in Sh of Non Cum Pfd Stk Ser D
+1533,256,Return Since Inception,
+1534,256,Exchange name,New York Stock Exchange
+1535,256,Exchange location,United States-New York City
+1536,257,Security Name,iShares Core U.S. Growth ETF
+1537,257,Asset Class,ETF
+1538,257,Inception Date,2007-02-18
+1539,257,Exchange location,United States-New York City
+1540,257,Return Since Inception,-0.167064839014022
+1541,257,Exchange name,New York Stock Exchange
+1542,258,Asset Class,International Equity
+1543,258,Security Name,Blackrock Limited Duration Income Trust
+1544,258,Return Since Inception,0.0257857497251363
+1545,258,Exchange name,New York Stock Exchange
+1546,258,Exchange location,United States-New York City
+1547,258,Inception Date,2017-09-26
+1548,259,Exchange location,United States-New York City
+1549,259,Inception Date,2014-08-15
+1550,259,Security Name,"Smith & Nephew SNATS, Inc. Common Stock"
+1551,259,Return Since Inception,
+1552,259,Exchange name,New York Stock Exchange
+1553,259,Asset Class,International Equity
+1554,260,Inception Date,2021-01-28
+1555,260,Asset Class,
+1556,260,Return Since Inception,0.0840571527865329
+1557,260,Exchange location,United States-New York City
+1558,260,Security Name,Navios Maritime Acquisition Corporation Common stock
+1559,260,Exchange name,New York Stock Exchange
+1560,261,Exchange location,United States-New York City
+1561,261,Inception Date,2003-04-07
+1562,261,Return Since Inception,-0.1909864405840459
+1563,261,Exchange name,New York Stock Exchange
+1564,261,Security Name,First Preferred Cap Tr Iv First Preferred Capital Trust IV 8.15% Cum Trust Pfd Sec
+1565,261,Asset Class,Domestic Equity
+1566,262,Exchange name,New York Stock Exchange
+1567,262,Asset Class,Domestic Equity
+1568,262,Inception Date,2006-12-05
+1569,262,Security Name,Cooper Tire & Rubber Company Common Stock
+1570,262,Exchange location,United States-New York City
+1571,262,Return Since Inception,0.1830760961883827
+1572,263,Return Since Inception,-0.1673438722047982
+1573,263,Asset Class,ETF
+1574,263,Exchange location,United States-New York City
+1575,263,Inception Date,2019-01-10
+1576,263,Security Name,PowerShares S&P SmallCap Low Volatility Portfolio
+1577,263,Exchange name,New York Stock Exchange
+1578,264,Return Since Inception,0.0979005850310666
+1579,264,Exchange location,United States-New York City
+1580,264,Exchange name,New York Stock Exchange
+1581,264,Inception Date,2010-06-10
+1582,264,Security Name,Whiting USA Trust II Units of Beneficial Interest
+1583,264,Asset Class,Domestic Equity
+1584,265,Inception Date,2005-10-17
+1585,265,Security Name,InterXion Holding N.V. Ordinary Shares (0.01 nominal value)
+1586,265,Exchange name,New York Stock Exchange
+1587,265,Asset Class,Domestic Equity
+1588,265,Exchange location,United States-New York City
+1589,265,Return Since Inception,0.1732584485994214
+1590,266,Asset Class,Domestic Equity
+1591,266,Return Since Inception,-0.1465614588370848
+1592,266,Exchange location,United States-New York City
+1593,266,Inception Date,2013-07-05
+1594,266,Exchange name,New York Stock Exchange
+1595,266,Security Name,"Qihoo 360 Technology Co. Ltd. American Depositary Shares, every 2 of which representing three Class A Ordinary Shares"
+1596,267,Security Name,"New York Community Bancorp, Inc. New York Community Capital Tr V (BONUSES)"
+1597,267,Inception Date,2008-01-16
+1598,267,Return Since Inception,-0.1368660127221544
+1599,267,Asset Class,
+1600,267,Exchange name,New York Stock Exchange
+1601,267,Exchange location,United States-New York City
+1602,268,Exchange name,New York Stock Exchange
+1603,268,Asset Class,Domestic Equity
+1604,268,Inception Date,2008-05-05
+1605,268,Exchange location,United States-New York City
+1606,268,Return Since Inception,0.0357368614819671
+1607,268,Security Name,Discover Financial Services Dep Shs
+1608,269,Return Since Inception,0.0217982204505004
+1609,269,Inception Date,2018-03-20
+1610,269,Exchange name,New York Stock Exchange
+1611,269,Exchange location,United States-New York City
+1612,269,Asset Class,ETF
+1613,269,Security Name,Guggenheim Shipping ETF
+1614,270,Security Name,Market Vectors Pre-refunded Municipal Index ETF
+1615,270,Exchange name,New York Stock Exchange
+1616,270,Inception Date,
+1617,270,Asset Class,ETF
+1618,270,Return Since Inception,-0.130919246018325
+1619,270,Exchange location,United States-New York City
+1620,271,Asset Class,International Equity
+1621,271,Exchange name,New York Stock Exchange
+1622,271,Inception Date,2021-02-26
+1623,271,Security Name,"TPG Specialty Lending, Inc. Common Stock"
+1624,271,Return Since Inception,0.1104323379019305
+1625,271,Exchange location,United States-New York City
+1626,272,Return Since Inception,
+1627,272,Inception Date,2007-05-28
+1628,272,Exchange name,New York Stock Exchange
+1629,272,Security Name,Gran Tierra Energy Inc. Common Stock
+1630,272,Asset Class,International Equity
+1631,272,Exchange location,United States-New York City
+1632,273,Return Since Inception,0.0237304477460273
+1633,273,Asset Class,Domestic Equity
+1634,273,Security Name,Western Asset Investment Grade Defined Opportunity Trust Inc. Common Stock
+1635,273,Exchange name,New York Stock Exchange
+1636,273,Inception Date,2017-06-01
+1637,273,Exchange location,United States-New York City
+1638,274,Asset Class,International Equity
+1639,274,Security Name,MFS Special Value Trust Common Stock
+1640,274,Exchange name,New York Stock Exchange
+1641,274,Exchange location,United States-New York City
+1642,274,Return Since Inception,-0.2460879236763021
+1643,274,Inception Date,
+1644,275,Asset Class,ETF
+1645,275,Exchange location,United States-New York City
+1646,275,Security Name,ProShares Ultra Oil & Gas
+1647,275,Exchange name,New York Stock Exchange
+1648,275,Inception Date,2004-06-25
+1649,275,Return Since Inception,0.1935392591550246
+1650,276,Return Since Inception,-0.1279544444981296
+1651,276,Inception Date,2016-06-14
+1652,276,Security Name,"Richmont Mines, Inc. Common Stock"
+1653,276,Asset Class,International Equity
+1654,276,Exchange location,United States-New York City
+1655,276,Exchange name,New York Stock Exchange
+1656,277,Exchange name,New York Stock Exchange
+1657,277,Return Since Inception,0.2911223844043781
+1658,277,Security Name,"Superior Industries International, Inc. Common Stock"
+1659,277,Inception Date,
+1660,277,Asset Class,Domestic Equity
+1661,277,Exchange location,United States-New York City
+1662,278,Security Name,FI Enhanced Gloabl High Yield ETN
+1663,278,Exchange name,New York Stock Exchange
+1664,278,Inception Date,2022-02-02
+1665,278,Exchange location,United States-New York City
+1666,278,Return Since Inception,-0.0548047522972436
+1667,278,Asset Class,International Equity
+1668,279,Return Since Inception,0.0958820057227503
+1669,279,Exchange location,United States-New York City
+1670,279,Inception Date,
+1671,279,Asset Class,ETF
+1672,279,Exchange name,New York Stock Exchange
+1673,279,Security Name,FlexShares Morningstar Developed Markets ex-US Factor Tilt Index Fund
+1674,280,Return Since Inception,-0.1549655137046388
+1675,280,Exchange location,United States-New York City
+1676,280,Asset Class,ETF
+1677,280,Security Name,PowerShares Buyback Achievers
+1678,280,Inception Date,2004-04-02
+1679,280,Exchange name,New York Stock Exchange
+1680,281,Exchange name,New York Stock Exchange
+1681,281,Return Since Inception,-0.0420360673905168
+1682,281,Exchange location,United States-New York City
+1683,281,Security Name,"NextEra Energy, Inc. Series I Junior Subordinated Debentures due November 15, 2072"
+1684,281,Asset Class,Domestic Equity
+1685,281,Inception Date,2005-05-21
+1686,282,Asset Class,International Equity
+1687,282,Inception Date,2022-11-05
+1688,282,Return Since Inception,0.1200256801133033
+1689,282,Exchange name,New York Stock Exchange
+1690,282,Security Name,AMN Healthcare Services Inc AMN Healthcare Services Inc
+1691,282,Exchange location,United States-New York City
+1692,283,Exchange location,United States-New York City
+1693,283,Inception Date,2012-12-10
+1694,283,Asset Class,ETF
+1695,283,Return Since Inception,-0.1001521210568814
+1696,283,Security Name,ProShares Ultra Dow30
+1697,283,Exchange name,New York Stock Exchange
+1698,284,Exchange name,New York Stock Exchange
+1699,284,Security Name,"Bank of America Corporation Bank of America Corporation Depositary Shares (Each representing a 1/1200th interest in a Share of Floating Rate Non-Cumulative Preferred Stock, Series 4)"
+1700,284,Exchange location,United States-New York City
+1701,284,Asset Class,International Equity
+1702,284,Inception Date,2018-09-03
+1703,284,Return Since Inception,-0.0836172548008496
+1704,285,Inception Date,2003-05-04
+1705,285,Security Name,ETRACS Alerian MLP Index ETN
+1706,285,Asset Class,International Equity
+1707,285,Exchange location,United States-New York City
+1708,285,Return Since Inception,0.0308218454681715
+1709,285,Exchange name,New York Stock Exchange
+1710,286,Inception Date,2003-09-30
+1711,286,Asset Class,International Equity
+1712,286,Exchange name,New York Stock Exchange
+1713,286,Return Since Inception,-0.2233325794481791
+1714,286,Exchange location,United States-New York City
+1715,286,Security Name,Valero Energy Partners LP Common Units representing limited partner interests
+1716,287,Asset Class,International Equity
+1717,287,Security Name,"Nike, Inc. Common Stock"
+1718,287,Return Since Inception,-0.2530871773257288
+1719,287,Exchange name,New York Stock Exchange
+1720,287,Inception Date,2012-05-27
+1721,287,Exchange location,United States-New York City
+1722,288,Exchange location,United States-New York City
+1723,288,Inception Date,2002-04-05
+1724,288,Security Name,Lyon William Homes Common Stock (Class A)
+1725,288,Asset Class,International Equity
+1726,288,Return Since Inception,0.2365349930151798
+1727,288,Exchange name,New York Stock Exchange
+1728,289,Return Since Inception,0.0100253904482397
+1729,289,Exchange name,New York Stock Exchange
+1730,289,Exchange location,United States-New York City
+1731,289,Security Name,Nuveen Dividend Advantage Municipal Income Fund Common Shares of Beneficial Interest
+1732,289,Asset Class,Domestic Equity
+1733,289,Inception Date,2002-07-24
+1734,290,Return Since Inception,0.4636890231874871
+1735,290,Exchange name,New York Stock Exchange
+1736,290,Inception Date,
+1737,290,Security Name,FelCor Lodging Trust Incorporated Dep Shares Representing 1/100 Preferred Series C
+1738,290,Asset Class,International Equity
+1739,290,Exchange location,United States-New York City
+1740,291,Exchange name,New York Stock Exchange
+1741,291,Security Name,Zions Bancorporation Depositary Shares (Each representing 1/40th Interest in a Share of Series A Floating-Rate Non-Cumulative Perpetual Preferred Stock)
+1742,291,Asset Class,Domestic Equity
+1743,291,Inception Date,2015-09-04
+1744,291,Return Since Inception,-0.0608929184623648
+1745,291,Exchange location,United States-New York City
+1746,292,Asset Class,
+1747,292,Exchange name,New York Stock Exchange
+1748,292,Exchange location,United States-New York City
+1749,292,Inception Date,2015-03-21
+1750,292,Return Since Inception,-0.1234848695708761
+1751,292,Security Name,"Alon USA Partners, LP Common Units representing Limited Partner Interests"
+1752,293,Inception Date,2019-04-01
+1753,293,Exchange location,United States-New York City
+1754,293,Asset Class,International Equity
+1755,293,Exchange name,New York Stock Exchange
+1756,293,Security Name,Nuveenn Intermediate Duration Quality Municipal Term Fund Common Shares of Beneficial Interest
+1757,293,Return Since Inception,0.1998395379808046
+1758,294,Exchange name,New York Stock Exchange
+1759,294,Security Name,United Microelectronics Corporation (NEW) Common Stock
+1760,294,Inception Date,2001-08-18
+1761,294,Asset Class,Domestic Equity
+1762,294,Exchange location,United States-New York City
+1763,294,Return Since Inception,
+1764,295,Return Since Inception,
+1765,295,Exchange name,New York Stock Exchange
+1766,295,Inception Date,2019-10-31
+1767,295,Security Name,Exelon Corp. Conv Unit
+1768,295,Asset Class,Domestic Equity
+1769,295,Exchange location,United States-New York City
+1770,296,Return Since Inception,-0.1659819158097616
+1771,296,Inception Date,2013-06-16
+1772,296,Asset Class,Domestic Equity
+1773,296,Security Name,Brookfield DTLA Inc. 7.625% Series A Cumulative Redeemable Preferred Stock
+1774,296,Exchange name,New York Stock Exchange
+1775,296,Exchange location,United States-New York City
+1776,297,Return Since Inception,-0.178789834691143
+1777,297,Asset Class,Domestic Equity
+1778,297,Exchange location,United States-New York City
+1779,297,Inception Date,2017-06-20
+1780,297,Exchange name,New York Stock Exchange
+1781,297,Security Name,Blackrock MuniYield Investment Fund Common Stock
+1782,298,Exchange name,New York Stock Exchange
+1783,298,Exchange location,United States-New York City
+1784,298,Return Since Inception,-0.1864388984655056
+1785,298,Inception Date,
+1786,298,Asset Class,Domestic Equity
+1787,298,Security Name,"Hill International, Inc. Common Stock"
+1788,299,Exchange name,New York Stock Exchange
+1789,299,Exchange location,United States-New York City
+1790,299,Inception Date,2003-01-19
+1791,299,Return Since Inception,-0.1553244704449144
+1792,299,Security Name,ProShares UltraShort MidCap400
+1793,299,Asset Class,ETF
+1794,300,Exchange name,New York Stock Exchange
+1795,300,Inception Date,2014-04-30
+1796,300,Return Since Inception,-0.0792022406553192
+1797,300,Asset Class,International Equity
+1798,300,Security Name,"TCW Strategic Income Fund, Inc. Common Stock"
+1799,300,Exchange location,United States-New York City
+1800,301,Return Since Inception,0.1675381013775546
+1801,301,Security Name,iShares iBonds  Sep 2016 AMT-Free Muni Bond ETF
+1802,301,Exchange name,New York Stock Exchange
+1803,301,Inception Date,
+1804,301,Asset Class,ETF
+1805,301,Exchange location,United States-New York City
+1806,302,Inception Date,2021-05-03
+1807,302,Exchange location,United States-New York City
+1808,302,Exchange name,New York Stock Exchange
+1809,302,Asset Class,Domestic Equity
+1810,302,Return Since Inception,-0.0822850545556645
+1811,302,Security Name,"Lexmark International, Inc. Common Stock"
+1812,303,Asset Class,Domestic Equity
+1813,303,Security Name,Alon Blue Square Israel Ltd.
+1814,303,Return Since Inception,0.0158735210695912
+1815,303,Inception Date,2003-10-02
+1816,303,Exchange location,United States-New York City
+1817,303,Exchange name,New York Stock Exchange
+1818,304,Exchange name,Nasdaq
+1819,304,Security Name,Euro Stoxx 50 ETF
+1820,304,Inception Date,2017-04-28
+1821,304,Exchange location,United States-New York City
+1822,304,Asset Class,ETF
+1823,304,Return Since Inception,0.2535655765574386
+1824,305,Security Name,FelCor Lodging Trust Incorporated Common Stock
+1825,305,Exchange name,Nasdaq
+1826,305,Return Since Inception,0.1549070006043496
+1827,305,Exchange location,United States-New York City
+1828,305,Inception Date,2003-08-29
+1829,305,Asset Class,Domestic Equity
+1830,306,Return Since Inception,-0.0126371962993375
+1831,306,Asset Class,International Equity
+1832,306,Exchange location,United States-New York City
+1833,306,Exchange name,Nasdaq
+1834,306,Inception Date,2005-11-24
+1835,306,Security Name,Axis Capital Holdings Limited Preferred Series C (Bermuda)
+1836,307,Asset Class,International Equity
+1837,307,Exchange name,Nasdaq
+1838,307,Return Since Inception,0.1410855233948985
+1839,307,Inception Date,2009-02-21
+1840,307,Security Name,Tennant Company Common Stock
+1841,307,Exchange location,United States-New York City
+1842,308,Asset Class,
+1843,308,Return Since Inception,0.148554062398361
+1844,308,Inception Date,2001-04-05
+1845,308,Security Name,Qwest Corporation 6.875% Notes due 2054
+1846,308,Exchange name,Nasdaq
+1847,308,Exchange location,United States-New York City
+1848,309,Security Name,iShares MSCI Japan Sm Cap
+1849,309,Exchange location,United States-New York City
+1850,309,Inception Date,2003-05-27
+1851,309,Return Since Inception,0.0808606844329885
+1852,309,Asset Class,ETF
+1853,309,Exchange name,Nasdaq
+1854,310,Inception Date,2001-10-06
+1855,310,Security Name,iShares 0-5 Year Investment Grade Corporate Bond ETF
+1856,310,Exchange location,United States-New York City
+1857,310,Exchange name,Nasdaq
+1858,310,Asset Class,ETF
+1859,310,Return Since Inception,-0.0808275276089075
+1860,311,Asset Class,International Equity
+1861,311,Exchange name,Nasdaq
+1862,311,Security Name,"Springleaf Holdings, Inc. Common Stock"
+1863,311,Inception Date,2003-01-31
+1864,311,Return Since Inception,0.2639598866966772
+1865,311,Exchange location,United States-New York City
+1866,312,Security Name,"Legg Mason, Inc. Common Stock"
+1867,312,Asset Class,International Equity
+1868,312,Exchange name,Nasdaq
+1869,312,Inception Date,2019-09-12
+1870,312,Return Since Inception,-0.0501865370605689
+1871,312,Exchange location,United States-New York City
+1872,313,Return Since Inception,0.0308583614825224
+1873,313,Asset Class,International Equity
+1874,313,Security Name,Avalon Holdings Corporation Common Stock
+1875,313,Exchange name,Nasdaq
+1876,313,Inception Date,2013-07-14
+1877,313,Exchange location,United States-New York City
+1878,314,Exchange name,Nasdaq
+1879,314,Exchange location,United States-New York City
+1880,314,Asset Class,Domestic Equity
+1881,314,Inception Date,2015-03-02
+1882,314,Security Name,"Evolution Petroleum Corporation, Inc. 8.5% Series A Cumulative Pfd Stk"
+1883,314,Return Since Inception,0.2753685871562935
+1884,315,Security Name,UNITIL Corporation Common Stock
+1885,315,Exchange name,Nasdaq
+1886,315,Return Since Inception,-0.1114529959300329
+1887,315,Asset Class,Domestic Equity
+1888,315,Inception Date,2022-09-18
+1889,315,Exchange location,United States-New York City
+1890,316,Return Since Inception,0.0765635459968868
+1891,316,Inception Date,2016-11-24
+1892,316,Exchange location,United States-New York City
+1893,316,Security Name,"Navigant Consulting, Inc. Common Stock"
+1894,316,Asset Class,Domestic Equity
+1895,316,Exchange name,Nasdaq
+1896,317,Exchange name,Nasdaq
+1897,317,Asset Class,
+1898,317,Inception Date,2016-06-06
+1899,317,Exchange location,United States-New York City
+1900,317,Security Name,Kronos Worldwide Inc Common Stock
+1901,317,Return Since Inception,0.2930622100247278
+1902,318,Return Since Inception,0.1015933334148673
+1903,318,Inception Date,2022-05-06
+1904,318,Security Name,US Bancorp Del Dep Shs Repstg 1/1000th Perp Pfd Ser H
+1905,318,Asset Class,
+1906,318,Exchange name,Nasdaq
+1907,318,Exchange location,United States-New York City
+1908,319,Return Since Inception,-0.2737486436074862
+1909,319,Inception Date,2008-02-07
+1910,319,Asset Class,Domestic Equity
+1911,319,Security Name,"Penske Automotive Group, Inc. Common Stock"
+1912,319,Exchange location,United States-New York City
+1913,319,Exchange name,Nasdaq
+1914,320,Return Since Inception,-0.0739151730567199
+1915,320,Exchange location,United States-New York City
+1916,320,Exchange name,Nasdaq
+1917,320,Security Name,Schwab Fundamental International Large Company Index ETF
+1918,320,Asset Class,ETF
+1919,320,Inception Date,2016-02-17
+1920,321,Return Since Inception,0.1196936488426672
+1921,321,Inception Date,2016-03-11
+1922,321,Exchange name,Nasdaq
+1923,321,Exchange location,United States-New York City
+1924,321,Asset Class,
+1925,321,Security Name,"Ameriprise Financial, Inc. Common Stock"
+1926,322,Exchange name,Nasdaq
+1927,322,Return Since Inception,0.2648737471675095
+1928,322,Inception Date,
+1929,322,Exchange location,United States-New York City
+1930,322,Security Name,Cabco Tr Jcp 7.625 Common Stock
+1931,322,Asset Class,International Equity
+1932,323,Security Name,ProShares UltraShort Euro
+1933,323,Return Since Inception,
+1934,323,Exchange name,Nasdaq
+1935,323,Asset Class,ETF
+1936,323,Exchange location,United States-New York City
+1937,323,Inception Date,2001-10-30
+1938,324,Exchange name,Nasdaq
+1939,324,Asset Class,Domestic Equity
+1940,324,Exchange location,United States-New York City
+1941,324,Inception Date,2008-07-18
+1942,324,Security Name,"Dycom Industries, Inc. Common Stock"
+1943,324,Return Since Inception,0.3021444301573791
+1944,325,Exchange location,United States-New York City
+1945,325,Asset Class,Domestic Equity
+1946,325,Return Since Inception,-0.1470292303553986
+1947,325,Exchange name,Nasdaq
+1948,325,Security Name,TRW Automotive Holdings Corporation Common Stock
+1949,325,Inception Date,2010-09-30
+1950,326,Exchange name,Nasdaq
+1951,326,Security Name,iShares iBonds Dec 2020 Corporate ETF
+1952,326,Return Since Inception,-0.1087650510488324
+1953,326,Inception Date,2011-06-02
+1954,326,Exchange location,United States-New York City
+1955,326,Asset Class,ETF
+1956,327,Security Name,PowerShares FTSE RAFI Asia Pacific ex-Japan Portfolio
+1957,327,Exchange name,Nasdaq
+1958,327,Return Since Inception,0.1429307353524512
+1959,327,Exchange location,United States-New York City
+1960,327,Asset Class,
+1961,327,Inception Date,
+1962,328,Exchange name,Nasdaq
+1963,328,Asset Class,International Equity
+1964,328,Inception Date,
+1965,328,Exchange location,United States-New York City
+1966,328,Security Name,Brookfield Residential Properties Inc. Common Stock
+1967,328,Return Since Inception,-0.1388402004044047
+1968,329,Asset Class,ETF
+1969,329,Security Name,ProShares Ultra Semiconductors
+1970,329,Exchange location,United States-New York City
+1971,329,Return Since Inception,-0.1641376961406439
+1972,329,Inception Date,2020-03-27
+1973,329,Exchange name,Nasdaq
+1974,330,Return Since Inception,0.0638568875544949
+1975,330,Inception Date,2017-07-29
+1976,330,Exchange name,Nasdaq
+1977,330,Exchange location,United States-New York City
+1978,330,Security Name,Pimco Corporate & Income Strategy Fund Common Stock
+1979,330,Asset Class,International Equity
+1980,331,Asset Class,International Equity
+1981,331,Exchange location,United States-New York City
+1982,331,Security Name,Healthcare Realty Trust Incorporated Common Stock
+1983,331,Return Since Inception,0.281179806247547
+1984,331,Inception Date,2014-05-22
+1985,331,Exchange name,Nasdaq
+1986,332,Inception Date,2010-02-21
+1987,332,Security Name,iPath Bloomberg Grains Total Return Sub-Index ETN
+1988,332,Exchange name,Nasdaq
+1989,332,Return Since Inception,-0.0453136335307008
+1990,332,Exchange location,United States-New York City
+1991,332,Asset Class,Domestic Equity
+1992,333,Asset Class,Domestic Equity
+1993,333,Security Name,"China Green Agriculture, Inc. Common Stock"
+1994,333,Return Since Inception,0.0150918642685322
+1995,333,Inception Date,2010-04-25
+1996,333,Exchange location,United States-New York City
+1997,333,Exchange name,Nasdaq
+1998,334,Return Since Inception,-0.010821803913569
+1999,334,Exchange name,Nasdaq
+2000,334,Inception Date,2021-04-23
+2001,334,Security Name,iShares Cohen & Steers REIT ETF
+2002,334,Asset Class,ETF
+2003,334,Exchange location,United States-New York City
+2004,335,Exchange name,Nasdaq
+2005,335,Return Since Inception,
+2006,335,Inception Date,2014-09-29
+2007,335,Security Name,Guggenheim BulletShares 2022 Corporate Bond ETF
+2008,335,Asset Class,ETF
+2009,335,Exchange location,United States-New York City
+2010,336,Security Name,ProShares Short Euro
+2011,336,Exchange name,Nasdaq
+2012,336,Exchange location,United States-New York City
+2013,336,Inception Date,2023-03-19
+2014,336,Asset Class,ETF
+2015,336,Return Since Inception,-0.1077814227124454
+2016,337,Exchange location,United States-New York City
+2017,337,Asset Class,International Equity
+2018,337,Return Since Inception,-0.3824466834644792
+2019,337,Security Name,"Omega Healthcare Investors, Inc. Common Stock"
+2020,337,Exchange name,Nasdaq
+2021,337,Inception Date,2004-12-22
+2022,338,Security Name,Medley Capital Corporation Common Stock
+2023,338,Exchange name,Nasdaq
+2024,338,Exchange location,United States-New York City
+2025,338,Asset Class,International Equity
+2026,338,Inception Date,
+2027,338,Return Since Inception,-0.3253100467514555
+2028,339,Exchange name,Nasdaq
+2029,339,Security Name,ENI S.p.A. Common Stock
+2030,339,Asset Class,International Equity
+2031,339,Return Since Inception,0.041028524885288
+2032,339,Inception Date,2019-12-15
+2033,339,Exchange location,United States-New York City
+2034,340,Security Name,"Empire State Realty OP, L.P. Series 250 Operating Partnership Units Representing Limited Partnership Interests"
+2035,340,Exchange name,Nasdaq
+2036,340,Inception Date,2021-12-16
+2037,340,Asset Class,International Equity
+2038,340,Return Since Inception,-0.1335399925743578
+2039,340,Exchange location,United States-New York City
+2040,341,Asset Class,ETF
+2041,341,Exchange location,United States-New York City
+2042,341,Inception Date,2000-09-29
+2043,341,Exchange name,Nasdaq
+2044,341,Return Since Inception,-0.0203574828148211
+2045,341,Security Name,Direxion Daily S&P 500 Bear 3X
+2046,342,Security Name,"McDermott International, Inc. Common Stock"
+2047,342,Asset Class,Domestic Equity
+2048,342,Exchange location,United States-New York City
+2049,342,Inception Date,2009-04-06
+2050,342,Exchange name,Nasdaq
+2051,342,Return Since Inception,
+2052,343,Return Since Inception,0.0913362963697893
+2053,343,Inception Date,2019-01-28
+2054,343,Exchange name,Nasdaq
+2055,343,Security Name,Cutwater Select Income Fund
+2056,343,Asset Class,International Equity
+2057,343,Exchange location,United States-New York City
+2058,344,Inception Date,2008-08-29
+2059,344,Asset Class,Domestic Equity
+2060,344,Return Since Inception,0.1205313721683507
+2061,344,Security Name,Enbridge Energy Management LLC Shares repstg limited liability company interests
+2062,344,Exchange location,United States-New York City
+2063,344,Exchange name,Nasdaq
+2064,345,Security Name,"Aberdeen Greater China Fund, Inc. Common Stock"
+2065,345,Return Since Inception,0.3477682987036454
+2066,345,Exchange name,Nasdaq
+2067,345,Inception Date,2010-12-08
+2068,345,Asset Class,Domestic Equity
+2069,345,Exchange location,United States-New York City
+2070,346,Asset Class,Domestic Equity
+2071,346,Inception Date,2001-02-19
+2072,346,Security Name,DoubleLine Income Solutions Fund Common Shares of Beneficial Interests
+2073,346,Exchange name,Nasdaq
+2074,346,Return Since Inception,0.0822621532188167
+2075,346,Exchange location,United States-New York City
+2076,347,Exchange location,United States-New York City
+2077,347,Inception Date,2001-04-30
+2078,347,Security Name,"Atlas Pipeline Partners, L.P. Common Units, No Par Value"
+2079,347,Return Since Inception,0.3430905838562424
+2080,347,Exchange name,Nasdaq
+2081,347,Asset Class,
+2082,348,Exchange location,United States-New York City
+2083,348,Security Name,"E-Commerce China Dangdang Inc. American Depositary Shares, each representing five Class A common shares"
+2084,348,Exchange name,Nasdaq
+2085,348,Asset Class,International Equity
+2086,348,Return Since Inception,0.0409110251115364
+2087,348,Inception Date,2011-06-27
+2088,349,Security Name,Lake Shore Gold Corp Ordinary Shares (Canada)
+2089,349,Asset Class,Domestic Equity
+2090,349,Inception Date,2017-09-03
+2091,349,Exchange location,United States-New York City
+2092,349,Return Since Inception,
+2093,349,Exchange name,Nasdaq
+2094,350,Exchange name,Nasdaq
+2095,350,Exchange location,United States-New York City
+2096,350,Asset Class,Domestic Equity
+2097,350,Return Since Inception,0.1619563993718354
+2098,350,Security Name,"L-3 Communications Holdings, Inc. Common Stock"
+2099,350,Inception Date,2000-10-16
+2100,351,Return Since Inception,0.2235350342577307
+2101,351,Security Name,Ryerson Holding Corporation Common Stock
+2102,351,Exchange name,Nasdaq
+2103,351,Inception Date,2014-11-09
+2104,351,Asset Class,Domestic Equity
+2105,351,Exchange location,United States-New York City
+2106,352,Inception Date,2007-01-04
+2107,352,Return Since Inception,
+2108,352,Exchange name,Nasdaq
+2109,352,Security Name,PowerShares DWA Healthcare Momentum Portfolio
+2110,352,Asset Class,ETF
+2111,352,Exchange location,United States-New York City
+2112,353,Inception Date,2016-04-19
+2113,353,Return Since Inception,0.0695772086072479
+2114,353,Asset Class,
+2115,353,Exchange location,United States-New York City
+2116,353,Security Name,"M&T Bank Corporation Fixed Rate Cumulative Perpetual Preferred Stock, Series A"
+2117,353,Exchange name,Nasdaq
+2118,354,Return Since Inception,0.1437348935717476
+2119,354,Security Name,BlackRock Municipal Target Term Trust Inc. (The) Common Shares of Beneficial Interest
+2120,354,Exchange name,Nasdaq
+2121,354,Inception Date,2006-02-27
+2122,354,Asset Class,International Equity
+2123,354,Exchange location,United States-New York City
+2124,355,Inception Date,2020-10-05
+2125,355,Return Since Inception,0.3305037017957616
+2126,355,Security Name,Tenaris S.A. American Depositary Shares
+2127,355,Exchange location,United States-New York City
+2128,355,Exchange name,Nasdaq
+2129,355,Asset Class,International Equity
+2130,356,Return Since Inception,-0.0552656672513858
+2131,356,Exchange location,United States-New York City
+2132,356,Asset Class,International Equity
+2133,356,Inception Date,2017-03-22
+2134,356,Security Name,Box Ships Inc. 9.00% Series C Cumulative Perpetual Preferred Stock
+2135,356,Exchange name,Nasdaq
+2136,357,Security Name,ProShares Investment Grade-Interest Rate Hedged
+2137,357,Inception Date,2005-04-03
+2138,357,Asset Class,ETF
+2139,357,Exchange location,United States-New York City
+2140,357,Exchange name,Nasdaq
+2141,357,Return Since Inception,-0.0401204638405904
+2142,358,Inception Date,2019-09-07
+2143,358,Exchange location,United States-New York City
+2144,358,Security Name,Guggenheim BulletShares 2016 High Yield Corporate Bond ETF
+2145,358,Return Since Inception,-0.0760323863645982
+2146,358,Exchange name,Nasdaq
+2147,358,Asset Class,ETF
+2148,359,Inception Date,2012-02-08
+2149,359,Asset Class,International Equity
+2150,359,Exchange location,United States-New York City
+2151,359,Exchange name,Nasdaq
+2152,359,Return Since Inception,0.008637601470886
+2153,359,Security Name,"Exterran Holdings, Inc. Common Stock"
+2154,360,Return Since Inception,0.0100768236382422
+2155,360,Asset Class,International Equity
+2156,360,Exchange location,United States-New York City
+2157,360,Security Name,"Voya Financial, Inc. Common Stock"
+2158,360,Inception Date,
+2159,360,Exchange name,Nasdaq
+2160,361,Asset Class,Domestic Equity
+2161,361,Return Since Inception,-0.1355182055363092
+2162,361,Exchange name,Nasdaq
+2163,361,Inception Date,2019-04-20
+2164,361,Exchange location,United States-New York City
+2165,361,Security Name,Kimberly-Clark Corporation Common Stock
+2166,362,Security Name,Sprint Corporation Common Stock
+2167,362,Return Since Inception,-0.0720264718093147
+2168,362,Asset Class,Domestic Equity
+2169,362,Exchange location,United States-New York City
+2170,362,Exchange name,Nasdaq
+2171,362,Inception Date,
+2172,363,Exchange location,United States-New York City
+2173,363,Exchange name,Nasdaq
+2174,363,Return Since Inception,0.0677743291430253
+2175,363,Asset Class,Domestic Equity
+2176,363,Security Name,"Rexford Industrial Realty, Inc. Common Stock"
+2177,363,Inception Date,2012-10-09
+2178,364,Inception Date,2004-06-06
+2179,364,Security Name,SPDR MidCap Trust Series I
+2180,364,Exchange name,Nasdaq
+2181,364,Return Since Inception,-0.3401706203385035
+2182,364,Exchange location,United States-New York City
+2183,364,Asset Class,ETF
+2184,365,Exchange location,United States-New York City
+2185,365,Inception Date,2009-03-04
+2186,365,Exchange name,Nasdaq
+2187,365,Return Since Inception,
+2188,365,Asset Class,ETF
+2189,365,Security Name,Pimco 15  Year U.S. TIPS Index Exchange-Traded Fund
+2190,366,Exchange name,Nasdaq
+2191,366,Return Since Inception,-0.2673994993448691
+2192,366,Exchange location,United States-New York City
+2193,366,Security Name,McKesson Corporation Common Stock
+2194,366,Asset Class,International Equity
+2195,366,Inception Date,2012-03-28
+2196,367,Asset Class,Domestic Equity
+2197,367,Exchange name,Nasdaq
+2198,367,Inception Date,2010-03-06
+2199,367,Security Name,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest
+2200,367,Exchange location,United States-New York City
+2201,367,Return Since Inception,0.0516320770020301
+2202,368,Return Since Inception,0.0621118105443937
+2203,368,Inception Date,2000-01-01
+2204,368,Exchange location,United States-New York City
+2205,368,Asset Class,International Equity
+2206,368,Exchange name,Nasdaq
+2207,368,Security Name,RBS Capital Funding Trust VI
+2208,369,Return Since Inception,
+2209,369,Asset Class,Domestic Equity
+2210,369,Security Name,Salesforce.com Inc Common Stock
+2211,369,Exchange name,Nasdaq
+2212,369,Exchange location,United States-New York City
+2213,369,Inception Date,2018-03-23
+2214,370,Security Name,PowerShares Dynamic Media
+2215,370,Exchange location,United States-New York City
+2216,370,Return Since Inception,0.0530942415446443
+2217,370,Inception Date,2015-05-05
+2218,370,Exchange name,Nasdaq
+2219,370,Asset Class,ETF
+2220,371,Inception Date,2006-08-23
+2221,371,Exchange name,Nasdaq
+2222,371,Security Name,Synchrony Financial Common Stock
+2223,371,Return Since Inception,0.2038907246441189
+2224,371,Asset Class,International Equity
+2225,371,Exchange location,United States-New York City
+2226,372,Exchange name,Nasdaq
+2227,372,Exchange location,United States-New York City
+2228,372,Asset Class,International Equity
+2229,372,Inception Date,2013-12-04
+2230,372,Return Since Inception,-0.0050895110720418
+2231,372,Security Name,"Nuveen Quality Municipal Fund, Inc.  Common Stock"
+2232,373,Asset Class,International Equity
+2233,373,Security Name,"RSP Permian, Inc. Common Stock"
+2234,373,Return Since Inception,
+2235,373,Inception Date,2012-03-25
+2236,373,Exchange name,Nasdaq
+2237,373,Exchange location,United States-New York City
+2238,374,Inception Date,2007-04-12
+2239,374,Return Since Inception,0.0730843675869359
+2240,374,Exchange name,Nasdaq
+2241,374,Security Name,Mesabi Trust Common Stock
+2242,374,Asset Class,Domestic Equity
+2243,374,Exchange location,United States-New York City
+2244,375,Return Since Inception,-0.0832659713960622
+2245,375,Exchange location,United States-New York City
+2246,375,Asset Class,International Equity
+2247,375,Security Name,Hess Corporation Common Stock
+2248,375,Exchange name,Nasdaq
+2249,375,Inception Date,
+2250,376,Inception Date,2022-01-20
+2251,376,Exchange location,United States-New York City
+2252,376,Asset Class,International Equity
+2253,376,Return Since Inception,-0.0264564424231843
+2254,376,Security Name,PowerShares DB 3X Short 25 Year Treasury Bond ETN
+2255,376,Exchange name,Nasdaq
+2256,377,Asset Class,Domestic Equity
+2257,377,Return Since Inception,0.1642664272427222
+2258,377,Exchange location,United States-New York City
+2259,377,Exchange name,Nasdaq
+2260,377,Security Name,"Caterpillar, Inc. Common Stock"
+2261,377,Inception Date,2004-04-01
+2262,378,Exchange name,Nasdaq
+2263,378,Security Name,iShares MSCI Israel Capped Investable Market Index Fund
+2264,378,Asset Class,ETF
+2265,378,Exchange location,United States-New York City
+2266,378,Inception Date,2009-12-17
+2267,378,Return Since Inception,0.1322055574462528
+2268,379,Exchange location,United States-New York City
+2269,379,Return Since Inception,-0.0627983074364853
+2270,379,Asset Class,Domestic Equity
+2271,379,Inception Date,2007-06-11
+2272,379,Security Name,"Cullen/Frost Bankers, Inc. Perpetual Preferred Series A"
+2273,379,Exchange name,Nasdaq
+2274,380,Inception Date,2005-05-22
+2275,380,Asset Class,ETF
+2276,380,Security Name,Market Vectors High Yield Municipal Index ETF
+2277,380,Exchange name,Nasdaq
+2278,380,Return Since Inception,-0.4188735656074436
+2279,380,Exchange location,United States-New York City
+2280,381,Exchange location,United States-New York City
+2281,381,Return Since Inception,0.1286687637082957
+2282,381,Asset Class,Domestic Equity
+2283,381,Security Name,"Duff & Phelps Utility & Corporate Bond Trust, Inc. Common Stock"
+2284,381,Inception Date,2003-12-11
+2285,381,Exchange name,Nasdaq
+2286,382,Security Name,Cel-Sci Corporation Warrants Exp 10/11/2018
+2287,382,Exchange location,United States-New York City
+2288,382,Asset Class,International Equity
+2289,382,Exchange name,Nasdaq
+2290,382,Inception Date,2009-09-30
+2291,382,Return Since Inception,0.3939753973486565
+2292,383,Exchange location,United States-New York City
+2293,383,Return Since Inception,-0.0611386465400597
+2294,383,Security Name,Denbury Resources Inc. Common Stock
+2295,383,Exchange name,Nasdaq
+2296,383,Asset Class,
+2297,383,Inception Date,2009-11-24
+2298,384,Security Name,Brookfield Global Listed Infrastructure Income Fund Closed End Fund
+2299,384,Return Since Inception,0.2421923942166602
+2300,384,Exchange name,Nasdaq
+2301,384,Exchange location,United States-New York City
+2302,384,Asset Class,Domestic Equity
+2303,384,Inception Date,2016-02-28
+2304,385,Asset Class,International Equity
+2305,385,Exchange location,United States-New York City
+2306,385,Return Since Inception,0.3206254946015406
+2307,385,Security Name,Luxfer Holdings PLC American Depositary Shares (each representing one-half of an Ordinary Share)
+2308,385,Exchange name,Nasdaq
+2309,385,Inception Date,2017-03-17
+2310,386,Asset Class,ETF
+2311,386,Security Name,WBI SMID Tactical Select Shares
+2312,386,Exchange location,United States-New York City
+2313,386,Exchange name,Nasdaq
+2314,386,Inception Date,2014-03-14
+2315,386,Return Since Inception,-0.058693240174478
+2316,387,Exchange name,Nasdaq
+2317,387,Asset Class,ETF
+2318,387,Return Since Inception,0.1365667027398871
+2319,387,Inception Date,2008-12-10
+2320,387,Security Name,United States Copper Index Fund ETV
+2321,387,Exchange location,United States-New York City
+2322,388,Inception Date,2000-07-18
+2323,388,Return Since Inception,
+2324,388,Security Name,Comcast Holdings ZONES
+2325,388,Asset Class,Domestic Equity
+2326,388,Exchange name,Nasdaq
+2327,388,Exchange location,United States-New York City
+2328,389,Return Since Inception,0.1054490921368956
+2329,389,Security Name,Ingersoll-Rand plc (Ireland)
+2330,389,Exchange name,Nasdaq
+2331,389,Exchange location,United States-New York City
+2332,389,Inception Date,2013-05-28
+2333,389,Asset Class,Domestic Equity
+2334,390,Security Name,SPDR Barclays High Yield Bond ETF
+2335,390,Return Since Inception,0.0090547233079253
+2336,390,Asset Class,ETF
+2337,390,Inception Date,2016-02-12
+2338,390,Exchange name,Nasdaq
+2339,390,Exchange location,United States-New York City
+2340,391,Exchange name,Nasdaq
+2341,391,Inception Date,2008-04-18
+2342,391,Exchange location,United States-New York City
+2343,391,Asset Class,
+2344,391,Security Name,"PS Business Parks, Inc. Common Stock"
+2345,391,Return Since Inception,0.0140312563375851
+2346,392,Exchange name,Nasdaq
+2347,392,Inception Date,2013-05-02
+2348,392,Return Since Inception,0.0788096252181855
+2349,392,Security Name,WBI Tactical High Income Shares
+2350,392,Asset Class,ETF
+2351,392,Exchange location,United States-New York City
+2352,393,Inception Date,2017-11-23
+2353,393,Exchange name,Nasdaq
+2354,393,Security Name,Corporate Executive Board Company (The) Common Stock
+2355,393,Return Since Inception,0.1688220701045864
+2356,393,Asset Class,Domestic Equity
+2357,393,Exchange location,United States-New York City
+2358,394,Asset Class,Domestic Equity
+2359,394,Return Since Inception,-0.1188302322443628
+2360,394,Inception Date,2013-06-03
+2361,394,Security Name,Assured Guaranty Ltd.
+2362,394,Exchange name,Nasdaq
+2363,394,Exchange location,United States-New York City
+2364,395,Return Since Inception,-0.2201830804377157
+2365,395,Inception Date,
+2366,395,Security Name,"Delek US Holdings, Inc. Common Stock"
+2367,395,Asset Class,Domestic Equity
+2368,395,Exchange name,Nasdaq
+2369,395,Exchange location,United States-New York City
+2370,396,Asset Class,ETF
+2371,396,Security Name,Fidelity MSCI COnsumer Staples Index ETF
+2372,396,Return Since Inception,-0.0333393684346093
+2373,396,Exchange name,Nasdaq
+2374,396,Inception Date,
+2375,396,Exchange location,United States-New York City
+2376,397,Asset Class,Domestic Equity
+2377,397,Security Name,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares"
+2378,397,Inception Date,2002-01-14
+2379,397,Exchange location,United States-New York City
+2380,397,Exchange name,Nasdaq
+2381,397,Return Since Inception,0.4168816041859788
+2382,398,Return Since Inception,-0.3425160700492317
+2383,398,Inception Date,2022-03-19
+2384,398,Exchange location,United States-New York City
+2385,398,Asset Class,Domestic Equity
+2386,398,Exchange name,Nasdaq
+2387,398,Security Name,Transdigm Group Incorporated Transdigm Group Inc. Common Stock
+2388,399,Exchange name,Nasdaq
+2389,399,Return Since Inception,-0.1871593985077337
+2390,399,Security Name,Market Vectors Indonesia Small Cap ETF
+2391,399,Asset Class,ETF
+2392,399,Inception Date,2015-05-23
+2393,399,Exchange location,United States-New York City
+2394,400,Return Since Inception,-0.0163188793244353
+2395,400,Asset Class,Domestic Equity
+2396,400,Security Name,"Thor Industries, Inc. Common Stock"
+2397,400,Inception Date,2022-04-13
+2398,400,Exchange name,Nasdaq
+2399,400,Exchange location,United States-New York City
+2400,401,Inception Date,2014-09-20
+2401,401,Security Name,Arlington Asset Investment Corp Class A (new)
+2402,401,Exchange name,Nasdaq
+2403,401,Return Since Inception,-0.1368406925466199
+2404,401,Exchange location,United States-New York City
+2405,401,Asset Class,Domestic Equity
+2406,402,Exchange name,Nasdaq
+2407,402,Return Since Inception,-0.2674667034245667
+2408,402,Exchange location,United States-New York City
+2409,402,Asset Class,International Equity
+2410,402,Security Name,Fresenius Medical Care AG Common Stock
+2411,402,Inception Date,2011-07-26
+2412,403,Exchange location,United States-New York City
+2413,403,Security Name,Bright Horizons Family Solutions Inc. Common Stock
+2414,403,Exchange name,Nasdaq
+2415,403,Inception Date,2004-03-31
+2416,403,Asset Class,Domestic Equity
+2417,403,Return Since Inception,-0.0885907863850238
+2418,404,Asset Class,ETF
+2419,404,Security Name,iShares MSCI Global Gold Miners Fund
+2420,404,Exchange name,Nasdaq
+2421,404,Inception Date,2002-12-23
+2422,404,Return Since Inception,-0.0999406557522033
+2423,404,Exchange location,United States-New York City
+2424,405,Exchange name,Nasdaq
+2425,405,Inception Date,2014-04-26
+2426,405,Return Since Inception,
+2427,405,Exchange location,United States-New York City
+2428,405,Security Name,Workplace Equality Portfolio ETF
+2429,405,Asset Class,ETF
+2430,406,Exchange location,United States-New York City
+2431,406,Asset Class,International Equity
+2432,406,Security Name,"Grana y Montero S.A.A. American Depositary Shares, each representing five Common Shares"
+2433,406,Exchange name,Nasdaq
+2434,406,Return Since Inception,0.0788786094694473
+2435,406,Inception Date,2021-01-29
+2436,407,Exchange name,Nasdaq
+2437,407,Return Since Inception,-0.4647618845003102
+2438,407,Security Name,"Interpublic Group of Companies, Inc. (The) Common Stock"
+2439,407,Exchange location,United States-New York City
+2440,407,Asset Class,Domestic Equity
+2441,407,Inception Date,2017-01-02
+2442,408,Security Name,"HC2 Holdings, Inc. Common Stock"
+2443,408,Asset Class,Domestic Equity
+2444,408,Inception Date,2021-03-10
+2445,408,Return Since Inception,-0.2027409423295083
+2446,408,Exchange name,Nasdaq
+2447,408,Exchange location,United States-New York City
+2448,409,Return Since Inception,0.4973721767928968
+2449,409,Asset Class,International Equity
+2450,409,Exchange name,Nasdaq
+2451,409,Inception Date,2009-10-09
+2452,409,Exchange location,United States-New York City
+2453,409,Security Name,"Synthetic Biologics, Inc. Common Stock"
+2454,410,Asset Class,Domestic Equity
+2455,410,Exchange name,Nasdaq
+2456,410,Inception Date,2021-12-29
+2457,410,Return Since Inception,-0.2566468063694558
+2458,410,Exchange location,United States-New York City
+2459,410,Security Name,Universal Corporation Common Stock
+2460,411,Return Since Inception,-0.0691167335497659
+2461,411,Asset Class,Domestic Equity
+2462,411,Exchange name,Nasdaq
+2463,411,Inception Date,
+2464,411,Security Name,"Goldman Sachs Group, Inc. (The) Depositary Share repstg 1/1000th Preferred Series C"
+2465,411,Exchange location,United States-New York City
+2466,412,Exchange name,Nasdaq
+2467,412,Inception Date,2007-03-06
+2468,412,Exchange location,United States-New York City
+2469,412,Return Since Inception,
+2470,412,Asset Class,Domestic Equity
+2471,412,Security Name,Skyline Corporation Common Stock
+2472,413,Security Name,Northstar Realty Finance Corp. 8.50% Series D Cumulative Redeemable Preferred Stock
+2473,413,Inception Date,2011-01-31
+2474,413,Exchange location,United States-New York City
+2475,413,Return Since Inception,-0.2281243768358554
+2476,413,Asset Class,Domestic Equity
+2477,413,Exchange name,Nasdaq
+2478,414,Security Name,iShares U.S. Financial ETF
+2479,414,Exchange location,United States-New York City
+2480,414,Asset Class,ETF
+2481,414,Return Since Inception,
+2482,414,Exchange name,Nasdaq
+2483,414,Inception Date,
+2484,415,Security Name,WisdomTree Dividend Ex-Financials Fund
+2485,415,Exchange location,United States-New York City
+2486,415,Asset Class,ETF
+2487,415,Exchange name,Nasdaq
+2488,415,Return Since Inception,-0.1141362139698492
+2489,415,Inception Date,2011-01-08
+2490,416,Inception Date,2012-03-17
+2491,416,Exchange location,United States-New York City
+2492,416,Asset Class,International Equity
+2493,416,Security Name,PowerShares DB Crude Oil Short ETN
+2494,416,Exchange name,Nasdaq
+2495,416,Return Since Inception,0.2433709087220683
+2496,417,Asset Class,Domestic Equity
+2497,417,Inception Date,
+2498,417,Exchange name,Nasdaq
+2499,417,Return Since Inception,
+2500,417,Exchange location,United States-New York City
+2501,417,Security Name,"Campus Crest Communities, Inc. Common Stock"
+2502,418,Security Name,iShares Morningstar Small-Cap Value ETFnd
+2503,418,Return Since Inception,-0.2953145171463588
+2504,418,Exchange location,United States-New York City
+2505,418,Asset Class,ETF
+2506,418,Exchange name,Nasdaq
+2507,418,Inception Date,2016-10-27
+2508,419,Asset Class,Domestic Equity
+2509,419,Exchange location,United States-New York City
+2510,419,Return Since Inception,-0.2161386382635647
+2511,419,Security Name,"Avalon Rare Metals, Inc. Ordinary Shares (Canada)"
+2512,419,Exchange name,Nasdaq
+2513,419,Inception Date,2017-10-21
+2514,420,Exchange location,United States-New York City
+2515,420,Return Since Inception,0.0989498172601174
+2516,420,Exchange name,Nasdaq
+2517,420,Inception Date,2022-04-19
+2518,420,Security Name,DB Agriculture Short ETN DB Agriculture Short ETN
+2519,420,Asset Class,International Equity
+2520,421,Exchange name,Nasdaq
+2521,421,Inception Date,2014-05-15
+2522,421,Exchange location,United States-New York City
+2523,421,Return Since Inception,-0.0936855272655773
+2524,421,Asset Class,ETF
+2525,421,Security Name,iShares U.S. Real Estate ETF
+2526,422,Exchange name,Nasdaq
+2527,422,Exchange location,United States-New York City
+2528,422,Inception Date,2002-07-12
+2529,422,Security Name,"Yum! Brands, Inc."
+2530,422,Return Since Inception,0.3638938994657695
+2531,422,Asset Class,Domestic Equity
+2532,423,Inception Date,
+2533,423,Return Since Inception,0.0010116743685262
+2534,423,Exchange location,United States-New York City
+2535,423,Asset Class,Domestic Equity
+2536,423,Security Name,"Intrepid Potash, Inc Common Stock"
+2537,423,Exchange name,Nasdaq
+2538,424,Exchange location,United States-New York City
+2539,424,Return Since Inception,-0.2179073051292432
+2540,424,Security Name,"Midstates Petroleum Company, Inc. Common Stock"
+2541,424,Inception Date,2005-03-01
+2542,424,Exchange name,Nasdaq
+2543,424,Asset Class,International Equity
+2544,425,Asset Class,ETF
+2545,425,Exchange name,Nasdaq
+2546,425,Return Since Inception,-1.955165856066357e-05
+2547,425,Exchange location,United States-New York City
+2548,425,Security Name,Vanguard Energy ETF
+2549,425,Inception Date,2016-07-14
+2550,426,Security Name,"Everyday Health, Inc. Common Stock"
+2551,426,Inception Date,2000-08-25
+2552,426,Exchange location,United States-New York City
+2553,426,Asset Class,International Equity
+2554,426,Exchange name,Nasdaq
+2555,426,Return Since Inception,-0.1506522619494213
+2556,427,Asset Class,
+2557,427,Inception Date,2015-06-05
+2558,427,Exchange location,United States-New York City
+2559,427,Exchange name,Nasdaq
+2560,427,Return Since Inception,0.0604201138638971
+2561,427,Security Name,Canadian National Railway Company Common Stock
+2562,428,Exchange location,United States-New York City
+2563,428,Asset Class,International Equity
+2564,428,Security Name,"CenturyLink, Inc. Common Stock"
+2565,428,Exchange name,Nasdaq
+2566,428,Inception Date,2002-12-20
+2567,428,Return Since Inception,-0.061787954810287
+2568,429,Inception Date,2022-01-03
+2569,429,Exchange name,Nasdaq
+2570,429,Return Since Inception,
+2571,429,Security Name,"DHT Holdings, Inc."
+2572,429,Exchange location,United States-New York City
+2573,429,Asset Class,International Equity
+2574,430,Security Name,Flaherty & Crumrine Dynamic Preferred and Income Fund Inc. Common Stock
+2575,430,Exchange location,United States-New York City
+2576,430,Asset Class,Domestic Equity
+2577,430,Return Since Inception,0.2058937286846229
+2578,430,Exchange name,Nasdaq
+2579,430,Inception Date,2018-12-05
+2580,431,Security Name,Griffon Corporation Common Stock
+2581,431,Exchange location,United States-New York City
+2582,431,Return Since Inception,-0.1795614823836927
+2583,431,Exchange name,Nasdaq
+2584,431,Inception Date,2004-05-17
+2585,431,Asset Class,Domestic Equity
+2586,432,Inception Date,2011-02-20
+2587,432,Exchange name,Nasdaq
+2588,432,Security Name,"Waddell & Reed Financial, Inc. Common Stock"
+2589,432,Return Since Inception,
+2590,432,Exchange location,United States-New York City
+2591,432,Asset Class,Domestic Equity
+2592,433,Asset Class,ETF
+2593,433,Security Name,iShares Global Industrials ETF
+2594,433,Inception Date,2018-03-17
+2595,433,Exchange location,United States-New York City
+2596,433,Exchange name,Nasdaq
+2597,433,Return Since Inception,-0.0097192636860802
+2598,434,Exchange name,Nasdaq
+2599,434,Return Since Inception,
+2600,434,Inception Date,2008-07-13
+2601,434,Security Name,"CBL & Associates Properties, Inc. Dep Shares Repstg 1/10th Preferred Series D"
+2602,434,Asset Class,Domestic Equity
+2603,434,Exchange location,United States-New York City
+2604,435,Exchange name,Nasdaq
+2605,435,Asset Class,
+2606,435,Return Since Inception,-0.0632767350920328
+2607,435,Exchange location,United States-New York City
+2608,435,Security Name,"Blackrock MuniYield Fund, Inc.  Common Stock"
+2609,435,Inception Date,
+2610,436,Security Name,Global X FTSE Greece 20 ETF
+2611,436,Exchange location,United States-New York City
+2612,436,Exchange name,Nasdaq
+2613,436,Return Since Inception,0.4230954418159027
+2614,436,Asset Class,ETF
+2615,436,Inception Date,
+2616,437,Asset Class,International Equity
+2617,437,Exchange name,Nasdaq
+2618,437,Inception Date,2012-07-16
+2619,437,Security Name,"Retail Properties of America, Inc. Pfd Ser A %"
+2620,437,Exchange location,United States-New York City
+2621,437,Return Since Inception,0.2321179961418161
+2622,438,Security Name,"MDU Resources Group, Inc. Common Stock"
+2623,438,Asset Class,
+2624,438,Inception Date,2007-08-22
+2625,438,Exchange name,Nasdaq
+2626,438,Return Since Inception,0.2430865842448729
+2627,438,Exchange location,United States-New York City
+2628,439,Security Name,United Continental Holdings
+2629,439,Exchange name,Nasdaq
+2630,439,Exchange location,United States-New York City
+2631,439,Return Since Inception,
+2632,439,Inception Date,2008-06-04
+2633,439,Asset Class,International Equity
+2634,440,Exchange location,United States-New York City
+2635,440,Return Since Inception,-0.2011319897952488
+2636,440,Security Name,First Trust Amex Biotech Index Fund
+2637,440,Inception Date,2000-04-19
+2638,440,Exchange name,Nasdaq
+2639,440,Asset Class,ETF
+2640,441,Exchange name,Nasdaq
+2641,441,Inception Date,2002-06-02
+2642,441,Security Name,iPath Long Extended Russell 1000 TR Index ETN
+2643,441,Exchange location,United States-New York City
+2644,441,Asset Class,International Equity
+2645,441,Return Since Inception,
+2646,442,Inception Date,2005-05-20
+2647,442,Exchange location,United States-New York City
+2648,442,Asset Class,Domestic Equity
+2649,442,Security Name,First Niagara Financial Group Inc. PFD NON CUM SER B FXD/FLTG
+2650,442,Exchange name,Nasdaq
+2651,442,Return Since Inception,-0.0923528152772888
+2652,443,Inception Date,2010-07-13
+2653,443,Exchange name,Euronext
+2654,443,Exchange location,Europe-Amsterdan
+2655,443,Asset Class,ETF
+2656,443,Return Since Inception,-0.2142785566639172
+2657,443,Security Name,InfraCap MLP ETF
+2658,444,Security Name,"Morgan Stanley Emerging Markets Fund, Inc. Common Stock"
+2659,444,Asset Class,International Equity
+2660,444,Inception Date,2003-07-16
+2661,444,Return Since Inception,0.1614743225469777
+2662,444,Exchange location,Europe-Amsterdan
+2663,444,Exchange name,Euronext
+2664,445,Exchange location,Europe-Amsterdan
+2665,445,Asset Class,ETF
+2666,445,Inception Date,2017-12-15
+2667,445,Return Since Inception,0.1330657183822382
+2668,445,Security Name,PowerShares Zacks Micro Cap
+2669,445,Exchange name,Euronext
+2670,446,Return Since Inception,-0.1204769657640032
+2671,446,Inception Date,2003-02-23
+2672,446,Exchange location,Europe-Amsterdan
+2673,446,Exchange name,Euronext
+2674,446,Security Name,iShares 10  Year Credit Bond ETF
+2675,446,Asset Class,ETF
+2676,447,Asset Class,International Equity
+2677,447,Exchange location,Europe-Amsterdan
+2678,447,Inception Date,2010-12-15
+2679,447,Security Name,"Grupo Financiero Santander Mexico S.A. B. de C.V. American Depositary Shares, each representing five Series B shares"
+2680,447,Exchange name,Euronext
+2681,447,Return Since Inception,-0.2038689201509628
+2682,448,Exchange location,Europe-Amsterdan
+2683,448,Exchange name,Euronext
+2684,448,Return Since Inception,0.21945304830734
+2685,448,Inception Date,2002-08-09
+2686,448,Security Name,Corporate Office Properties Trust Common Stock
+2687,448,Asset Class,Domestic Equity
+2688,449,Inception Date,2013-03-21
+2689,449,Security Name,Nuveen Floating Rate Income Opportuntiy Fund Shares of Beneficial Interest
+2690,449,Asset Class,International Equity
+2691,449,Return Since Inception,0.0350177707792182
+2692,449,Exchange name,Euronext
+2693,449,Exchange location,Europe-Amsterdan
+2694,450,Security Name,Taro Pharmaceutical Industries Ltd. Ordinary Shares
+2695,450,Exchange name,Euronext
+2696,450,Return Since Inception,0.0575737579936769
+2697,450,Asset Class,International Equity
+2698,450,Inception Date,2011-09-25
+2699,450,Exchange location,Europe-Amsterdan
+2700,451,Asset Class,ETF
+2701,451,Security Name,WisdomTree Indian Rupee Strategy Fund
+2702,451,Return Since Inception,-0.0397313820697187
+2703,451,Exchange location,Europe-Amsterdan
+2704,451,Inception Date,2008-02-03
+2705,451,Exchange name,Euronext
+2706,452,Return Since Inception,-0.0465895335917497
+2707,452,Asset Class,ETF
+2708,452,Security Name,Market Vectors Brazil Small-Cap ETF
+2709,452,Exchange location,Europe-Amsterdan
+2710,452,Inception Date,
+2711,452,Exchange name,Euronext
+2712,453,Return Since Inception,-0.0607654517182733
+2713,453,Exchange location,Europe-Amsterdan
+2714,453,Exchange name,Euronext
+2715,453,Security Name,Magnum Hunter Resources Corporation
+2716,453,Asset Class,International Equity
+2717,453,Inception Date,2006-11-05
+2718,454,Security Name,Colony Finl Inc Cum Red Perp Pfd Ser A %
+2719,454,Inception Date,2018-10-13
+2720,454,Exchange name,Euronext
+2721,454,Return Since Inception,
+2722,454,Exchange location,Europe-Amsterdan
+2723,454,Asset Class,International Equity
+2724,455,Inception Date,
+2725,455,Exchange name,Euronext
+2726,455,Exchange location,Europe-Amsterdan
+2727,455,Asset Class,
+2728,455,Return Since Inception,0.1902133554407636
+2729,455,Security Name,Perrigo Company plc Ordinary Shares
+2730,456,Exchange name,Shanghai Stock Exchange
+2731,456,Return Since Inception,-0.2003237213256949
+2732,456,Security Name,iShares International Preferred Stock ETF
+2733,456,Inception Date,2001-01-04
+2734,456,Asset Class,ETF
+2735,456,Exchange location,China-Shanghai
+2736,457,Return Since Inception,
+2737,457,Asset Class,ETF
+2738,457,Exchange location,China-Shanghai
+2739,457,Inception Date,2020-08-08
+2740,457,Security Name,ETFS Physical Swiss Gold Shares
+2741,457,Exchange name,Shanghai Stock Exchange
+2742,458,Security Name,China Telecom Corp Ltd ADS
+2743,458,Inception Date,2003-04-25
+2744,458,Asset Class,Domestic Equity
+2745,458,Exchange name,Shanghai Stock Exchange
+2746,458,Exchange location,China-Shanghai
+2747,458,Return Since Inception,-0.0939754274636614
+2748,459,Security Name,SPDR MSCI Canada Quality Mix ETF
+2749,459,Exchange location,China-Shanghai
+2750,459,Exchange name,Shanghai Stock Exchange
+2751,459,Inception Date,2018-06-18
+2752,459,Return Since Inception,-0.0592739362009861
+2753,459,Asset Class,ETF
+2754,460,Exchange name,Shanghai Stock Exchange
+2755,460,Return Since Inception,
+2756,460,Security Name,"BPZ Resources, Inc Common Stock"
+2757,460,Asset Class,Domestic Equity
+2758,460,Inception Date,2013-12-14
+2759,460,Exchange location,China-Shanghai
+2760,461,Security Name,"Aberdeen Emerging Markets Company Oppotunities Fund, Inc. Common Stock"
+2761,461,Exchange name,Shanghai Stock Exchange
+2762,461,Exchange location,China-Shanghai
+2763,461,Inception Date,2010-09-01
+2764,461,Return Since Inception,-0.2363864578330305
+2765,461,Asset Class,International Equity
+2766,462,Asset Class,International Equity
+2767,462,Exchange name,Shanghai Stock Exchange
+2768,462,Return Since Inception,
+2769,462,Inception Date,2013-02-09
+2770,462,Security Name,"Gamco Investors, Inc. Common Stock"
+2771,462,Exchange location,China-Shanghai
+2772,463,Asset Class,ETF
+2773,463,Return Since Inception,0.2094875139929019
+2774,463,Exchange location,China-Shanghai
+2775,463,Exchange name,Shanghai Stock Exchange
+2776,463,Inception Date,2007-09-28
+2777,463,Security Name,First Trust Utilities AlphaDEX Fund
+2778,464,Exchange name,Shanghai Stock Exchange
+2779,464,Security Name,W.R. Grace & Co. Common Stock
+2780,464,Exchange location,China-Shanghai
+2781,464,Asset Class,Domestic Equity
+2782,464,Return Since Inception,-0.1527934902685349
+2783,464,Inception Date,2005-06-03
+2784,465,Security Name,"U.S. Silica Holdings, Inc. Common Stock"
+2785,465,Asset Class,Domestic Equity
+2786,465,Return Since Inception,0.2507165176019195
+2787,465,Inception Date,2021-08-15
+2788,465,Exchange location,China-Shanghai
+2789,465,Exchange name,Shanghai Stock Exchange
+2790,466,Inception Date,2001-06-27
+2791,466,Asset Class,International Equity
+2792,466,Security Name,"Matson, Inc. Common Stock"
+2793,466,Exchange location,China-Shanghai
+2794,466,Return Since Inception,-0.0340883568243924
+2795,466,Exchange name,Shanghai Stock Exchange
+2796,467,Inception Date,
+2797,467,Asset Class,International Equity
+2798,467,Exchange location,China-Shanghai
+2799,467,Exchange name,Shanghai Stock Exchange
+2800,467,Security Name,Managed Duration Investment Grade Municipal Fund
+2801,467,Return Since Inception,-0.0436175865240264
+2802,468,Exchange name,Toronto Stock Exchange
+2803,468,Inception Date,2013-02-19
+2804,468,Asset Class,International Equity
+2805,468,Security Name,"Phoenix Companies, Inc. Phoenix Companies Inc 7.45% Pfd"
+2806,468,Exchange location,Canada-Toronto
+2807,468,Return Since Inception,0.1747200966103104
+2808,469,Exchange name,Toronto Stock Exchange
+2809,469,Exchange location,Canada-Toronto
+2810,469,Inception Date,2023-04-20
+2811,469,Asset Class,International Equity
+2812,469,Return Since Inception,0.12692999310203
+2813,469,Security Name,UGI Corporation Common Stock
+2814,470,Exchange name,Toronto Stock Exchange
+2815,470,Exchange location,Canada-Toronto
+2816,470,Inception Date,2003-07-03
+2817,470,Return Since Inception,0.111963164398631
+2818,470,Asset Class,International Equity
+2819,470,Security Name,Torchmark Corporation Common Stock
+2820,471,Security Name,PIMCO Municipal Income Fund III Common Shares of Beneficial Interest
+2821,471,Return Since Inception,0.0186503469613036
+2822,471,Inception Date,2019-04-17
+2823,471,Exchange location,Canada-Toronto
+2824,471,Asset Class,Domestic Equity
+2825,471,Exchange name,Toronto Stock Exchange
+2826,472,Inception Date,2009-08-28
+2827,472,Exchange name,Toronto Stock Exchange
+2828,472,Return Since Inception,0.3149941485735809
+2829,472,Exchange location,Canada-Toronto
+2830,472,Security Name,iShares Floating Rate Bond ETF
+2831,472,Asset Class,ETF
+2832,473,Asset Class,International Equity
+2833,473,Exchange name,Toronto Stock Exchange
+2834,473,Inception Date,
+2835,473,Exchange location,Canada-Toronto
+2836,473,Security Name,Western Asset/Claymore Inflation-Linked Securities & Income Fund Common Shares of Beneficial Interest
+2837,473,Return Since Inception,0.0470291342047646
+2838,474,Security Name,"Blackrock MuniYield Arizona Fund, Inc. Common Stock"
+2839,474,Asset Class,Domestic Equity
+2840,474,Inception Date,2014-07-26
+2841,474,Exchange location,Canada-Toronto
+2842,474,Exchange name,Toronto Stock Exchange
+2843,474,Return Since Inception,0.118358318130556
+2844,475,Asset Class,Domestic Equity
+2845,475,Inception Date,2009-11-04
+2846,475,Exchange name,Toronto Stock Exchange
+2847,475,Security Name,Apollo Commercial Real Estate Finance Cumulative Redeemable Perpetual Preferred Stock Series A
+2848,475,Exchange location,Canada-Toronto
+2849,475,Return Since Inception,-0.0987342298108105
+2850,476,Asset Class,Domestic Equity
+2851,476,Exchange name,Toronto Stock Exchange
+2852,476,Exchange location,Canada-Toronto
+2853,476,Inception Date,2013-09-01
+2854,476,Return Since Inception,-0.3117369402387444
+2855,476,Security Name,InnSuites Hospitality Trust Shares of Beneficial Interest
+2856,477,Inception Date,2016-11-23
+2857,477,Security Name,WBI SMID Tactical Yield Shares
+2858,477,Asset Class,ETF
+2859,477,Exchange name,Toronto Stock Exchange
+2860,477,Exchange location,Canada-Toronto
+2861,477,Return Since Inception,-0.3928761932404174
+2862,478,Asset Class,Domestic Equity
+2863,478,Exchange location,Canada-Toronto
+2864,478,Security Name,Corrections Corporation of America Common Stock
+2865,478,Return Since Inception,0.168923191448377
+2866,478,Inception Date,2006-10-13
+2867,478,Exchange name,Toronto Stock Exchange
+2868,479,Security Name,First Trust DJ Global Select Dividend
+2869,479,Inception Date,2002-09-28
+2870,479,Return Since Inception,
+2871,479,Exchange location,Canada-Toronto
+2872,479,Exchange name,Toronto Stock Exchange
+2873,479,Asset Class,ETF
+2874,480,Return Since Inception,0.1951537048666575
+2875,480,Asset Class,ETF
+2876,480,Inception Date,2020-04-29
+2877,480,Security Name,iShares U.S. Insurance ETF
+2878,480,Exchange location,Canada-Toronto
+2879,480,Exchange name,Toronto Stock Exchange
+2880,481,Security Name,U.S. Bancorp Depositary Shares Representing 1/1000th Interest in a Shares Series F
+2881,481,Exchange location,Canada-Toronto
+2882,481,Exchange name,Toronto Stock Exchange
+2883,481,Return Since Inception,0.0131046663199429
+2884,481,Inception Date,
+2885,481,Asset Class,International Equity
+2886,482,Asset Class,International Equity
+2887,482,Return Since Inception,-0.0030327616424017
+2888,482,Security Name,"UBS AG 2X Monthly Leveraged Long Exchnage Traded Access Securities (E-TRACS) linked to the Alerian MLP Infrastructure Index due July 9, 2040 ETN"
+2889,482,Exchange name,Toronto Stock Exchange
+2890,482,Inception Date,2006-02-13
+2891,482,Exchange location,Canada-Toronto
+2892,483,Exchange location,Canada-Toronto
+2893,483,Return Since Inception,
+2894,483,Security Name,"Watsco, Inc. Common Stock"
+2895,483,Inception Date,2016-12-26
+2896,483,Asset Class,International Equity
+2897,483,Exchange name,Toronto Stock Exchange
+2898,484,Security Name,"Benchmark Electronics, Inc. Common Stock"
+2899,484,Asset Class,International Equity
+2900,484,Inception Date,2017-11-23
+2901,484,Return Since Inception,
+2902,484,Exchange location,Canada-Toronto
+2903,484,Exchange name,Toronto Stock Exchange
+2904,485,Inception Date,2013-04-02
+2905,485,Return Since Inception,-0.1726728715312959
+2906,485,Security Name,United States 12 Month Natural Gas Fund
+2907,485,Exchange location,Canada-Toronto
+2908,485,Asset Class,ETF
+2909,485,Exchange name,Toronto Stock Exchange
+2910,486,Security Name,WidePoint Corporation Common Stock
+2911,486,Asset Class,
+2912,486,Inception Date,
+2913,486,Exchange location,Canada-Toronto
+2914,486,Return Since Inception,0.496877654098287
+2915,486,Exchange name,Toronto Stock Exchange
+2916,487,Exchange name,Toronto Stock Exchange
+2917,487,Exchange location,Canada-Toronto
+2918,487,Security Name,Santander Consumer USA Holdings Inc. Common Stock
+2919,487,Return Since Inception,0.1759438253980176
+2920,487,Asset Class,Domestic Equity
+2921,487,Inception Date,2007-09-14
+2922,488,Return Since Inception,-0.0338301228184623
+2923,488,Inception Date,2000-04-10
+2924,488,Security Name,iPath Pure Beta Industrial Metals ETN
+2925,488,Exchange location,Canada-Toronto
+2926,488,Exchange name,Toronto Stock Exchange
+2927,488,Asset Class,
+2928,489,Inception Date,
+2929,489,Exchange name,Toronto Stock Exchange
+2930,489,Return Since Inception,-0.2038767386565931
+2931,489,Asset Class,ETF
+2932,489,Exchange location,Canada-Toronto
+2933,489,Security Name,WisdomTree Australia Dividend Index
+2934,490,Exchange name,Toronto Stock Exchange
+2935,490,Inception Date,2006-10-17
+2936,490,Asset Class,ETF
+2937,490,Security Name,SPDR Nuveen Barclays New York Municipal Bond ETF
+2938,490,Return Since Inception,
+2939,490,Exchange location,Canada-Toronto
+2940,491,Security Name,Wyndham Worldwide Corp Common  Stock
+2941,491,Asset Class,
+2942,491,Inception Date,2007-06-17
+2943,491,Exchange location,Canada-Toronto
+2944,491,Exchange name,Toronto Stock Exchange
+2945,491,Return Since Inception,-0.2698776710409977
+2946,492,Return Since Inception,0.0099155501784991
+2947,492,Security Name,Navios Maritime Holdings Inc. Common Stock
+2948,492,Inception Date,2021-01-27
+2949,492,Asset Class,Domestic Equity
+2950,492,Exchange name,Toronto Stock Exchange
+2951,492,Exchange location,Canada-Toronto
+2952,493,Exchange name,Toronto Stock Exchange
+2953,493,Inception Date,2020-02-03
+2954,493,Security Name,Public Storage DEPOSITARY SHS REPSTG % CUMULATIVE PFD SHS BEN INT (SER P)
+2955,493,Exchange location,Canada-Toronto
+2956,493,Return Since Inception,-0.1216068022858532
+2957,493,Asset Class,International Equity
+2958,494,Asset Class,International Equity
+2959,494,Exchange location,Canada-Toronto
+2960,494,Exchange name,Toronto Stock Exchange
+2961,494,Inception Date,2005-04-25
+2962,494,Security Name,DCT Industrial Trust Inc Common Stock
+2963,494,Return Since Inception,-0.2524100371895049
+2964,495,Inception Date,2002-12-31
+2965,495,Asset Class,ETF
+2966,495,Security Name,Direxion Daily Small Cap 1.25X Shares
+2967,495,Exchange name,Toronto Stock Exchange
+2968,495,Exchange location,Canada-Toronto
+2969,495,Return Since Inception,-0.135621001191708
+2970,496,Exchange name,Toronto Stock Exchange
+2971,496,Security Name,"Tanger Factory Outlet Centers, Inc. Common Stock"
+2972,496,Exchange location,Canada-Toronto
+2973,496,Asset Class,Domestic Equity
+2974,496,Inception Date,2021-01-30
+2975,496,Return Since Inception,-0.2418061626365905
+2976,497,Exchange location,Canada-Toronto
+2977,497,Asset Class,Domestic Equity
+2978,497,Security Name,"Barnes Group, Inc. Common Stock"
+2979,497,Inception Date,2020-01-19
+2980,497,Return Since Inception,-0.0729332024332274
+2981,497,Exchange name,Toronto Stock Exchange
+2982,498,Asset Class,International Equity
+2983,498,Inception Date,2000-06-24
+2984,498,Return Since Inception,-0.1698957346338016
+2985,498,Security Name,BorgWarner Inc. Common Stock
+2986,498,Exchange name,Toronto Stock Exchange
+2987,498,Exchange location,Canada-Toronto
+2988,499,Security Name,Blackrock Core Bond Trust Blackrock Core Bond Trust
+2989,499,Inception Date,2004-10-12
+2990,499,Return Since Inception,0.1701325883773869
+2991,499,Exchange location,Canada-Toronto
+2992,499,Asset Class,International Equity
+2993,499,Exchange name,Toronto Stock Exchange
+2994,500,Inception Date,2005-03-28
+2995,500,Security Name,Entergy Corporation Common Stock
+2996,500,Asset Class,Domestic Equity
+2997,500,Return Since Inception,
+2998,500,Exchange name,Toronto Stock Exchange
+2999,500,Exchange location,Canada-Toronto
+3000,501,Return Since Inception,0.4074269885111904
+3001,501,Exchange name,Toronto Stock Exchange
+3002,501,Inception Date,2008-01-29
+3003,501,Asset Class,
+3004,501,Security Name,Calgon Carbon Corporation Common Stock
+3005,501,Exchange location,Canada-Toronto
+3006,502,Exchange location,Canada-Toronto
+3007,502,Exchange name,Toronto Stock Exchange
+3008,502,Inception Date,
+3009,502,Security Name,Clearwater Paper Corporation Common Stock
+3010,502,Return Since Inception,0.0984050654487884
+3011,502,Asset Class,Domestic Equity
+3012,503,Exchange location,Canada-Toronto
+3013,503,Inception Date,2001-01-03
+3014,503,Asset Class,Domestic Equity
+3015,503,Return Since Inception,-0.215620502536458
+3016,503,Exchange name,Toronto Stock Exchange
+3017,503,Security Name,"SunTrust Banks, Inc. Dep Shs repstg 1/4000 Perpetual Pfd Stk Ser A"
+3018,504,Exchange name,Toronto Stock Exchange
+3019,504,Exchange location,Canada-Toronto
+3020,504,Inception Date,2020-10-20
+3021,504,Security Name,CHC Group Ltd. Ordinary Shares
+3022,504,Asset Class,International Equity
+3023,504,Return Since Inception,0.0248002466505428
+3024,505,Inception Date,2010-03-18
+3025,505,Security Name,Mallinckrodt plc Ordinary Shares
+3026,505,Asset Class,Domestic Equity
+3027,505,Return Since Inception,
+3028,505,Exchange location,Canada-Toronto
+3029,505,Exchange name,Toronto Stock Exchange
+3030,506,Exchange name,Toronto Stock Exchange
+3031,506,Security Name,First Trust China AlphaDEX Fund
+3032,506,Exchange location,Canada-Toronto
+3033,506,Return Since Inception,-0.1140707872874942
+3034,506,Asset Class,ETF
+3035,506,Inception Date,2022-07-30
+3036,507,Exchange name,Toronto Stock Exchange
+3037,507,Asset Class,ETF
+3038,507,Return Since Inception,-0.0049518049515976
+3039,507,Inception Date,
+3040,507,Security Name,Vanguard Div Appreciation ETF - DNQ
+3041,507,Exchange location,Canada-Toronto
+3042,508,Exchange name,Toronto Stock Exchange
+3043,508,Inception Date,2011-07-07
+3044,508,Exchange location,Canada-Toronto
+3045,508,Asset Class,International Equity
+3046,508,Security Name,GasLog Ltd. Common Shares
+3047,508,Return Since Inception,
+3048,509,Asset Class,
+3049,509,Security Name,ALPS Sector Dividend Dogs ETF
+3050,509,Return Since Inception,
+3051,509,Exchange name,Toronto Stock Exchange
+3052,509,Exchange location,Canada-Toronto
+3053,509,Inception Date,2004-11-01
+3054,510,Exchange location,Canada-Toronto
+3055,510,Inception Date,2007-04-07
+3056,510,Exchange name,Toronto Stock Exchange
+3057,510,Security Name,PowerShares Financial Preferred
+3058,510,Return Since Inception,0.0893935783240602
+3059,510,Asset Class,ETF
+3060,511,Security Name,BB&T Corporation Common Stock
+3061,511,Return Since Inception,-0.0110895718235334
+3062,511,Exchange name,Toronto Stock Exchange
+3063,511,Inception Date,2021-05-22
+3064,511,Exchange location,Canada-Toronto
+3065,511,Asset Class,Domestic Equity
+3066,512,Exchange name,Toronto Stock Exchange
+3067,512,Exchange location,Canada-Toronto
+3068,512,Return Since Inception,
+3069,512,Asset Class,International Equity
+3070,512,Inception Date,
+3071,512,Security Name,Morgan Stanley Cap Tr V Gtd Cap Secs
+3072,513,Exchange name,Toronto Stock Exchange
+3073,513,Return Since Inception,-0.1108565872372442
+3074,513,Inception Date,2010-09-24
+3075,513,Exchange location,Canada-Toronto
+3076,513,Asset Class,Domestic Equity
+3077,513,Security Name,California Resources Corporation Common Stock
+3078,514,Inception Date,2017-05-28
+3079,514,Exchange location,Canada-Toronto
+3080,514,Exchange name,Toronto Stock Exchange
+3081,514,Asset Class,ETF
+3082,514,Security Name,WisdomTree Managed Futures Strategy Fund
+3083,514,Return Since Inception,-0.0194649345030731
+3084,515,Exchange name,Toronto Stock Exchange
+3085,515,Exchange location,Canada-Toronto
+3086,515,Security Name,Kosmos Energy Ltd. Common Shares
+3087,515,Inception Date,2018-02-09
+3088,515,Return Since Inception,0.0896386359915909
+3089,515,Asset Class,International Equity
+3090,516,Exchange location,Canada-Toronto
+3091,516,Exchange name,Toronto Stock Exchange
+3092,516,Return Since Inception,0.0637641292174475
+3093,516,Inception Date,2002-11-26
+3094,516,Security Name,Nuveen California Select Tax-Free Income Portfolio Common Stock
+3095,516,Asset Class,Domestic Equity
+3096,517,Asset Class,ETF
+3097,517,Security Name,GreenHaven Continuous Commodity Index Fund
+3098,517,Inception Date,2010-12-22
+3099,517,Exchange name,Toronto Stock Exchange
+3100,517,Return Since Inception,-0.0026168688901125
+3101,517,Exchange location,Canada-Toronto
+3102,518,Return Since Inception,-0.1022782029788126
+3103,518,Exchange location,Canada-Toronto
+3104,518,Exchange name,Toronto Stock Exchange
+3105,518,Asset Class,Domestic Equity
+3106,518,Inception Date,
+3107,518,Security Name,"Orbitz Worldwide, Inc. Common Stock"
+3108,519,Exchange location,Canada-Toronto
+3109,519,Inception Date,
+3110,519,Asset Class,Domestic Equity
+3111,519,Security Name,Allstate Corporation Depositary Shares Representing 1/1000th Perpetual Preferred Series E
+3112,519,Return Since Inception,-0.0780915183949553
+3113,519,Exchange name,Toronto Stock Exchange
+3114,520,Exchange name,Deutsche Börse AG
+3115,520,Exchange location,Germany-Frankfurt
+3116,520,Inception Date,2003-01-12
+3117,520,Asset Class,Domestic Equity
+3118,520,Return Since Inception,0.0842542554756737
+3119,520,Security Name,Kennametal Inc. Common Stock
+3120,521,Exchange location,Germany-Frankfurt
+3121,521,Inception Date,2009-03-13
+3122,521,Asset Class,
+3123,521,Security Name,ING GROEP N V PREF CTF 7.3750% Perp Hybrid Cap Secs (Netherlands)
+3124,521,Exchange name,Deutsche Börse AG
+3125,521,Return Since Inception,0.0762370142950464
+3126,522,Return Since Inception,0.1444914831387277
+3127,522,Security Name,KraneShares CSI New China ETF
+3128,522,Exchange name,Deutsche Börse AG
+3129,522,Asset Class,ETF
+3130,522,Exchange location,Germany-Frankfurt
+3131,522,Inception Date,2019-04-23
+3132,523,Return Since Inception,-0.0399323202148147
+3133,523,Exchange name,Deutsche Börse AG
+3134,523,Security Name,"Coeur Mining, Inc. Common Stock"
+3135,523,Exchange location,Germany-Frankfurt
+3136,523,Inception Date,2019-08-29
+3137,523,Asset Class,
+3138,524,Return Since Inception,-0.0223460301137832
+3139,524,Inception Date,2012-07-09
+3140,524,Security Name,UQM TECHNOLOGIES INC Common Stock
+3141,524,Asset Class,International Equity
+3142,524,Exchange location,Germany-Frankfurt
+3143,524,Exchange name,Deutsche Börse AG
+3144,525,Exchange location,Germany-Frankfurt
+3145,525,Security Name,"Evertec, Inc. Common Stock"
+3146,525,Return Since Inception,-0.2329240145043653
+3147,525,Inception Date,2015-03-12
+3148,525,Exchange name,Deutsche Börse AG
+3149,525,Asset Class,International Equity
+3150,526,Exchange name,Deutsche Börse AG
+3151,526,Security Name,"Ashford Hospitality Prime, Inc. Common Stock"
+3152,526,Return Since Inception,0.3986734780998868
+3153,526,Inception Date,2006-02-27
+3154,526,Asset Class,International Equity
+3155,526,Exchange location,Germany-Frankfurt
+3156,527,Return Since Inception,0.2256196995973245
+3157,527,Inception Date,2012-12-30
+3158,527,Asset Class,Domestic Equity
+3159,527,Security Name,RAIT Financial Trust 7.625% Senior Notes due 2024
+3160,527,Exchange name,Deutsche Börse AG
+3161,527,Exchange location,Germany-Frankfurt
+3162,528,Return Since Inception,
+3163,528,Inception Date,2019-02-24
+3164,528,Security Name,"Great Western Bancorp, Inc. Common Stock"
+3165,528,Asset Class,International Equity
+3166,528,Exchange name,Deutsche Börse AG
+3167,528,Exchange location,Germany-Frankfurt
+3168,529,Security Name,ClearBridge Energy MLP Fund Inc. Common Stock
+3169,529,Inception Date,2013-01-06
+3170,529,Exchange name,Deutsche Börse AG
+3171,529,Asset Class,International Equity
+3172,529,Exchange location,Germany-Frankfurt
+3173,529,Return Since Inception,-0.1804756577940889
+3174,530,Exchange location,Saudi Arabia-Riyadh
+3175,530,Exchange name,Saudi Stock Exchange
+3176,530,Inception Date,2022-08-12
+3177,530,Return Since Inception,0.2544607786165666
+3178,530,Asset Class,Domestic Equity
+3179,530,Security Name,"MFA Financial, Inc. 8.00% Senior Notes due 2042"
+3180,531,Asset Class,Domestic Equity
+3181,531,Inception Date,2008-12-18
+3182,531,Exchange name,Saudi Stock Exchange
+3183,531,Return Since Inception,-0.059852254667439
+3184,531,Security Name,Great Northern Iron Ore Properties Common Stock
+3185,531,Exchange location,Saudi Arabia-Riyadh
+3186,532,Asset Class,ETF
+3187,532,Exchange location,Saudi Arabia-Riyadh
+3188,532,Return Since Inception,0.1177332832756983
+3189,532,Security Name,PowerShares Dynamic Food & Beverage
+3190,532,Exchange name,Saudi Stock Exchange
+3191,532,Inception Date,2006-12-11
+3192,533,Exchange name,Saudi Stock Exchange
+3193,533,Return Since Inception,0.3010875861671168
+3194,533,Inception Date,2009-07-12
+3195,533,Security Name,Royal Dutch Shell PLC Royal Dutch Shell American Depositary Shares (Each representing two Class A Ordinary Shares)
+3196,533,Asset Class,Domestic Equity
+3197,533,Exchange location,Saudi Arabia-Riyadh
+3198,534,Security Name,ManpowerGroup Common Stock
+3199,534,Inception Date,2011-12-03
+3200,534,Asset Class,International Equity
+3201,534,Exchange name,Saudi Stock Exchange
+3202,534,Exchange location,Saudi Arabia-Riyadh
+3203,534,Return Since Inception,-0.0180709190412122
+3204,535,Exchange location,Saudi Arabia-Riyadh
+3205,535,Exchange name,Saudi Stock Exchange
+3206,535,Return Since Inception,-0.0275222388710321
+3207,535,Security Name,ProShares Ultra MSCI Mexico Capped IMI
+3208,535,Asset Class,ETF
+3209,535,Inception Date,2000-04-03
+3210,536,Asset Class,International Equity
+3211,536,Exchange location,Saudi Arabia-Riyadh
+3212,536,Security Name,"Santander Holdings USA, Inc. Dep Shs repstg 1/1000 Perp Pfd Ser C"
+3213,536,Return Since Inception,0.3196614548477823
+3214,536,Inception Date,2010-07-10
+3215,536,Exchange name,Saudi Stock Exchange
+3216,537,Return Since Inception,0.1694155095268598
+3217,537,Security Name,Covidien plc. Ordinary Shares (Ireland)
+3218,537,Exchange location,Saudi Arabia-Riyadh
+3219,537,Inception Date,2000-12-18
+3220,537,Asset Class,
+3221,537,Exchange name,Saudi Stock Exchange
+3222,538,Return Since Inception,-0.4559853112425577
+3223,538,Exchange name,Saudi Stock Exchange
+3224,538,Inception Date,2009-04-15
+3225,538,Security Name,Greif Inc. Class A Common Stock
+3226,538,Asset Class,International Equity
+3227,538,Exchange location,Saudi Arabia-Riyadh
+3228,539,Exchange location,Saudi Arabia-Riyadh
+3229,539,Inception Date,2016-09-15
+3230,539,Security Name,Prospect Capital Corporation 6.95% Senior Notes due 2022
+3231,539,Exchange name,Saudi Stock Exchange
+3232,539,Return Since Inception,-0.1614908486877527
+3233,539,Asset Class,Domestic Equity
+3234,540,Exchange name,Saudi Stock Exchange
+3235,540,Exchange location,Saudi Arabia-Riyadh
+3236,540,Return Since Inception,0.0273459905151274
+3237,540,Inception Date,2021-09-09
+3238,540,Security Name,"Krispy Kreme Doughnuts, Inc. Common Stock"
+3239,540,Asset Class,Domestic Equity
+3240,541,Exchange name,Saudi Stock Exchange
+3241,541,Exchange location,Saudi Arabia-Riyadh
+3242,541,Security Name,"Flanigan's Enterprises, Inc. Common Stock"
+3243,541,Inception Date,2009-05-12
+3244,541,Return Since Inception,0.056017642350359
+3245,541,Asset Class,International Equity
+3246,542,Asset Class,ETF
+3247,542,Security Name,Global X Uranium ETF
+3248,542,Return Since Inception,0.027196212366286
+3249,542,Exchange location,Saudi Arabia-Riyadh
+3250,542,Exchange name,Saudi Stock Exchange
+3251,542,Inception Date,2016-12-23
+3252,543,Security Name,Cloud Peak Energy Inc Common Stock
+3253,543,Return Since Inception,-0.1112018519356538
+3254,543,Asset Class,Domestic Equity
+3255,543,Exchange location,Saudi Arabia-Riyadh
+3256,543,Inception Date,2011-07-02
+3257,543,Exchange name,Saudi Stock Exchange
+3258,544,Exchange location,Saudi Arabia-Riyadh
+3259,544,Exchange name,Saudi Stock Exchange
+3260,544,Asset Class,
+3261,544,Inception Date,2019-08-22
+3262,544,Security Name,SPDR S&P 600 Small Cap Growth ETF (based on S&P SmallCap 600 Growth Index --symbol CGK)
+3263,544,Return Since Inception,0.0349213679590819
+3264,545,Return Since Inception,0.138267382121549
+3265,545,Exchange name,Saudi Stock Exchange
+3266,545,Inception Date,2015-07-08
+3267,545,Exchange location,Saudi Arabia-Riyadh
+3268,545,Security Name,PowerShares DB G10 Currency Harvest
+3269,545,Asset Class,ETF
+3270,546,Asset Class,ETF
+3271,546,Inception Date,2009-05-04
+3272,546,Return Since Inception,-0.0479832139020405
+3273,546,Exchange location,Saudi Arabia-Riyadh
+3274,546,Security Name,Nashville Area ETF
+3275,546,Exchange name,Saudi Stock Exchange
+3276,547,Inception Date,2004-11-26
+3277,547,Asset Class,
+3278,547,Exchange location,Saudi Arabia-Riyadh
+3279,547,Exchange name,Saudi Stock Exchange
+3280,547,Security Name,Alamos Gold Inc Ordinary Shares
+3281,547,Return Since Inception,0.2588089910983352
+3282,548,Exchange name,Saudi Stock Exchange
+3283,548,Inception Date,2018-12-26
+3284,548,Asset Class,International Equity
+3285,548,Security Name,UBS AG ETN
+3286,548,Exchange location,Saudi Arabia-Riyadh
+3287,548,Return Since Inception,0.2204372295421941
+3288,549,Inception Date,2019-07-21
+3289,549,Exchange name,Saudi Stock Exchange
+3290,549,Security Name,New Gold Inc.
+3291,549,Return Since Inception,
+3292,549,Exchange location,Saudi Arabia-Riyadh
+3293,549,Asset Class,
+3294,550,Exchange name,Saudi Stock Exchange
+3295,550,Inception Date,2011-01-22
+3296,550,Asset Class,International Equity
+3297,550,Exchange location,Saudi Arabia-Riyadh
+3298,550,Security Name,"Violin Memory, Inc. Common Stock"
+3299,550,Return Since Inception,
+3300,551,Inception Date,2009-10-01
+3301,551,Exchange location,Japan-Tokyo
+3302,551,Asset Class,ETF
+3303,551,Return Since Inception,
+3304,551,Security Name,PowerShares California AMT-Free Municipal Bond Portfolio
+3305,551,Exchange name,Japan Exchange Group
+3306,552,Asset Class,International Equity
+3307,552,Inception Date,2016-07-26
+3308,552,Security Name,Duff & Phelps Global Utility Income Fund Inc. Common Stock
+3309,552,Exchange location,Japan-Tokyo
+3310,552,Return Since Inception,0.1918178375341616
+3311,552,Exchange name,Japan Exchange Group
+3312,553,Return Since Inception,-0.0605406299560818
+3313,553,Security Name,Modine Manufacturing Company Common Stock
+3314,553,Exchange location,Japan-Tokyo
+3315,553,Exchange name,Japan Exchange Group
+3316,553,Asset Class,Domestic Equity
+3317,553,Inception Date,2017-01-27
+3318,554,Inception Date,2008-01-22
+3319,554,Security Name,"Alliance One International, Inc. Common Stock"
+3320,554,Exchange name,Japan Exchange Group
+3321,554,Return Since Inception,
+3322,554,Asset Class,Domestic Equity
+3323,554,Exchange location,Japan-Tokyo
+3324,555,Exchange location,Japan-Tokyo
+3325,555,Exchange name,Japan Exchange Group
+3326,555,Return Since Inception,
+3327,555,Inception Date,2008-01-15
+3328,555,Asset Class,International Equity
+3329,555,Security Name,"Wesco Aircraft Holdings, Inc. Common Stock"
+3330,556,Exchange name,Japan Exchange Group
+3331,556,Return Since Inception,-0.8348281043801397
+3332,556,Asset Class,ETF
+3333,556,Security Name,ProShares UltraShort Gold
+3334,556,Exchange location,Japan-Tokyo
+3335,556,Inception Date,2020-03-25
+3336,557,Exchange name,Japan Exchange Group
+3337,557,Asset Class,International Equity
+3338,557,Security Name,Banco De Chile Banco De Chile ADS
+3339,557,Return Since Inception,-0.2426696684308057
+3340,557,Exchange location,Japan-Tokyo
+3341,557,Inception Date,2006-08-01
+3342,558,Inception Date,2018-03-14
+3343,558,Return Since Inception,0.0447475782230813
+3344,558,Exchange name,Japan Exchange Group
+3345,558,Exchange location,Japan-Tokyo
+3346,558,Security Name,Eli Lilly and Company Common Stock
+3347,558,Asset Class,International Equity
+3348,559,Exchange name,Japan Exchange Group
+3349,559,Inception Date,2001-03-27
+3350,559,Exchange location,Japan-Tokyo
+3351,559,Return Since Inception,-0.118710148075179
+3352,559,Security Name,PowerShares S&P Emerging Markets High Beta Portfolio Exchange Traded Fund
+3353,559,Asset Class,ETF
+3354,560,Inception Date,2006-06-21
+3355,560,Return Since Inception,
+3356,560,Exchange location,Japan-Tokyo
+3357,560,Security Name,iShares Core Long-Term USD Bond ETF
+3358,560,Asset Class,ETF
+3359,560,Exchange name,Japan Exchange Group
+3360,561,Security Name,SPDR Global Dow ETF (based on The Global Dow)
+3361,561,Exchange name,Japan Exchange Group
+3362,561,Asset Class,
+3363,561,Exchange location,Japan-Tokyo
+3364,561,Return Since Inception,-0.0981710868511836
+3365,561,Inception Date,2002-06-21
+3366,562,Asset Class,International Equity
+3367,562,Inception Date,2002-09-29
+3368,562,Exchange name,Japan Exchange Group
+3369,562,Security Name,"Berkshire Hills Bancorp, Inc. Common Stock"
+3370,562,Exchange location,Japan-Tokyo
+3371,562,Return Since Inception,-0.0973452213748267
+3372,563,Exchange location,Japan-Tokyo
+3373,563,Inception Date,2015-12-29
+3374,563,Asset Class,ETF
+3375,563,Return Since Inception,0.1816898987211345
+3376,563,Security Name,iShares U.S. Medical Devices ETF
+3377,563,Exchange name,Japan Exchange Group
+3378,564,Return Since Inception,0.0167575906175017
+3379,564,Exchange location,Japan-Tokyo
+3380,564,Inception Date,2002-05-27
+3381,564,Security Name,"Telephone and Data Systems, Inc. 6.875% Senior Notes due 2059"
+3382,564,Asset Class,Domestic Equity
+3383,564,Exchange name,Japan Exchange Group
+3384,565,Security Name,iShares MSCI BRIC Index Fund
+3385,565,Inception Date,2013-03-14
+3386,565,Exchange location,India-Mumbai
+3387,565,Exchange name,Bombay Stock Exchange
+3388,565,Return Since Inception,-0.4173250050774738
+3389,565,Asset Class,ETF
+3390,566,Asset Class,ETF
+3391,566,Security Name,Direxion Daily Semiconductor Bear 3x Shares
+3392,566,Exchange name,Bombay Stock Exchange
+3393,566,Inception Date,2019-06-08
+3394,566,Exchange location,India-Mumbai
+3395,566,Return Since Inception,
+3396,567,Asset Class,Domestic Equity
+3397,567,Return Since Inception,-0.2411784538939156
+3398,567,Security Name,"USA Compression Partners, LP Common Units Representing Limited Partner Interests"
+3399,567,Exchange location,India-Mumbai
+3400,567,Inception Date,2005-04-30
+3401,567,Exchange name,Bombay Stock Exchange
+3402,568,Inception Date,2000-01-08
+3403,568,Return Since Inception,-0.2459990147714419
+3404,568,Exchange name,Bombay Stock Exchange
+3405,568,Asset Class,International Equity
+3406,568,Exchange location,India-Mumbai
+3407,568,Security Name,Kayne Anderson MLP Investment Company Common Stock
+3408,569,Exchange name,Bombay Stock Exchange
+3409,569,Return Since Inception,0.0335738380435378
+3410,569,Security Name,Ralph Lauren Corporation Common Stock
+3411,569,Exchange location,India-Mumbai
+3412,569,Asset Class,
+3413,569,Inception Date,2010-12-14
+3414,570,Exchange name,Bombay Stock Exchange
+3415,570,Return Since Inception,-0.0069277101292731
+3416,570,Exchange location,India-Mumbai
+3417,570,Asset Class,Domestic Equity
+3418,570,Security Name,Ellsworth Fund Ltd
+3419,570,Inception Date,2004-11-17
+3420,571,Return Since Inception,-0.1669407415688912
+3421,571,Asset Class,International Equity
+3422,571,Exchange name,Bombay Stock Exchange
+3423,571,Inception Date,2009-03-13
+3424,571,Security Name,FMC Corporation Common Stock
+3425,571,Exchange location,India-Mumbai
+3426,572,Exchange name,Bombay Stock Exchange
+3427,572,Exchange location,India-Mumbai
+3428,572,Inception Date,2002-03-25
+3429,572,Security Name,Kilroy Realty Corporation Preferred Stock Series G
+3430,572,Return Since Inception,0.1177695882702986
+3431,572,Asset Class,International Equity
+3432,573,Asset Class,International Equity
+3433,573,Inception Date,2012-08-22
+3434,573,Security Name,PowerShares DB Base Metals Long ETN
+3435,573,Exchange location,India-Mumbai
+3436,573,Return Since Inception,0.3228297564308599
+3437,573,Exchange name,Bombay Stock Exchange
+3438,574,Exchange name,Bombay Stock Exchange
+3439,574,Return Since Inception,-0.2436433228313302
+3440,574,Security Name,AB Svensk Ekportkredit (Swedish Export Credit Corporation) ELEMENTS Linked to the Rogers International Commodity Index - Agriculture Total Return Structured Product
+3441,574,Asset Class,Domestic Equity
+3442,574,Exchange location,India-Mumbai
+3443,574,Inception Date,2016-10-17
+3444,575,Exchange name,Bombay Stock Exchange
+3445,575,Security Name,PowerShares Fundamental Pure Small Growth Portfolio
+3446,575,Return Since Inception,-0.2476697161171913
+3447,575,Inception Date,2020-04-12
+3448,575,Asset Class,ETF
+3449,575,Exchange location,India-Mumbai
+3450,576,Exchange location,Australia-Sydney
+3451,576,Security Name,ProShares Merger ETF
+3452,576,Inception Date,2016-01-23
+3453,576,Asset Class,ETF
+3454,576,Exchange name,Australian Securities Exchange
+3455,576,Return Since Inception,-0.0564752072981667
+3456,577,Exchange location,Australia-Sydney
+3457,577,Asset Class,International Equity
+3458,577,Exchange name,Australian Securities Exchange
+3459,577,Inception Date,2009-07-04
+3460,577,Return Since Inception,0.204346252826809
+3461,577,Security Name,Covance Inc. Common Stock
+3462,578,Inception Date,2022-07-15
+3463,578,Asset Class,ETF
+3464,578,Exchange name,Australian Securities Exchange
+3465,578,Security Name,PowerShares Dynamic Retail
+3466,578,Exchange location,Australia-Sydney
+3467,578,Return Since Inception,
+3468,579,Security Name,SPDR S&P Regional Banking ETF
+3469,579,Asset Class,ETF
+3470,579,Exchange location,Australia-Sydney
+3471,579,Return Since Inception,-0.1719377463886525
+3472,579,Inception Date,2005-04-26
+3473,579,Exchange name,Australian Securities Exchange
+3474,580,Security Name,Solar Capital Ltd. 6.75% Senior Notes due 2042
+3475,580,Asset Class,International Equity
+3476,580,Exchange location,Australia-Sydney
+3477,580,Return Since Inception,0.0823081067462932
+3478,580,Exchange name,Australian Securities Exchange
+3479,580,Inception Date,2016-09-02
+3480,581,Exchange name,Australian Securities Exchange
+3481,581,Security Name,Blackrock New Jersey Municipal Bond Trust
+3482,581,Return Since Inception,
+3483,581,Exchange location,Australia-Sydney
+3484,581,Asset Class,International Equity
+3485,581,Inception Date,2018-07-01
+3486,582,Inception Date,2012-01-06
+3487,582,Return Since Inception,0.3099242317808896
+3488,582,Asset Class,International Equity
+3489,582,Exchange location,Australia-Sydney
+3490,582,Exchange name,Australian Securities Exchange
+3491,582,Security Name,Gastar Exploration 8.625% Series A Cumulative Preferred Stock
+3492,583,Asset Class,ETF
+3493,583,Return Since Inception,-0.0693040725957848
+3494,583,Exchange location,Taiwan-Taipei
+3495,583,Inception Date,2005-06-12
+3496,583,Exchange name,Taiwan Stock Exchange
+3497,583,Security Name,Schwab International Small-Cap Equity ETF
+3498,584,Asset Class,ETF
+3499,584,Exchange name,Taiwan Stock Exchange
+3500,584,Inception Date,2008-06-11
+3501,584,Return Since Inception,-0.1442546926017879
+3502,584,Security Name,Guggenheim BulletShares 2018 Corporate Bond ETF
+3503,584,Exchange location,Taiwan-Taipei
+3504,585,Return Since Inception,-0.2480847497719496
+3505,585,Asset Class,
+3506,585,Exchange location,Taiwan-Taipei
+3507,585,Exchange name,Taiwan Stock Exchange
+3508,585,Security Name,"Cohen & Steers Total Return Realty Fund, Inc. Common Stock"
+3509,585,Inception Date,2011-07-09
+3510,586,Return Since Inception,0.0308885914013475
+3511,586,Exchange location,Taiwan-Taipei
+3512,586,Exchange name,Taiwan Stock Exchange
+3513,586,Security Name,Hersha Hospitality Trust PFD SER B
+3514,586,Asset Class,Domestic Equity
+3515,586,Inception Date,2006-09-23
+3516,587,Inception Date,2022-03-26
+3517,587,Exchange name,Taiwan Stock Exchange
+3518,587,Asset Class,International Equity
+3519,587,Security Name,China Nepstar Chain Drugstore Ltd American Depositary Shares
+3520,587,Exchange location,Taiwan-Taipei
+3521,587,Return Since Inception,-0.3076615763184661
+3522,588,Exchange location,Taiwan-Taipei
+3523,588,Asset Class,International Equity
+3524,588,Exchange name,Taiwan Stock Exchange
+3525,588,Return Since Inception,-0.4666457716685264
+3526,588,Inception Date,
+3527,588,Security Name,Medley Capital Corporation 7.125% Senior Notes due 2019
+3528,589,Asset Class,
+3529,589,Security Name,iShares MSCI Italy Capped Index Fund
+3530,589,Inception Date,2003-10-18
+3531,589,Exchange name,Taiwan Stock Exchange
+3532,589,Exchange location,Taiwan-Taipei
+3533,589,Return Since Inception,-0.0410989070060498
+3534,590,Inception Date,2018-08-21
+3535,590,Asset Class,International Equity
+3536,590,Exchange name,Taiwan Stock Exchange
+3537,590,Return Since Inception,-0.200136213244701
+3538,590,Security Name,Prudential Public Limited Company Common Stock
+3539,590,Exchange location,Taiwan-Taipei
+3540,591,Asset Class,
+3541,591,Exchange name,Taiwan Stock Exchange
+3542,591,Exchange location,Taiwan-Taipei
+3543,591,Security Name,"Credit Suisse Asset Management Income Fund, Inc. Common Stock"
+3544,591,Return Since Inception,-0.1697390051065714
+3545,591,Inception Date,
+3546,592,Security Name,Schwab U.S. Small-Cap ETF
+3547,592,Inception Date,2014-04-26
+3548,592,Exchange location,China-Shenzhen
+3549,592,Return Since Inception,0.0824055267111947
+3550,592,Asset Class,ETF
+3551,592,Exchange name,Shenzhen Stock Exchange
+3552,593,Return Since Inception,0.2111538128805945
+3553,593,Exchange location,China-Shenzhen
+3554,593,Exchange name,Shenzhen Stock Exchange
+3555,593,Security Name,ProShares Short FTSE China 50
+3556,593,Asset Class,ETF
+3557,593,Inception Date,2008-08-05
+3558,594,Security Name,Public Storage Dep Shs Repstg 1/1000th Pfd Sh Ben Int Ser V
+3559,594,Asset Class,International Equity
+3560,594,Exchange name,Shenzhen Stock Exchange
+3561,594,Return Since Inception,0.1733498848454705
+3562,594,Exchange location,China-Shenzhen
+3563,594,Inception Date,2003-10-19
+3564,595,Exchange name,Shenzhen Stock Exchange
+3565,595,Inception Date,2012-07-18
+3566,595,Exchange location,China-Shenzhen
+3567,595,Return Since Inception,-0.1050527751605389
+3568,595,Security Name,Direxion Mid Cap Bull 3X Shares
+3569,595,Asset Class,ETF
+3570,596,Security Name,Eaton Vance Corporation Common Stock
+3571,596,Inception Date,2020-02-18
+3572,596,Exchange location,China-Shenzhen
+3573,596,Asset Class,International Equity
+3574,596,Exchange name,Shenzhen Stock Exchange
+3575,596,Return Since Inception,-0.3722857779354019
+3576,597,Asset Class,Domestic Equity
+3577,597,Return Since Inception,-0.1799501256633009
+3578,597,Security Name,"Cohen & Steers Infrastructure Fund, Inc Common Stock"
+3579,597,Exchange location,China-Shenzhen
+3580,597,Exchange name,Shenzhen Stock Exchange
+3581,597,Inception Date,2007-10-01
+3582,598,Security Name,Tofutti Brands Inc. Common Stock
+3583,598,Asset Class,International Equity
+3584,598,Exchange name,Shenzhen Stock Exchange
+3585,598,Inception Date,2015-08-08
+3586,598,Return Since Inception,-0.1820117859429507
+3587,598,Exchange location,China-Shenzhen
+3588,599,Security Name,"Aflac Incorporated 5.50% Subordinated Debentures due September 15, 2052"
+3589,599,Exchange name,Shenzhen Stock Exchange
+3590,599,Inception Date,2004-12-06
+3591,599,Asset Class,Domestic Equity
+3592,599,Exchange location,China-Shenzhen
+3593,599,Return Since Inception,0.0384503724681198
+3594,600,Exchange name,Shenzhen Stock Exchange
+3595,600,Security Name,Cimarex Energy Co Common Stock
+3596,600,Return Since Inception,-0.2314187688680845
+3597,600,Inception Date,2001-02-08
+3598,600,Exchange location,China-Shenzhen
+3599,600,Asset Class,Domestic Equity
+3600,601,Inception Date,
+3601,601,Security Name,"SunTrust Banks, Inc. Class B Warrant (Expiring November 14, 2018)"
+3602,601,Exchange name,Shenzhen Stock Exchange
+3603,601,Asset Class,
+3604,601,Exchange location,China-Shenzhen
+3605,601,Return Since Inception,-0.1186689380995526
+3606,602,Exchange name,Shenzhen Stock Exchange
+3607,602,Inception Date,2010-08-17
+3608,602,Exchange location,China-Shenzhen
+3609,602,Return Since Inception,-0.139390724951729
+3610,602,Asset Class,ETF
+3611,602,Security Name,iShares iBonds Dec 2016 Corporate ETF
+3612,603,Exchange location,China-Shenzhen
+3613,603,Return Since Inception,-0.2817904049280569
+3614,603,Exchange name,Shenzhen Stock Exchange
+3615,603,Security Name,PowerShares Build America Bond Portfolio
+3616,603,Inception Date,2015-09-28
+3617,603,Asset Class,ETF
+3618,604,Exchange name,B3 Brasil Bolsa Balcão
+3619,604,Inception Date,2013-12-07
+3620,604,Return Since Inception,-0.2120064486327308
+3621,604,Exchange location,Brazil-São Paulo
+3622,604,Asset Class,Domestic Equity
+3623,604,Security Name,"UBS AG Exchange Traded Access Securities (E-TRACS) Daily Long Short VIX ETN due November 30, 2040"
+3624,605,Exchange location,Brazil-São Paulo
+3625,605,Asset Class,Domestic Equity
+3626,605,Security Name,Cott Corporation Common Stock
+3627,605,Inception Date,2015-04-28
+3628,605,Exchange name,B3 Brasil Bolsa Balcão
+3629,605,Return Since Inception,-0.1980724831427678
+3630,606,Inception Date,2003-11-21
+3631,606,Return Since Inception,-0.1790649528092666
+3632,606,Exchange location,Brazil-São Paulo
+3633,606,Asset Class,Domestic Equity
+3634,606,Exchange name,B3 Brasil Bolsa Balcão
+3635,606,Security Name,Guggenheim Build America Bonds Managed Duration Trust Common Shares of Beneficial Interest
+3636,607,Return Since Inception,-0.0534548433374444
+3637,607,Exchange name,B3 Brasil Bolsa Balcão
+3638,607,Security Name,Global X Southeast Asia ETF
+3639,607,Asset Class,ETF
+3640,607,Inception Date,2019-03-02
+3641,607,Exchange location,Brazil-São Paulo
+3642,608,Asset Class,Domestic Equity
+3643,608,Security Name,China New Borun Corporation American Depositary Shares
+3644,608,Return Since Inception,0.1374036093703787
+3645,608,Exchange location,Brazil-São Paulo
+3646,608,Exchange name,B3 Brasil Bolsa Balcão
+3647,608,Inception Date,2012-09-13
+3648,609,Exchange name,B3 Brasil Bolsa Balcão
+3649,609,Exchange location,Brazil-São Paulo
+3650,609,Inception Date,2009-11-26
+3651,609,Asset Class,ETF
+3652,609,Security Name,U.S. Equity High Volatility Put Write Index Fund
+3653,609,Return Since Inception,0.1547343193100319
+3654,610,Exchange name,B3 Brasil Bolsa Balcão
+3655,610,Exchange location,Brazil-São Paulo
+3656,610,Inception Date,2019-04-15
+3657,610,Asset Class,International Equity
+3658,610,Return Since Inception,0.0941495134079683
+3659,610,Security Name,Hecla Mining Company Preferred Stock
+3660,611,Exchange name,B3 Brasil Bolsa Balcão
+3661,611,Security Name,"LRR Energy, L.P. Common Units Representing Limited Partner Interests"
+3662,611,Inception Date,2008-02-02
+3663,611,Asset Class,
+3664,611,Exchange location,Brazil-São Paulo
+3665,611,Return Since Inception,0.0715431672972192
+3666,612,Return Since Inception,-0.2389894895833389
+3667,612,Exchange location,Brazil-São Paulo
+3668,612,Asset Class,International Equity
+3669,612,Exchange name,B3 Brasil Bolsa Balcão
+3670,612,Inception Date,2005-02-03
+3671,612,Security Name,"Zoe's Kitchen, Inc. Common Stock"
+3672,613,Inception Date,2022-12-24
+3673,613,Exchange name,B3 Brasil Bolsa Balcão
+3674,613,Security Name,Columbia Core Bond ETF
+3675,613,Asset Class,ETF
+3676,613,Return Since Inception,
+3677,613,Exchange location,Brazil-São Paulo
+3678,614,Security Name,KB Home Common Stock
+3679,614,Exchange name,Korea Exchange
+3680,614,Return Since Inception,-0.0026665688832666
+3681,614,Asset Class,Domestic Equity
+3682,614,Exchange location,South Korea-Seoul
+3683,614,Inception Date,2004-07-05
+3684,615,Inception Date,2019-07-30
+3685,615,Exchange name,Korea Exchange
+3686,615,Return Since Inception,0.0016135681852913
+3687,615,Exchange location,South Korea-Seoul
+3688,615,Security Name,"Blackrock MuniYield New Jersey Quality Fund, Inc. Common Stock"
+3689,615,Asset Class,International Equity
+3690,616,Security Name,Texas Pacific Land Trust Common Stock
+3691,616,Exchange name,Korea Exchange
+3692,616,Asset Class,International Equity
+3693,616,Return Since Inception,0.065914547393533
+3694,616,Exchange location,South Korea-Seoul
+3695,616,Inception Date,2000-11-18
+3696,617,Exchange location,South Korea-Seoul
+3697,617,Asset Class,International Equity
+3698,617,Inception Date,2018-01-21
+3699,617,Return Since Inception,0.0537890384631936
+3700,617,Exchange name,Korea Exchange
+3701,617,Security Name,Shaw Communications Inc. Common Stock
+3702,618,Inception Date,
+3703,618,Asset Class,International Equity
+3704,618,Security Name,Kansas City Southern Preferred Stock
+3705,618,Exchange location,South Korea-Seoul
+3706,618,Return Since Inception,0.2158185013738517
+3707,618,Exchange name,Korea Exchange
+3708,619,Exchange location,South Korea-Seoul
+3709,619,Return Since Inception,0.2714183083098528
+3710,619,Asset Class,Domestic Equity
+3711,619,Exchange name,Korea Exchange
+3712,619,Inception Date,2015-05-16
+3713,619,Security Name,Federal Signal Corporation Common Stock
+3714,620,Exchange location,South Korea-Seoul
+3715,620,Exchange name,Korea Exchange
+3716,620,Asset Class,ETF
+3717,620,Return Since Inception,0.3622090221261851
+3718,620,Security Name,WBI Large Cap Tactical Value Shares
+3719,620,Inception Date,2004-03-01
+3720,621,Exchange location,South Korea-Seoul
+3721,621,Return Since Inception,-0.126011543770811
+3722,621,Asset Class,International Equity
+3723,621,Security Name,"Alexandria Real Estate Equities, Inc. Pfd Ser E"
+3724,621,Exchange name,Korea Exchange
+3725,621,Inception Date,2012-01-26
+3726,622,Inception Date,2010-11-01
+3727,622,Asset Class,ETF
+3728,622,Exchange location,South Korea-Seoul
+3729,622,Return Since Inception,0.3885703104045032
+3730,622,Exchange name,Korea Exchange
+3731,622,Security Name,Market Vectors MSCI Int'l Qlty
+3732,623,Exchange location,South Korea-Seoul
+3733,623,Security Name,Newcastle Invt Corp New PFD Ser D%
+3734,623,Inception Date,2000-04-26
+3735,623,Return Since Inception,
+3736,623,Asset Class,International Equity
+3737,623,Exchange name,Korea Exchange
+3738,624,Return Since Inception,0.1448079750045463
+3739,624,Security Name,Eaton vance Floating-Rate Income Plus Fund Common Shares of Beneficial Interest
+3740,624,Exchange name,Korea Exchange
+3741,624,Asset Class,Domestic Equity
+3742,624,Inception Date,2001-01-09
+3743,624,Exchange location,South Korea-Seoul
+3744,625,Return Since Inception,-0.0297649758942916
+3745,625,Security Name,"Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,"
+3746,625,Asset Class,Domestic Equity
+3747,625,Exchange location,South Korea-Seoul
+3748,625,Inception Date,2022-10-26
+3749,625,Exchange name,Korea Exchange
+3750,626,Return Since Inception,-0.2394856699941908
+3751,626,Asset Class,Domestic Equity
+3752,626,Security Name,Yadkin Financial Corporation Common Stock
+3753,626,Exchange name,Korea Exchange
+3754,626,Exchange location,South Korea-Seoul
+3755,626,Inception Date,2006-08-31
+3756,627,Return Since Inception,0.2608530800844393
+3757,627,Asset Class,Domestic Equity
+3758,627,Inception Date,2006-12-11
+3759,627,Exchange location,Hong Kong-Hong Kong
+3760,627,Security Name,International Paper Company Common Stock
+3761,627,Exchange name,Hong Kong Stock Exchange
+3762,628,Security Name,Select Medical Holdings Corporation Common Stock
+3763,628,Inception Date,2004-08-02
+3764,628,Exchange location,Hong Kong-Hong Kong
+3765,628,Asset Class,International Equity
+3766,628,Return Since Inception,-0.1726923324951863
+3767,628,Exchange name,Hong Kong Stock Exchange
+3768,629,Inception Date,2011-01-19
+3769,629,Asset Class,Domestic Equity
+3770,629,Exchange location,Hong Kong-Hong Kong
+3771,629,Exchange name,Hong Kong Stock Exchange
+3772,629,Security Name,Glimcher Realty Trust 6.875% Cumulative Redeemable Preferred Shares of Beneficial Interest
+3773,629,Return Since Inception,-0.0953680831339558
+3774,630,Return Since Inception,0.04275931491428
+3775,630,Asset Class,International Equity
+3776,630,Inception Date,2009-08-17
+3777,630,Exchange location,Hong Kong-Hong Kong
+3778,630,Security Name,Hanover Insurance Group Inc
+3779,630,Exchange name,Hong Kong Stock Exchange
+3780,631,Inception Date,2001-10-22
+3781,631,Return Since Inception,-0.0655051902371796
+3782,631,Security Name,"Envision Healthcare Holdings, Inc. Common Stock"
+3783,631,Asset Class,Domestic Equity
+3784,631,Exchange name,Hong Kong Stock Exchange
+3785,631,Exchange location,Hong Kong-Hong Kong
+3786,632,Exchange location,Hong Kong-Hong Kong
+3787,632,Exchange name,Hong Kong Stock Exchange
+3788,632,Return Since Inception,-0.4630015570130757
+3789,632,Asset Class,International Equity
+3790,632,Security Name,Computer Sciences Corporation Common Stock
+3791,632,Inception Date,2000-12-12
+3792,633,Inception Date,2005-12-26
+3793,633,Exchange location,Hong Kong-Hong Kong
+3794,633,Return Since Inception,
+3795,633,Exchange name,Hong Kong Stock Exchange
+3796,633,Asset Class,ETF
+3797,633,Security Name,Global X FTSE Nordic Region ETF
+3798,634,Return Since Inception,-0.4088594629314519
+3799,634,Exchange location,Hong Kong-Hong Kong
+3800,634,Security Name,Aercap Holdings N.V. Ordinary Shares
+3801,634,Inception Date,2003-08-20
+3802,634,Asset Class,Domestic Equity
+3803,634,Exchange name,Hong Kong Stock Exchange
+3804,635,Security Name,"Watts Water Technologies, Inc. Class A Common Stock"
+3805,635,Return Since Inception,0.1442032371384415
+3806,635,Asset Class,Domestic Equity
+3807,635,Inception Date,2013-07-25
+3808,635,Exchange location,Hong Kong-Hong Kong
+3809,635,Exchange name,Hong Kong Stock Exchange
+3810,636,Security Name,Kellogg Company Common Stock
+3811,636,Inception Date,2020-03-12
+3812,636,Exchange location,Hong Kong-Hong Kong
+3813,636,Return Since Inception,-0.1816868371673377
+3814,636,Exchange name,Hong Kong Stock Exchange
+3815,636,Asset Class,Domestic Equity
+3816,637,Asset Class,International Equity
+3817,637,Exchange name,Hong Kong Stock Exchange
+3818,637,Security Name,Questar Corporation Common Stock
+3819,637,Exchange location,Hong Kong-Hong Kong
+3820,637,Return Since Inception,-0.2693373615607812
+3821,637,Inception Date,2020-07-02
+3822,638,Return Since Inception,-0.1213444371890363
+3823,638,Exchange name,Hong Kong Stock Exchange
+3824,638,Security Name,Hewlett-Packard Company Common Stock
+3825,638,Exchange location,Hong Kong-Hong Kong
+3826,638,Asset Class,International Equity
+3827,638,Inception Date,2000-12-08
+3828,639,Exchange name,SIX Swiss Exchange
+3829,639,Exchange location,Switzerland-Zurich
+3830,639,Security Name,Air Lease Corporation Class A Common Stock
+3831,639,Inception Date,2012-12-21
+3832,639,Asset Class,Domestic Equity
+3833,639,Return Since Inception,
+3834,640,Return Since Inception,0.07449883686243
+3835,640,Exchange name,SIX Swiss Exchange
+3836,640,Exchange location,Switzerland-Zurich
+3837,640,Inception Date,2009-09-13
+3838,640,Asset Class,International Equity
+3839,640,Security Name,"Mueller Industries, Inc. Common Stock"
+3840,641,Return Since Inception,-0.0377771782678724
+3841,641,Asset Class,International Equity
+3842,641,Exchange name,SIX Swiss Exchange
+3843,641,Security Name,"Intellicheck Mobilisa, Inc. Common Stock"
+3844,641,Inception Date,2022-02-03
+3845,641,Exchange location,Switzerland-Zurich
+3846,642,Inception Date,2011-10-03
+3847,642,Exchange location,Switzerland-Zurich
+3848,642,Asset Class,ETF
+3849,642,Security Name,WisdomTree International SmallCap Fund
+3850,642,Return Since Inception,0.4213659587417822
+3851,642,Exchange name,SIX Swiss Exchange
+3852,643,Return Since Inception,0.4398317586975598
+3853,643,Asset Class,ETF
+3854,643,Exchange name,SIX Swiss Exchange
+3855,643,Inception Date,2007-10-11
+3856,643,Exchange location,Switzerland-Zurich
+3857,643,Security Name,PowerShares DWA SmallCap Momentum Portfolio
+3858,644,Return Since Inception,0.3533309653089412
+3859,644,Asset Class,Domestic Equity
+3860,644,Exchange name,SIX Swiss Exchange
+3861,644,Inception Date,2006-02-10
+3862,644,Security Name,Lear Corporation Common Stock
+3863,644,Exchange location,Switzerland-Zurich
+3864,645,Asset Class,
+3865,645,Exchange name,SIX Swiss Exchange
+3866,645,Exchange location,Switzerland-Zurich
+3867,645,Return Since Inception,0.1950765025566931
+3868,645,Security Name,LaSalle Hotel Properties 7.50% Series H Cumulative Redeemable Preferred Shares of Beneficial Interest
+3869,645,Inception Date,2006-01-14
+3870,646,Exchange name,SIX Swiss Exchange
+3871,646,Return Since Inception,0.1054120279364372
+3872,646,Security Name,"National Health Investors, Inc. Common Stock"
+3873,646,Inception Date,2007-11-29
+3874,646,Asset Class,International Equity
+3875,646,Exchange location,Switzerland-Zurich
+3876,647,Exchange name,SIX Swiss Exchange
+3877,647,Asset Class,Domestic Equity
+3878,647,Return Since Inception,0.3687058744152596
+3879,647,Security Name,"Equity Lifestyle Properties, Inc. Common Stock"
+3880,647,Inception Date,2003-03-02
+3881,647,Exchange location,Switzerland-Zurich
+3882,648,Exchange name,SIX Swiss Exchange
+3883,648,Exchange location,Switzerland-Zurich
+3884,648,Security Name,Schlumberger N.V. Common Stock
+3885,648,Inception Date,2013-10-15
+3886,648,Return Since Inception,0.1196385488533604
+3887,648,Asset Class,International Equity
+3888,649,Exchange name,SIX Swiss Exchange
+3889,649,Inception Date,2000-11-11
+3890,649,Security Name,"Heritage Insurance Holdings, Inc. Common Stock"
+3891,649,Asset Class,Domestic Equity
+3892,649,Exchange location,Switzerland-Zurich
+3893,649,Return Since Inception,-0.0468330005839975
+3894,650,Exchange name,SIX Swiss Exchange
+3895,650,Exchange location,Switzerland-Zurich
+3896,650,Inception Date,2006-07-30
+3897,650,Asset Class,ETF
+3898,650,Security Name,PowerShares Dynamic Leisure & Entertainment Portfolio
+3899,650,Return Since Inception,-0.3124570999941042
+3900,651,Exchange name,SIX Swiss Exchange
+3901,651,Security Name,CMS Energy Corporation Common Stock
+3902,651,Return Since Inception,
+3903,651,Inception Date,2017-05-16
+3904,651,Asset Class,Domestic Equity
+3905,651,Exchange location,Switzerland-Zurich
+3906,652,Return Since Inception,
+3907,652,Inception Date,2005-04-02
+3908,652,Exchange name,London Stock Exchange
+3909,652,Security Name,First Trust Europe AlphaDEX Fund
+3910,652,Exchange location,United Kingdom-London
+3911,652,Asset Class,
+3912,653,Asset Class,ETF
+3913,653,Inception Date,2000-01-20
+3914,653,Exchange name,London Stock Exchange
+3915,653,Security Name,First Trust Dow Jones STOXX Select Dividend 30 Index Fund
+3916,653,Exchange location,United Kingdom-London
+3917,653,Return Since Inception,-0.1072726537924651
+3918,654,Inception Date,2005-03-12
+3919,654,Security Name,Barron's 400
+3920,654,Asset Class,
+3921,654,Return Since Inception,-0.1742225134661538
+3922,654,Exchange name,London Stock Exchange
+3923,654,Exchange location,United Kingdom-London
+3924,655,Exchange name,London Stock Exchange
+3925,655,Security Name,Sibanye Gold Limited American Depositary Shares (Each representing four ordinary shares)
+3926,655,Asset Class,Domestic Equity
+3927,655,Inception Date,2006-05-26
+3928,655,Exchange location,United Kingdom-London
+3929,655,Return Since Inception,-0.3494347614100119
+3930,656,Exchange location,United Kingdom-London
+3931,656,Security Name,PowerShares DWA Utilities Momentum Portfolio
+3932,656,Asset Class,ETF
+3933,656,Inception Date,2004-11-30
+3934,656,Exchange name,London Stock Exchange
+3935,656,Return Since Inception,0.0631379264019966
+3936,657,Exchange location,United Kingdom-London
+3937,657,Asset Class,
+3938,657,Return Since Inception,-0.1018003586519439
+3939,657,Inception Date,
+3940,657,Security Name,Willis Group Holdings Public Limited (Ireland) Common Stock
+3941,657,Exchange name,London Stock Exchange
+3942,658,Exchange location,United Kingdom-London
+3943,658,Security Name,Market Vectors Unconventional Oil & Gas ETF
+3944,658,Return Since Inception,0.1850347006286225
+3945,658,Inception Date,2011-03-23
+3946,658,Exchange name,London Stock Exchange
+3947,658,Asset Class,ETF
+3948,659,Return Since Inception,0.1606686158084642
+3949,659,Asset Class,ETF
+3950,659,Exchange name,London Stock Exchange
+3951,659,Exchange location,United Kingdom-London
+3952,659,Inception Date,2002-02-04
+3953,659,Security Name,Guggenheim China Small Cap Index ETF
+3954,660,Exchange location,United Kingdom-London
+3955,660,Security Name,Fortress Investment Group LLC Class A Common Stock
+3956,660,Exchange name,London Stock Exchange
+3957,660,Asset Class,Domestic Equity
+3958,660,Return Since Inception,-0.0177694618620789
+3959,660,Inception Date,2010-02-26
+3960,661,Asset Class,Domestic Equity
+3961,661,Security Name,Embotelladora Andina S.A. Common Stock
+3962,661,Return Since Inception,0.3109174341431974
+3963,661,Exchange location,United Kingdom-London
+3964,661,Inception Date,2007-01-09
+3965,661,Exchange name,London Stock Exchange
+3966,662,Exchange name,London Stock Exchange
+3967,662,Asset Class,Domestic Equity
+3968,662,Security Name,"Aoxing Pharmaceutical Company, Inc. New Common Stock"
+3969,662,Exchange location,United Kingdom-London
+3970,662,Inception Date,2003-08-30
+3971,662,Return Since Inception,-0.0653789561002039
+3972,663,Return Since Inception,0.1721785022967386
+3973,663,Inception Date,2015-04-29
+3974,663,Exchange name,London Stock Exchange
+3975,663,Security Name,"Nuveen Select Quality Municipal Fund, Inc. Common Stock"
+3976,663,Asset Class,
+3977,663,Exchange location,United Kingdom-London
+3978,664,Asset Class,ETF
+3979,664,Exchange location,United Kingdom-London
+3980,664,Security Name,iShares North American Natural Resources ETF
+3981,664,Exchange name,London Stock Exchange
+3982,664,Inception Date,2019-10-26
+3983,664,Return Since Inception,-0.194870943176933
+3984,665,Exchange name,London Stock Exchange
+3985,665,Asset Class,Domestic Equity
+3986,665,Exchange location,United Kingdom-London
+3987,665,Inception Date,2004-09-23
+3988,665,Security Name,Centrais Elc Braz Pfb B Elbras American Depositary Shares
+3989,665,Return Since Inception,0.1473331661342606
+3990,666,Inception Date,2022-06-10
+3991,666,Security Name,Textainer Group Holdings Limited Common Shares
+3992,666,Exchange location,United Kingdom-London
+3993,666,Asset Class,Domestic Equity
+3994,666,Return Since Inception,-0.0532634074720687
+3995,666,Exchange name,London Stock Exchange
+3996,667,Security Name,"Constellation Brands, Inc. Common Stock"
+3997,667,Inception Date,2022-03-08
+3998,667,Exchange location,India-Mumbai
+3999,667,Asset Class,Domestic Equity
+4000,667,Exchange name,National Stock Exchange
+4001,667,Return Since Inception,0.2774985578448515
+4002,668,Exchange location,India-Mumbai
+4003,668,Asset Class,International Equity
+4004,668,Return Since Inception,-0.0229496437224265
+4005,668,Inception Date,2006-11-09
+4006,668,Exchange name,National Stock Exchange
+4007,668,Security Name,Northrop Grumman Corporation Common Stock
+4008,669,Asset Class,
+4009,669,Return Since Inception,0.1662310789186411
+4010,669,Exchange name,National Stock Exchange
+4011,669,Inception Date,2018-07-20
+4012,669,Security Name,"Apollo Global Management, LLC Class A Common Shares Representing Class A Limitied Liability Company Interests"
+4013,669,Exchange location,India-Mumbai
+4014,670,Return Since Inception,-0.3300810533517668
+4015,670,Inception Date,2010-01-25
+4016,670,Exchange location,India-Mumbai
+4017,670,Security Name,Evercore Partners Inc Class A Common Stock
+4018,670,Exchange name,National Stock Exchange
+4019,670,Asset Class,Domestic Equity
+4020,671,Security Name,Humana Inc. Common Stock
+4021,671,Asset Class,Domestic Equity
+4022,671,Return Since Inception,-0.1901500362080849
+4023,671,Exchange location,India-Mumbai
+4024,671,Inception Date,2012-07-13
+4025,671,Exchange name,National Stock Exchange
+4026,672,Return Since Inception,0.0551965856363812
+4027,672,Asset Class,International Equity
+4028,672,Exchange location,India-Mumbai
+4029,672,Inception Date,2012-07-06
+4030,672,Exchange name,National Stock Exchange
+4031,672,Security Name,Public Storage Depositary Shares Representing 1/1000th Cumulative Preferred Shares Beneficial Interest Series X
+4032,673,Asset Class,International Equity
+4033,673,Inception Date,2010-06-04
+4034,673,Exchange name,National Stock Exchange
+4035,673,Exchange location,India-Mumbai
+4036,673,Security Name,Danaher Corporation Common Stock
+4037,673,Return Since Inception,-0.4924541221596232
+4038,674,Inception Date,2015-01-24
+4039,674,Exchange name,National Stock Exchange
+4040,674,Return Since Inception,-0.0949714891534613
+4041,674,Asset Class,ETF
+4042,674,Exchange location,India-Mumbai
+4043,674,Security Name,PowerShares Global Emerging Markets Infrastructure
+4044,675,Inception Date,2009-01-24
+4045,675,Exchange name,National Stock Exchange
+4046,675,Return Since Inception,-0.2228479064046156
+4047,675,Asset Class,International Equity
+4048,675,Exchange location,India-Mumbai
+4049,675,Security Name,"Tengasco, Inc. Common Stock"
+4050,676,Exchange name,National Stock Exchange
+4051,676,Exchange location,India-Mumbai
+4052,676,Inception Date,2019-02-09
+4053,676,Asset Class,International Equity
+4054,676,Security Name,"Goldman Sachs Group, Inc. (The) Depositary Shares each representing 1/1000th Interest in a Share of Floating Rate Non-Cumulative Preferred Stock Series A"
+4055,676,Return Since Inception,
