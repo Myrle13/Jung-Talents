@@ -1,5 +1,5 @@
 # Jung-Talents
-This include 3 tasks for different skills including SQL, Tableau, Python.
+This include 3 tasks for different skills including SQL, Tableau, Python, PowerBI
 ## Part 1:
 This load is a multi-step process, firstly identifying valid securites, then uploading attributes for these, and then answering questions provided by the client. Securities may not be valid for numerous reasons such as no longer being traded on an exchange, and we are unable to load these securities. 
 
