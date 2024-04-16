@@ -39,7 +39,7 @@ Are there any key trends in the data which can help me avoid default-prone custo
 https://public.tableau.com/app/profile/nhu.mai.nguyen/viz/Keytrendspaymentcode/Paymentcodespent
 2. SQL
 The business would like to understand what the overlap is between 2018 payment totals for their biggest clients and the rank of the overall payment totals within each entity. Note defaults do not count as payments. 
-Please provide a csv containing the client IDs for 2018's top 20 clients when sorted on payment amount, as well as the entity type, 2018's total payment amount, and their overall (across all years) payment amount rank within the entity they belong to. Also include your SQL code. 
+Please provide a csv containing the client IDs for 2018's top 20 clients when sorted on payment amount, as well as the entity type, 2018's total payment amount, and their overall (across all years) payment amount rank within the entity they belong to. 
 
 
 
